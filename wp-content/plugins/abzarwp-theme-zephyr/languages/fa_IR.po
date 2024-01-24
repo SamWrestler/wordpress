@@ -1,0 +1,6021 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zephyr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-05 16:32+0430\n"
+"PO-Revision-Date: 2020-08-09 10:39+0430\n"
+"Last-Translator: Mahdi Akrami <info@akrami.pro>\n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;_n;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/functions/demo-import.php:23 admin/functions/demo-import.php:24
+msgid "Demo Import"
+msgstr "درون ریزی دمو"
+
+#: admin/functions/demo-import.php:52
+#, php-format
+msgid ""
+"Some of demo data may be imported incorrectly, because you are using "
+"outdated %s version. %sUpdate the theme%s to import demos without possible "
+"issues."
+msgstr ""
+"بخش هایی از اطلاعات دمو ممکن است ناقص درون ریزی شود. زیرا شما از ورژن قدیمی "
+"%s استفاده می کنید.  %s بروزرسانی پوسته را از ابزار وردپرس دریافت نموده %s و "
+"دمو را درون ریزی کنید."
+
+#: admin/functions/demo-import.php:62
+msgid "Choose the demo for import"
+msgstr "لطفا دمویی را برای درونریزی وارد کنید"
+
+#: admin/functions/demo-import.php:65
+msgid ""
+"The images used in live demos will be replaced by placeholders due to "
+"copyright/license reasons."
+msgstr ""
+"تصاویر استفاده شده در دموهای زنده به دلیل قانون کپی رایت درونریزی نمی شوند."
+
+# به نظرم این عبارت مخصوصا اینجوری ترجمه شده، برای همین تغییرش ندادم
+#: admin/functions/demo-import.php:80
+#, php-format
+msgid "<a href=\"%s\">Activate the theme</a> to unlock Demo Import"
+msgstr ""
+"<a href=\"%s\">پوسته فعال می باشد</a>شما می توانید از آن به راحتی استفاده "
+"نمایید"
+
+#: admin/functions/demo-import.php:261
+msgid "Click to choose"
+msgstr "برای انتخاب کلیک کنید"
+
+#: admin/functions/demo-import.php:263
+msgid "View this demo in a new tab"
+msgstr "مشاهده این دمو در تب جدید"
+
+#: admin/functions/demo-import.php:294 admin/functions/demo-import.php:297
+#: admin/functions/demo-import.php:692 config/grid-templates.php:1690
+#: config/grid-templates.php:1779 config/grid-templates.php:1854
+#: config/grid-templates.php:1928 config/grid-templates.php:2000
+#: config/grid-templates.php:2075 config/grid-templates.php:2145
+#: config/grid-templates.php:2243 config/grid-templates.php:2319
+#: config/grid-templates.php:2391 config/grid-templates.php:2471
+#: config/grid-templates.php:2555 config/grid-templates.php:2633
+#: config/grid-templates.php:2728 config/grid-templates.php:2805
+#: config/grid-templates.php:2877 config/grid-templates.php:2954
+#: config/grid-templates.php:3037 config/grid-templates.php:3126
+#: config/theme-options.php:2592 config/theme-options.php:2626
+#: config/theme-options.php:2632 config/theme-options.php:2633
+#: config/theme-options.php:3130 config/widgets.php:151 config/widgets.php:152
+#: functions/post-types.php:24
+msgid "Portfolio"
+msgstr "نمونه کارها"
+
+#: admin/functions/demo-import.php:297 admin/functions/demo-import.php:312
+#, php-format
+msgid "Enable %s module"
+msgstr "فعال کردن ماژول %s"
+
+#: admin/functions/demo-import.php:309 admin/functions/demo-import.php:312
+#: admin/functions/demo-import.php:698 config/theme-options.php:3136
+#: functions/post-types.php:98
+msgid "Testimonials"
+msgstr "نظرات مشتریان"
+
+#: admin/functions/demo-import.php:320 admin/functions/demo-import.php:704
+#: config/elements_misc.php:96 functions/post-types.php:184
+msgctxt "site top area"
+msgid "Headers"
+msgstr "هدر های سایت"
+
+#: admin/functions/demo-import.php:326 admin/functions/demo-import.php:710
+#: config/widgets.php:14 functions/post-types.php:159
+#: plugins-support/js_composer/js_composer.php:1077
+msgid "Grid Layouts"
+msgstr "طرح های شبکه ای"
+
+#: admin/functions/demo-import.php:332 admin/functions/demo-import.php:722
+#: config/elements_misc.php:99 functions/post-types.php:209
+msgid "Content templates"
+msgstr "قالب محتوا"
+
+#: admin/functions/demo-import.php:338 admin/functions/demo-import.php:716
+#: config/elements_misc.php:102 functions/header.php:568
+#: functions/post-types.php:233
+msgid "Page Blocks"
+msgstr "صفحات جدید ( فوتر و ... )"
+
+#: admin/functions/demo-import.php:343 admin/functions/demo-import.php:955
+#: admin/functions/demo-import.php:975 functions/header.php:516
+#: usof/functions/interface.php:8 usof/functions/interface.php:10
+#: usof/functions/interface.php:48
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: admin/functions/demo-import.php:352 admin/functions/demo-import.php:835
+msgid "Shop Products"
+msgstr "محصولات فروشگاه"
+
+#: admin/functions/demo-import.php:367
+msgid "Importing Demo Content..."
+msgstr "در حال درون ریزی محتوا ..."
+
+#: admin/functions/demo-import.php:368
+msgid "Don't close or refresh this page to not interrupt the import."
+msgstr "این برگه را نبندید و رفرش نکنید تا مانع درون ریزی نشوید."
+
+#: admin/functions/demo-import.php:371
+msgid "Import completed"
+msgstr "درونریزی کامل شد"
+
+#: admin/functions/demo-import.php:372
+#, php-format
+msgid ""
+"Just check the result on %syour site%s or start customize via %sTheme Options"
+"%s."
+msgstr ""
+"نتیجه را روی %s سایت خود %s چک کنید و یا از قسمت %s تنظیمات پوسته %s شروع به "
+"سفارشی سازی کنید."
+
+#: admin/functions/demo-import.php:546 admin/functions/demo-import.php:667
+#: admin/functions/demo-import.php:835 admin/functions/demo-import.php:901
+#: admin/functions/demo-import.php:914 admin/functions/demo-import.php:955
+#: admin/functions/demo-import.php:975
+#, php-format
+msgid "Failed to import %s"
+msgstr "درون ریزی با شکست روبه رو شد %s"
+
+#: admin/functions/demo-import.php:547 admin/functions/demo-import.php:668
+#: admin/functions/demo-import.php:836 admin/functions/demo-import.php:902
+#: admin/functions/demo-import.php:915 admin/functions/demo-import.php:956
+#: admin/functions/demo-import.php:976
+msgid "Wrong path to the file or it is missing."
+msgstr "مسیر اشتباه را به فایل XML داده اید یا فایل گم شده است."
+
+#: admin/functions/grid-builder.php:49 config/elements/grid.php:397
+#: config/widgets.php:161 config/widgets.php:211 functions/post-types.php:160
+msgid "Grid Layout"
+msgstr "طرح بندی شبکه ای"
+
+#: admin/functions/grid-builder.php:57
+msgid "Grid Layout Name"
+msgstr "نام طرح شبکه ای"
+
+#: admin/functions/grid-builder.php:67 admin/functions/header-builder.php:198
+#: usof/templates/fields/grid_builder.php:245
+msgid "Export / Import"
+msgstr "درون‌ریزی / برون‌ریزی"
+
+#: admin/functions/grid-builder.php:69
+msgid "Choose Grid Layout Template to start with"
+msgstr "قالب بندی طرح شبکه ای را برای شروع انتخاب کنید"
+
+#: admin/functions/grid-builder.php:107 admin/functions/header-builder.php:242
+#: functions/post-types.php:341 usof/templates/fields/grid_builder.php:71
+#: usof/templates/fields/grid_builder.php:123
+#: usof/templates/fields/grid_builder.php:206
+#: usof/templates/fields/header_builder.php:167
+#: usof/templates/fields/header_builder.php:272
+msgid "Duplicate"
+msgstr "کپی سازی"
+
+#: admin/functions/header-builder.php:180 config/assets.php:591
+#: config/menu-dropdown.php:57 config/meta-boxes.php:39
+#: config/theme-options.php:112 config/theme-options.php:207
+#: config/theme-options.php:303 config/theme-options.php:1106
+#: config/theme-options.php:1191 config/theme-options.php:1268
+#: config/theme-options.php:2809 config/theme-options.php:2888
+#: functions/header.php:566 functions/post-types.php:185
+msgctxt "site top area"
+msgid "Header"
+msgstr "سربرگ"
+
+#: admin/functions/header-builder.php:188
+msgid "Header Name"
+msgstr "نام سربرگ"
+
+#: admin/functions/header-builder.php:200
+msgid "Choose Header template to start with"
+msgstr "قالب بندی سربرگ را برای شروع انتخاب کنید"
+
+#: admin/functions/nav-menu-edit.php:17 config/elements/post_content.php:26
+msgid "Exclude Rows and Columns"
+msgstr "ردیف ها و ستون ها را حذف کنید"
+
+#: admin/functions/nav-menu-edit.php:28
+msgid "Show as Button"
+msgstr "نمایش به عنوان دکمه"
+
+#: admin/functions/optimize-assets.php:611
+msgid "Optimization completed"
+msgstr "بهینه سازی کامل شد"
+
+#: admin/functions/theme-updater.php:176 admin/functions/theme-updater.php:192
+#: admin/functions/theme-updater.php:209
+#, php-format
+msgid "%sActivate the theme%s to update it"
+msgstr "%sفعال کردن پوسته %s برای بروزرسانی خودکار"
+
+#: config/assets.php:140 config/assets.php:175
+#, php-format
+msgid "\"%s\" icons"
+msgstr "\"%s\" آیکن ها"
+
+#: config/assets.php:210 config/elements/cta.php:9
+msgid "ActionBox"
+msgstr "جعبه عملیات"
+
+#: config/assets.php:226 config/elements/image.php:124
+#: config/elements/itext.php:71 config/elements/menu.php:216
+#: plugins-support/js_composer/map/vc_column.php:88
+#: plugins-support/js_composer/map/vc_column_inner.php:80
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: config/assets.php:245 config/elements/btn.php:9
+#: config/elements/cform.php:172 config/elements/cform.php:180
+#: config/elements/cform.php:188 config/elements/cform.php:196
+#: config/elements/cform.php:202 config/elements/cform.php:213
+#: config/elements/cform.php:219 config/elements/cform.php:229
+#: config/elements/cta.php:68 config/elements/cta.php:74
+#: config/elements/cta.php:82 config/elements/cta.php:89
+#: config/elements/cta.php:95 config/elements/cta.php:105
+#: config/elements/cta.php:113 config/elements/cta.php:120
+#: config/elements/cta.php:127 config/elements/cta.php:136
+#: config/elements/cta.php:144 config/elements/cta.php:151
+#: config/elements/cta.php:162 config/elements/post_taxonomy.php:27
+#: config/theme-options.php:2181 usof/templates/fields/grid_builder.php:97
+#: usof/templates/fields/header_builder.php:150
+#: usof/templates/fields/header_builder.php:280
+msgid "Button"
+msgstr "دکمه"
+
+#: config/assets.php:312 config/elements/carousel.php:26
+#: config/elements/carousel.php:36 config/elements/carousel.php:51
+#: config/elements/carousel.php:60 config/elements/carousel.php:72
+#: config/elements/carousel.php:81 config/elements/carousel.php:87
+#: config/elements/carousel.php:95 config/elements/carousel.php:103
+#: config/elements/carousel.php:111 config/elements/carousel.php:118
+#: config/elements/carousel.php:125 config/elements/carousel.php:131
+#: config/elements/carousel.php:139 config/elements/carousel.php:147
+#: config/elements/carousel.php:155 config/elements/carousel.php:163
+msgid "Carousel"
+msgstr "پیمایشگر"
+
+#: config/assets.php:328
+msgid "Charts"
+msgstr "نمودارها"
+
+#: config/assets.php:402 config/elements/counter.php:7
+msgid "Counter"
+msgstr "شمارنده"
+
+#: config/assets.php:415 config/elements/cform.php:48
+#: config/elements/dropdown.php:18 config/elements/grid_filter.php:55
+#: config/elements/grid_filter.php:90 config/elements/grid_filter.php:91
+#: config/elements/menu.php:198 usof/templates/fields/group_param.php:53
+#: usof/templates/fields/group_param.php:54
+#: usof/templates/fields/group_param.php:55
+#: usof/templates/fields/header_builder.php:131
+#: usof/templates/fields/header_builder.php:278
+msgid "Dropdown"
+msgstr "بازشو"
+
+#: config/assets.php:431
+msgid "Forms"
+msgstr "فرم ها"
+
+#: config/assets.php:451 config/elements/flipbox.php:7
+msgid "FlipBox"
+msgstr "باکس چرخشی"
+
+#: config/assets.php:464 config/assets.php:834
+#, php-format
+msgid "%s Maps"
+msgstr "%s نقشه"
+
+#: config/assets.php:477 config/elements/grid.php:115
+msgid "Grid"
+msgstr "شبکه ای"
+
+#: config/assets.php:497 config/elements/grid_filter.php:27
+msgid "Grid Filter"
+msgstr "فیلتر کردن شبکه ای"
+
+#: config/assets.php:514 plugins-support/js_composer/js_composer.php:1108
+#: usof/templates/window_templates.php:37
+msgid "Grid Layout Templates"
+msgstr "قالب های طرح شبکه ای"
+
+#: config/assets.php:551
+msgid "Grid Pagination"
+msgstr "صفحه بندی شبکه ای"
+
+#: config/assets.php:571
+msgid "Grid Popup"
+msgstr "پاپ آپ شبکه ای"
+
+#: config/assets.php:605 plugins-support/js_composer/map/vc_row.php:396
+msgid "Horizontal Parallax"
+msgstr "پارالاکس افقی"
+
+#: config/assets.php:617 config/elements/hwrapper.php:7
+msgid "Horizontal Wrapper"
+msgstr "دربرگیرنده افقی"
+
+#: config/assets.php:635 config/elements/iconbox.php:7
+msgid "IconBox"
+msgstr "باکس آیکون"
+
+#: config/assets.php:668 config/grid-templates.php:1495
+msgid "Image Gallery"
+msgstr "گالری تصویر"
+
+#: config/assets.php:691 config/elements/image_slider.php:7
+#: plugins-support/js_composer/map/vc_row.php:462
+msgid "Image Slider"
+msgstr "اسلایدر تصویر"
+
+#: config/assets.php:720 config/elements/ibanner.php:7
+msgid "Interactive Banner"
+msgstr "بنر تعاملی"
+
+#: config/assets.php:732 config/elements/itext.php:7
+msgid "Interactive Text"
+msgstr "متن تعاملی"
+
+#: config/assets.php:750
+msgid "Popup styles"
+msgstr "استایل های پاپ آپ"
+
+#: config/assets.php:821 config/elements/message.php:6
+msgid "Message Box"
+msgstr "جعبه پیام"
+
+#: config/assets.php:851 config/elements/scroller.php:7
+msgid "Page Scroller"
+msgstr "اسکرول کننده برگه"
+
+#: config/assets.php:864 config/elements/person.php:7
+msgid "Person"
+msgstr "شخص"
+
+#: config/assets.php:876
+msgid "Preloader"
+msgstr "پیش بارگیری"
+
+#: config/assets.php:889
+msgid "Print styles"
+msgstr "استایل های چاپ"
+
+#: config/assets.php:893 config/elements/popup.php:7
+msgid "Popup"
+msgstr "باز شونده (پاپ آپ)"
+
+#: config/assets.php:906 config/elements/add_to_cart.php:9
+#: config/elements/post_author.php:9 config/elements/post_comments.php:9
+#: config/elements/post_content.php:8 config/elements/post_custom_field.php:51
+#: config/elements/post_date.php:14 config/elements/post_image.php:10
+#: config/elements/post_navigation.php:9 config/elements/post_taxonomy.php:11
+#: config/elements/post_title.php:10 config/elements/post_views.php:12
+#: config/elements/product_field.php:9 config/elements/product_gallery.php:7
+#: config/elements/product_ordering.php:7
+msgid "Post Elements"
+msgstr "المان های نوشته"
+
+#: config/assets.php:926 config/elements/post_navigation.php:8
+msgid "Post Prev/Next Navigation"
+msgstr "دکمه های بعدی/قبلی نوشته ها"
+
+#: config/assets.php:938 config/elements/pricing.php:57
+msgid "Pricing Table"
+msgstr "جدول قیمت"
+
+#: config/assets.php:950 config/elements/progbar.php:7
+msgid "Progress Bar"
+msgstr "نوار پیشرفت"
+
+#: config/assets.php:963
+msgid "Scroll events"
+msgstr "رویدادهای پیمایشی"
+
+#: config/assets.php:1006 config/elements/separator.php:7
+msgid "Separator"
+msgstr "جداکننده"
+
+#: config/assets.php:1018 config/elements/sharing.php:7
+msgid "Sharing Buttons"
+msgstr "دکمه های اشتراک گذاری"
+
+#: config/assets.php:1031 config/elements/additional_menu.php:7
+#: usof/templates/fields/header_builder.php:115
+#: usof/templates/fields/header_builder.php:277
+msgid "Simple Menu"
+msgstr "منوی ساده"
+
+#: config/assets.php:1052 config/elements/socials.php:7 config/widgets.php:247
+#: config/widgets.php:248 usof/templates/fields/header_builder.php:142
+#: usof/templates/fields/header_builder.php:279
+msgid "Social Links"
+msgstr "لینک های اجتماعی"
+
+#: config/assets.php:1079 plugins-support/js_composer/map/vc_tta_tour.php:215
+msgid "Vertical Tabs"
+msgstr "تب های عمودی"
+
+#: config/assets.php:1139 plugins-support/js_composer/map/vc_row.php:395
+msgid "Vertical Parallax"
+msgstr "پارالاکس عمودی"
+
+#: config/assets.php:1155 config/elements/vwrapper.php:7
+msgid "Vertical Wrapper"
+msgstr "دربرگیرنده عمودی"
+
+# از اینجا به پایین اسم افکت های رنگیه. به نظر من بهتره که اسم شون در حالت انگیسی نوشته بشه ولی ترجمه هم انجام دادم
+# انتخاب با شما
+#: config/color-schemes.php:13
+msgid "White Pink"
+msgstr "سفید صورتی"
+
+#: config/color-schemes.php:66
+#, fuzzy
+msgid "Night Fire"
+msgstr "آتش شب"
+
+#: config/color-schemes.php:119
+msgid "Purple Pearl"
+msgstr "مروارید بنفش"
+
+# از اینجا به پایین اسم افکت های رنگیه. به نظر من بهتره که اسم شون در حالت انگیسی نوشته بشه ولی ترجمه هم انجام دادم
+# انتخاب با شما
+#: config/color-schemes.php:172
+msgid "Light Pink"
+msgstr "صورتی ملایم"
+
+#: config/color-schemes.php:225
+msgid "Gentle Blue"
+msgstr "آبی ملایم"
+
+#: config/color-schemes.php:278
+msgid "White Azure"
+msgstr "سفید لاجوردی"
+
+#: config/color-schemes.php:328
+msgid "Fresh Mint"
+msgstr "نعنای تازه"
+
+#: config/color-schemes.php:378
+msgid "White Purple"
+msgstr "سفید بنفش"
+
+#: config/color-schemes.php:428
+msgid "White Alizarin"
+msgstr "آلزارین سفید"
+
+#: config/color-schemes.php:478
+msgid "White Sand"
+msgstr "شن سفید"
+
+#: config/color-schemes.php:531
+msgid "White Royal"
+msgstr "سفید سلطنتی"
+
+#: config/color-schemes.php:581
+msgid "Light Tangerine"
+msgstr "نارنجی روشن"
+
+#: config/color-schemes.php:631
+msgid "White Yellow"
+msgstr "سفید زرد"
+
+#: config/color-schemes.php:681
+msgid "White Blue"
+msgstr "سفید آبی"
+
+#: config/color-schemes.php:731 config/elements/person.php:77
+msgid "Black & White"
+msgstr "سیاه و سفید"
+
+#: config/color-schemes.php:781
+msgid "Material Design"
+msgstr "متریال دیزاین"
+
+#: config/color-schemes.php:831
+msgid "Sunny Cocktail"
+msgstr "کوکتل آفتابی"
+
+#: config/color-schemes.php:881
+msgid "Mild Ocean"
+msgstr "اقیانوس معتدل"
+
+#: config/color-schemes.php:931
+msgid "Light Ocean"
+msgstr "اقیانوس روشن"
+
+#: config/color-schemes.php:981
+msgid "Nautical Knot"
+msgstr "گره دریایی"
+
+#: config/color-schemes.php:1031
+msgid "Red Modern"
+msgstr "قرمز مدرن"
+
+#: config/color-schemes.php:1081
+msgid "Midnight Red"
+msgstr "نیمه شب قرمز"
+
+#: config/color-schemes.php:1131
+msgid "Stylish Cyan"
+msgstr "آبی شیک"
+
+#: config/color-schemes.php:1181
+msgid "Coffee Shop"
+msgstr "کافی شاپ"
+
+#: config/color-schemes.php:1232
+msgid "Retro Package"
+msgstr "بسته یکپارچه"
+
+#: config/color-schemes.php:1283
+msgid "Twilight"
+msgstr "گرگ و میش"
+
+#: config/color-schemes.php:1333
+msgid "Grey Turquoise"
+msgstr "فیروزه خاکستری"
+
+#: config/color-schemes.php:1383
+msgid "City Hunter"
+msgstr "شکارچی شهر"
+
+#: config/color-schemes.php:1433
+msgid "Black Gold"
+msgstr "طلای سیاه"
+
+#: config/color-schemes.php:1484
+msgid "Green Darkness"
+msgstr "تاریکی سبز"
+
+#: config/color-schemes.php:1535
+msgid "Wet Stone"
+msgstr "سنگ مرطوب"
+
+#: config/elements/add_to_cart.php:14
+msgid "Show link to cart when adding products"
+msgstr "نمایش لینک به هنگام اضافه کردن محصولات به سبد"
+
+#: config/elements/additional_menu.php:20 config/elements/grid_filter.php:76
+#: config/elements/person.php:56 config/elements/post_navigation.php:14
+#: config/elements/search.php:24 config/theme-options.php:2991
+msgid "Layout"
+msgstr "طرح"
+
+#: config/elements/additional_menu.php:23 config/elements/grid_filter.php:80
+#: config/elements/popup.php:199 config/header-settings.php:57
+msgid "Vertical"
+msgstr "عمودی"
+
+#: config/elements/additional_menu.php:24 config/elements/grid_filter.php:79
+#: config/elements/popup.php:198 config/header-settings.php:56
+msgid "Horizontal"
+msgstr "افقی"
+
+#: config/elements/additional_menu.php:32 config/elements/menu.php:49
+msgid "Spread menu items evenly over the available width"
+msgstr "جدا کردن آیتم های منو به طور مساوی در عرض در دسترس"
+
+#: config/elements/additional_menu.php:38
+msgid "Switch to vertical at screens below"
+msgstr "تغییر به عمودی در زیر صفحه های نمایش"
+
+#: config/elements/additional_menu.php:39
+#: config/elements/additional_menu.php:60
+#: config/elements/additional_menu.php:67
+#: config/elements/additional_menu.php:77
+#: config/elements/additional_menu.php:158 config/elements/carousel.php:55
+#: config/elements/carousel.php:76 config/elements/carousel.php:159
+#: config/elements/cform.php:260 config/elements/counter.php:14
+#: config/elements/counter.php:20 config/elements/grid.php:459
+#: config/elements/grid.php:502 config/elements/grid.php:511
+#: config/elements/hwrapper.php:42 config/elements/popup.php:115
+#: config/elements/separator.php:27 config/elements/separator.php:147
+#: config/elements/separator.php:162 config/elements/socials.php:131
+#: config/elements/vwrapper.php:39 config/elements_misc.php:48
+#: config/elements_misc.php:51 config/elements_misc.php:54
+#: config/elements_misc.php:57 config/elements_misc.php:60
+#: config/elements_misc.php:63 config/elements_misc.php:66
+#: config/elements_misc.php:69 config/elements_misc.php:75
+#: config/elements_misc.php:78 config/elements_misc.php:81
+#: config/elements_misc.php:93 plugins-support/js_composer/js_composer.php:898
+#: plugins-support/js_composer/map/vc_column.php:126
+#: plugins-support/js_composer/map/vc_row.php:32
+#: plugins-support/js_composer/map/vc_row.php:167
+#: plugins-support/js_composer/map/vc_row_inner.php:16
+#: usof/templates/fields/icon.php:55
+msgid "Examples:"
+msgstr "مثال ها:"
+
+#: config/elements/additional_menu.php:39
+msgid "Leave blank to enable horizontal scrolling on small screens."
+msgstr "خالی بگذارید برای فعالسازی اسکرول افقی در صفحه های نمایش کوچک."
+
+#: config/elements/additional_menu.php:56
+#: config/elements/additional_menu.php:63
+#: config/elements/additional_menu.php:73
+#: config/elements/additional_menu.php:83
+#: config/elements/additional_menu.php:95
+#: config/elements/additional_menu.php:105
+#: config/elements/additional_menu.php:115
+#: config/elements/additional_menu.php:125
+#: config/elements/additional_menu.php:135
+#: config/elements/additional_menu.php:145
+msgctxt "In menus"
+msgid "Main items"
+msgstr "آیتم های اصلی"
+
+#: config/elements/additional_menu.php:59
+#: config/elements/additional_menu.php:157 config/elements/grid.php:458
+#: config/elements/hwrapper.php:41 config/elements/vwrapper.php:38
+msgid "Gap between Items"
+msgstr "فاصله بین آیتم ها"
+
+#: config/elements/additional_menu.php:66
+msgid "Vertical Indents"
+msgstr "تو رفتگی عمودی"
+
+#: config/elements/additional_menu.php:76
+msgid "Horizontal Indents"
+msgstr "تو رفتگی افقی"
+
+#: config/elements/additional_menu.php:88
+msgid "Menu Item Background"
+msgstr "پس زمینه آیتم در منو"
+
+#: config/elements/additional_menu.php:98
+msgid "Menu Item Text"
+msgstr "متن آیتم در منو"
+
+#: config/elements/additional_menu.php:108 config/elements/menu.php:128
+msgid "Menu Item Background on hover"
+msgstr "پس زمینه آیتم در منو در حالت شناور"
+
+#: config/elements/additional_menu.php:118 config/elements/menu.php:135
+msgid "Menu Item Text on hover"
+msgstr "متن آیتم در منو در حالت شناور"
+
+#: config/elements/additional_menu.php:128 config/elements/menu.php:102
+#: config/elements/menu.php:115
+msgid "Active Menu Item Background"
+msgstr "پس زمینه آیتم فعال در منو"
+
+#: config/elements/additional_menu.php:138 config/elements/menu.php:109
+#: config/elements/menu.php:122
+msgid "Active Menu Item Text"
+msgstr "متن آیتم فعال در منو"
+
+#: config/elements/additional_menu.php:151
+msgid "Show menu sub items"
+msgstr "نمایش آیتم های فرعی منو"
+
+#: config/elements/additional_menu.php:154
+#: config/elements/additional_menu.php:163
+msgctxt "In menus"
+msgid "Sub items"
+msgstr "آیتم های فرعی"
+
+#: config/elements/breadcrumbs.php:7
+msgid "Breadcrumbs"
+msgstr "مسیر راهنما"
+
+#: config/elements/breadcrumbs.php:8
+msgid "Shows current page location"
+msgstr "محل صفحه فعلی را نشان می دهد"
+
+#: config/elements/breadcrumbs.php:13
+msgid "Homepage Label"
+msgstr "عنوان صفحه اصلی"
+
+#: config/elements/breadcrumbs.php:14
+msgid "Leave blank to hide the homepage link"
+msgstr "برای پنهان سازی لینک صفحه اصلی، خالی بگذارید"
+
+#: config/elements/breadcrumbs.php:20
+msgid "Show current page"
+msgstr "نمایش صفحه کنونی"
+
+#: config/elements/breadcrumbs.php:35 config/elements/post_taxonomy.php:45
+msgid "Separator between items"
+msgstr "جداسازی میان آیتم ها"
+
+#: config/elements/breadcrumbs.php:38 config/elements/btn.php:91
+#: config/elements/cart.php:18 config/elements/cform.php:138
+#: config/elements/cform.php:216 config/elements/cta.php:92
+#: config/elements/cta.php:147 config/elements/dropdown.php:67
+#: config/elements/flipbox.php:79 config/elements/iconbox.php:15
+#: config/elements/message.php:30 config/elements/popup.php:96
+#: config/elements/post_author.php:81 config/elements/post_comments.php:64
+#: config/elements/post_custom_field.php:12
+#: config/elements/post_custom_field.php:140 config/elements/post_date.php:51
+#: config/elements/post_taxonomy.php:79 config/elements/post_views.php:17
+#: config/elements/search.php:96 config/elements/separator.php:95
+#: config/elements/text.php:63 config/meta-boxes.php:239
+#: plugins-support/js_composer/map/vc_tta_accordion.php:121
+#: plugins-support/js_composer/map/vc_tta_section.php:66
+msgid "Icon"
+msgstr "ایکون"
+
+#: config/elements/breadcrumbs.php:39
+msgid "Custom symbol"
+msgstr "نماد سفارشی"
+
+#: config/elements/btn.php:17 config/elements/cform.php:169
+#: config/elements/cta.php:65 config/elements/cta.php:116
+#: config/elements/flipbox.php:249 config/elements/grid.php:363
+#: config/elements/popup.php:40 config/elements/pricing.php:110
+#: config/theme-options.php:786
+msgid "Button Label"
+msgstr "لیبل دکمه"
+
+#: config/elements/btn.php:19 config/elements/cta.php:67
+#: config/elements/cta.php:118 config/elements/dropdown.php:31
+#: config/elements/flipbox.php:251 config/elements/popup.php:42
+msgid "Click Me"
+msgstr "کلیک کنید"
+
+#: config/elements/btn.php:28 config/elements/grid.php:525
+#: config/elements/post_author.php:19 config/elements/post_custom_field.php:93
+#: config/elements/post_image.php:20 config/elements/post_taxonomy.php:55
+#: config/elements/post_title.php:20
+msgid "To a Post"
+msgstr "به یک نوشته"
+
+#: config/elements/btn.php:29 config/elements/post_custom_field.php:94
+#: config/elements/text.php:32
+msgid "Use the element value as link"
+msgstr "استفاده از مقدار المان به عنوان لینک"
+
+#: config/elements/btn.php:30 config/elements/image.php:87
+#: config/elements/post_custom_field.php:95
+msgid "Onclick JavaScript action"
+msgstr "رویداد JavaScript  هنگام کلیک کردن"
+
+#: config/elements/btn.php:33 config/elements/counter.php:33
+#: config/elements/flipbox.php:84 config/elements/grid.php:495
+#: config/elements/image.php:90 config/elements/post_author.php:20
+#: config/elements/post_comments.php:41
+#: config/elements/post_custom_field.php:98 config/elements/post_date.php:38
+#: config/elements/post_image.php:24 config/elements/post_image.php:79
+#: config/elements/post_taxonomy.php:57 config/elements/post_title.php:23
+#: config/elements/separator.php:21 config/elements/text.php:35
+#: config/grid-settings.php:34 config/grid-settings.php:73
+#: config/menu-dropdown.php:16 plugins-support/js_composer/map/vc_row.php:95
+#: plugins-support/js_composer/map/vc_row.php:139
+#: plugins-support/js_composer/map/vc_video.php:72
+msgid "Custom"
+msgstr "سفارشی"
+
+#: config/elements/btn.php:72 config/elements/cform.php:200
+#: config/elements/grid.php:387
+msgid "Stretch to the full width"
+msgstr "کشیده شدن تا عرض کامل موجود"
+
+#: config/elements/btn.php:78 config/theme-options.php:715
+msgid "Button Position"
+msgstr "مکان دکمه"
+
+#: config/elements/btn.php:96 config/elements/cform.php:222
+#: config/elements/cta.php:98 config/elements/cta.php:154
+#: config/elements/flipbox.php:151 config/elements/iconbox.php:67
+#: config/elements/popup.php:103
+#: plugins-support/js_composer/map/vc_tta_accordion.php:135
+#: plugins-support/js_composer/map/vc_tta_section.php:73
+msgid "Icon Position"
+msgstr "مکان آیکون"
+
+#: config/elements/carousel.php:27 config/elements/grid.php:116
+msgid "List of images, posts, pages or any custom post types"
+msgstr "فهرستی از نوشته ها، برگه ها و پست تایپ های دلخواه"
+
+#: config/elements/carousel.php:34 config/elements/grid.php:541
+#: config/elements/image_slider.php:18
+msgid "Prev/Next arrows"
+msgstr "پیکان های بعدی/قبلی"
+
+#: config/elements/carousel.php:39
+msgid "Arrows Style"
+msgstr "استایل پیکان ها"
+
+#: config/elements/carousel.php:44
+msgid "Circles"
+msgstr "دایره"
+
+#: config/elements/carousel.php:45
+msgid "Full height blocks"
+msgstr "بلوک تمام عرض"
+
+#: config/elements/carousel.php:54
+msgid "Arrows Size"
+msgstr "اندازه پیکان ها"
+
+#: config/elements/carousel.php:63
+msgid "Arrows Position"
+msgstr "مکان پیکان ها"
+
+#: config/elements/carousel.php:66
+msgid "Outside"
+msgstr "بیرون"
+
+#: config/elements/carousel.php:67
+msgid "Inside"
+msgstr "داخل"
+
+#: config/elements/carousel.php:75
+msgid "Arrows Offset"
+msgstr "انحراف پیکان ها"
+
+#: config/elements/carousel.php:85
+msgid "Navigation Dots"
+msgstr "نمایش نقطه های ناوبری"
+
+#: config/elements/carousel.php:91
+msgid "First item in the center"
+msgstr "اولین عنصر در مرکز"
+
+#: config/elements/carousel.php:99
+msgid "Slide by several items instead of one"
+msgstr "اسلاید با آیتم های بیشتر از یک"
+
+#: config/elements/carousel.php:107
+msgid "Infinite loop"
+msgstr "حلقه بی نهایت"
+
+#: config/elements/carousel.php:115
+msgid "Auto height (for 1 column only)"
+msgstr "ارتفاع خودکار (فقط برای یک ستون)"
+
+#: config/elements/carousel.php:122
+msgid "Fade transition (for 1 column only)"
+msgstr "محو شدن خودکار (فقط برای یک ستون)"
+
+#: config/elements/carousel.php:129 config/elements/carousel.php:184
+#: config/elements/carousel.php:206 config/elements/carousel.php:228
+#: config/elements/image_slider.php:73
+msgid "Auto Rotation"
+msgstr "چرخش خودکار"
+
+#: config/elements/carousel.php:134 config/elements/image_slider.php:83
+#: plugins-support/js_composer/map/vc_row.php:522
+msgid "Auto Rotation Interval"
+msgstr "فاصله بین چرخش خودکار"
+
+#: config/elements/carousel.php:143
+msgid "Continual Rotation"
+msgstr "چرخش مداوم"
+
+#: config/elements/carousel.php:150 config/elements/image_slider.php:50
+#: plugins-support/js_composer/map/vc_row.php:512
+msgid "Transition Duration"
+msgstr "مدت زمان حرکت"
+
+#: config/elements/carousel.php:158 config/elements/image_slider.php:40
+#: plugins-support/js_composer/map/vc_row.php:499
+msgid "Transition Effect"
+msgstr "افکت انتقال (Transition)"
+
+#: config/elements/carousel.php:159
+msgid "Use timing function"
+msgstr "استفاده از تابع زمان بندی"
+
+#: config/elements/carousel.php:168 config/elements/carousel.php:190
+#: config/elements/carousel.php:212 config/elements/grid.php:591
+#: config/elements/grid.php:608 config/elements/grid.php:625
+#: config/elements/separator.php:139 config/elements/separator.php:154
+msgid "Below screen width"
+msgstr "پهنای صفحه زیر"
+
+#: config/elements/carousel.php:175 config/elements/carousel.php:197
+#: config/elements/carousel.php:219 config/elements/grid.php:599
+#: config/elements/grid.php:616 config/elements/grid.php:633
+msgid "show"
+msgstr "نمایش"
+
+#: config/elements/cart.php:23 config/elements/flipbox.php:95
+#: config/elements/iconbox.php:60 config/elements/menu.php:267
+#: config/elements/search.php:101
+#: plugins-support/js_composer/map/vc_video.php:171
+msgid "Icon Size"
+msgstr "اندازه آیکون"
+
+#: config/elements/cart.php:30 config/elements/menu.php:275
+#: config/elements/search.php:108
+msgid "Icon Size on Tablets"
+msgstr "سایز آیکون در تبلت"
+
+#: config/elements/cart.php:37 config/elements/menu.php:283
+#: config/elements/search.php:116
+msgid "Icon Size on Mobiles"
+msgstr "سایز آیکون در موبایل"
+
+# نمیدونم Badge اینجا چه معنایی میتونه داشته باشه؟
+#: config/elements/cart.php:44
+msgid "Quantity Badge Background"
+msgstr "مقدار پس زمینه نشان"
+
+#: config/elements/cart.php:50
+msgid "Quantity Badge Text"
+msgstr "مقدار متن نشان"
+
+#: config/elements/cart.php:59 config/elements/menu.php:56
+msgid "Stretch to the full available height"
+msgstr "کشیده شدن تا ارتفاع کامل موجود"
+
+#: config/elements/cart.php:63 config/elements/dropdown.php:115
+#: config/elements/menu.php:78
+msgid "Dropdown Effect"
+msgstr "افکت باز شو"
+
+#: config/elements/cform.php:29
+msgid "Contact Form"
+msgstr "فرم تماس"
+
+#: config/elements/cform.php:37
+msgid "Fields"
+msgstr "فیلدها"
+
+#: config/elements/cform.php:45 usof/templates/fields/group_param.php:49
+#: usof/templates/fields/group_param.php:50
+msgid "(single line)"
+msgstr "(خط تک)"
+
+#: config/elements/cform.php:46
+msgid "(multiple lines)"
+msgstr "(خط چندگانه)"
+
+#: config/elements/cform.php:49 config/elements/grid_filter.php:54
+msgid "Checkboxes"
+msgstr "چک باکس"
+
+#: config/elements/cform.php:50 config/elements/grid_filter.php:56
+msgid "Radio buttons"
+msgstr "دکمه های رادیویی"
+
+#: config/elements/cform.php:52
+msgid "Agreement checkbox"
+msgstr "چک باکس توافقنامه"
+
+#: config/elements/cform.php:53
+msgid "Captcha"
+msgstr "کپچا"
+
+#: config/elements/cform.php:60
+msgid "Shown above the field"
+msgstr "نمایش در بالای فیلد"
+
+#: config/elements/cform.php:69
+msgid "Shown below the field"
+msgstr "نمایش در پایین فیلد"
+
+#: config/elements/cform.php:76 config/elements/search.php:12
+msgid "Placeholder"
+msgstr "متن راهنما"
+
+#: config/elements/cform.php:77
+msgid "Shown inside the field"
+msgstr "نمایش داخل فیلد"
+
+#: config/elements/cform.php:84
+msgid "Values"
+msgstr "مقدارها"
+
+#: config/elements/cform.php:85 config/elements/itext.php:15
+msgid "Each value on a new line"
+msgstr "هر مقدار در یک خط جدید"
+
+#: config/elements/cform.php:98
+msgid "Required field"
+msgstr "فیلدهای ضروری"
+
+#: config/elements/cform.php:108
+msgid "Move title on focus"
+msgstr "جابجایی عنوان در حالت فوکوس"
+
+#: config/elements/cform.php:118
+msgid "Use the value of this field as sender' address of emails"
+msgstr "استفاده از مقدار این فیلد به عنوان فرستنده آدرس ایمیل ها"
+
+#: config/elements/cform.php:128
+msgid "Use the value of this field as sender' name of emails"
+msgstr "استفاده از مقدار این فیلد به عنوان فرستنده نام ایمیل ها"
+
+#: config/elements/cform.php:191
+msgid "Size on Mobiles"
+msgstr "اندازه در موبایل ها"
+
+#: config/elements/cform.php:205
+msgid "Button Alignment"
+msgstr "تراز دکمه"
+
+#: config/elements/cform.php:234
+msgid "Receiver Email"
+msgstr "ایمیل دریافت کننده"
+
+#: config/elements/cform.php:235
+msgid ""
+"Requests will be sent to this email. You can insert multiple comma-separated "
+"emails as well."
+msgstr ""
+"درخواست ها به این آدرس ایمیل فرستاده خواهد شد. می توانید چند آدرس ایمیل وارد "
+"کنید (با کاما \"،\" از هم جدا کنید)"
+
+#: config/elements/cform.php:239 config/elements/cform.php:245
+#: config/elements/cform.php:256 config/elements/cform.php:264
+#: config/elements/counter.php:52 config/elements/counter.php:60
+#: config/elements/counter.php:68 config/elements/counter.php:79
+#: config/elements/counter.php:85 config/elements/grid.php:143
+#: config/elements/iconbox.php:114 config/elements/iconbox.php:125
+#: config/elements/iconbox.php:133 config/elements/person.php:69
+#: config/elements/person.php:83 config/elements/person.php:92
+#: config/elements/person.php:99 config/elements/person.php:106
+#: config/elements/person.php:113 config/elements/person.php:120
+#: config/elements/person.php:127 config/elements/person.php:134
+#: config/elements/person.php:141 config/elements/person.php:148
+#: config/elements/post_content.php:67 config/elements/post_content.php:75
+#: config/elements/post_content.php:82 config/elements/post_content.php:90
+#: config/elements/post_content.php:103 config/meta-boxes.php:249
+#: config/theme-options.php:3077
+#: plugins-support/js_composer/map/vc_column_text.php:47
+#: plugins-support/js_composer/map/vc_column_text.php:56
+#: plugins-support/js_composer/map/vc_column_text.php:64
+#: plugins-support/js_composer/map/vc_column_text.php:73
+#: plugins-support/js_composer/map/vc_column_text.php:87
+msgid "More Options"
+msgstr "گزینه های بیشتر"
+
+#: config/elements/cform.php:242
+msgid "Message after sending"
+msgstr "پیام پس از ارسال"
+
+#: config/elements/cform.php:244
+msgid "Thank you! Your message was sent."
+msgstr "متشکریم! پیام شما ارسال شد."
+
+#: config/elements/cform.php:248
+msgid "Fields Layout"
+msgstr "طرح بندی فیلد ها"
+
+#: config/elements/cform.php:259
+msgid "Gap between Fields"
+msgstr "فاصله بین فیلد ها"
+
+#: config/elements/contacts.php:11 config/elements/gmaps.php:11
+#: config/elements/gmaps.php:60 config/widgets.php:93
+msgid "Address"
+msgstr "آدرس"
+
+#: config/elements/contacts.php:16 config/widgets.php:98
+#: migrations/Impreza/us_migration_5_7.php:72
+#: migrations/Impreza/us_migration_5_7.php:79
+#: migrations/Zephyr/us_migration_5_4.php:72
+#: migrations/Zephyr/us_migration_5_4.php:79
+msgid "Phone"
+msgstr "تلفن"
+
+#: config/elements/contacts.php:21 config/widgets.php:103
+msgid "Fax"
+msgstr "فکس"
+
+#: config/elements/counter.php:8
+msgid "Animated number with text"
+msgstr "عدد متحرک با متن"
+
+#: config/elements/counter.php:13
+msgid "Initial counting value"
+msgstr "مقدار شمارشی ابتدایی"
+
+#: config/elements/counter.php:14
+msgid "With all the prefixes, suffixes and decimal marks if needed."
+msgstr "با تمام پیشوند، پسوند و اعشارها در صورت نیاز."
+
+#: config/elements/counter.php:19
+msgid "Final counting value"
+msgstr "مقدار شمارشی پایانی"
+
+#: config/elements/counter.php:20
+msgid "The way it should look like, when the animation ends."
+msgstr "هنگامی که انیمیشن به پایان می رسد، اینطور دیده می شود."
+
+#: config/elements/counter.php:29 config/elements/iconbox.php:23
+#: config/elements/progbar.php:79 config/elements/separator.php:72
+#: config/elements/sharing.php:55
+msgid "Primary (theme color)"
+msgstr "رنگ اصلی پوسته"
+
+#: config/elements/counter.php:30 config/elements/iconbox.php:24
+#: config/elements/progbar.php:80 config/elements/separator.php:73
+#: config/elements/sharing.php:56
+msgid "Secondary (theme color)"
+msgstr "رنگ دوم پوسته"
+
+#: config/elements/counter.php:31 config/elements/progbar.php:81
+msgid "Heading (theme color)"
+msgstr "عنوان (رنگ پوسته)"
+
+#: config/elements/counter.php:32 config/elements/iconbox.php:26
+#: config/elements/progbar.php:82 config/elements/separator.php:71
+#: config/elements/socials.php:82 config/widgets.php:277
+msgid "Text (theme color)"
+msgstr "متن (رنگ پوسته)"
+
+#: config/elements/counter.php:50
+msgid "Projects completed"
+msgstr "پروژه کامل شد"
+
+#: config/elements/counter.php:55 config/elements/cta.php:22
+#: config/elements/flipbox.php:21 config/elements/flipbox.php:172
+#: config/elements/ibanner.php:35 config/elements/iconbox.php:86
+#: config/elements/progbar.php:18
+#: plugins-support/js_composer/map/vc_tta_accordion.php:112
+msgid "Title Size"
+msgstr "اندازه عنوان"
+
+#: config/elements/counter.php:63 config/elements/cta.php:30
+#: config/elements/flipbox.php:30 config/elements/flipbox.php:181
+#: config/elements/ibanner.php:43 config/elements/iconbox.php:94
+#: config/elements/progbar.php:26 config/elements/separator.php:117
+#: plugins-support/js_composer/map/vc_tta_accordion.php:103
+msgid "Title HTML tag"
+msgstr "عنوان تگ HTML"
+
+#: config/elements/counter.php:82 config/elements/flipbox.php:307
+#: config/elements/itext.php:84
+msgid "Animation Duration (in seconds)"
+msgstr "مدت زمان انیمیشن (به ثانیه)"
+
+#: config/elements/cta.php:10
+msgid "Content box with call to action button"
+msgstr "باکس محتوا با دکمه"
+
+#: config/elements/cta.php:47 plugins-support/js_composer/map/vc_row.php:324
+msgid "Primary bg & White text"
+msgstr "بک گراند اصلی و متن سفید"
+
+#: config/elements/cta.php:48 plugins-support/js_composer/map/vc_row.php:325
+msgid "Secondary bg & White text"
+msgstr "بک گراند دوم و متن سفید"
+
+#: config/elements/cta.php:49
+msgid "Alternate bg & Content text"
+msgstr "بک گراند جایگزین و متن محتوا"
+
+#: config/elements/cta.php:54
+msgid "Buttons Location"
+msgstr "موقعیت دکمه ها"
+
+#: config/elements/cta.php:111
+msgid "Display second button"
+msgstr "نمایش دکمه دوم"
+
+#: config/elements/dropdown.php:8
+msgid "Sidebar with Widgets"
+msgstr "سایدبار با ابزارک"
+
+#: config/elements/dropdown.php:29
+msgid "Dropdown Title"
+msgstr "عنوان کشویی"
+
+#: config/elements/dropdown.php:35
+msgid "Dropdown Icon"
+msgstr "آیکون کشویی"
+
+#: config/elements/dropdown.php:41
+msgid "Dropdown Links"
+msgstr "لینک های کشویی"
+
+#: config/elements/dropdown.php:74 config/meta-boxes.php:152
+#: config/theme-options.php:152 config/theme-options.php:246
+#: config/theme-options.php:342 config/theme-options.php:1140
+#: config/theme-options.php:1225 config/theme-options.php:1304
+#: config/theme-options.php:2845 config/theme-options.php:2946
+#: functions/post-types.php:695
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: config/elements/dropdown.php:75
+#, php-format
+msgid "Add or edit Sidebar on the %s page"
+msgstr "سایدبار را در صفحه %s اضافه یا ویرایش کنید"
+
+#: config/elements/dropdown.php:93
+msgid "Open Dropdown"
+msgstr "باز کردن منوی کشویی"
+
+#: config/elements/dropdown.php:96 config/elements/grid_filter.php:120
+#: plugins-support/js_composer/map/vc_tta_tabs.php:70
+#: plugins-support/js_composer/map/vc_tta_tour.php:71
+msgid "On click"
+msgstr "با کلیک"
+
+#: config/elements/dropdown.php:97 config/elements/grid_filter.php:119
+#: plugins-support/js_composer/map/vc_tta_tabs.php:71
+#: plugins-support/js_composer/map/vc_tta_tour.php:72
+msgid "On hover"
+msgstr "در حالت شناور (Hover)"
+
+#: config/elements/dropdown.php:104
+msgid "Dropdown Direction"
+msgstr "جهت کشویی"
+
+#: config/elements/flipbox.php:8
+msgid "Two-sided content element, flipping on hover"
+msgstr "المان با محتوایی در دو طرف، چرخش در حالت شناور (Hover)"
+
+#: config/elements/flipbox.php:16 config/elements/flipbox.php:18
+#: config/elements/flipbox.php:27 config/elements/flipbox.php:36
+#: config/elements/flipbox.php:43 config/elements/flipbox.php:51
+#: config/elements/flipbox.php:60 config/elements/flipbox.php:66
+#: config/elements/flipbox.php:76 config/elements/flipbox.php:87
+#: config/elements/flipbox.php:92 config/elements/flipbox.php:101
+#: config/elements/flipbox.php:113 config/elements/flipbox.php:123
+#: config/elements/flipbox.php:132 config/elements/flipbox.php:139
+#: config/elements/flipbox.php:148 config/elements/flipbox.php:160
+msgid "Front Side"
+msgstr "طرف جلو"
+
+#: config/elements/flipbox.php:46 config/elements/flipbox.php:196
+#: config/grid-settings.php:106 config/menu-dropdown.php:122
+#: config/meta-boxes.php:204
+#: plugins-support/js_composer/map/vc_tta_section.php:84
+#: plugins-support/js_composer/map/vc_video.php:152
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: config/elements/flipbox.php:54 config/elements/flipbox.php:204
+#: config/grid-settings.php:113 config/menu-dropdown.php:130
+#: config/meta-boxes.php:210
+#: plugins-support/js_composer/map/vc_tta_section.php:93
+msgid "Text Color"
+msgstr "رنگ متن"
+
+#: config/elements/flipbox.php:63 config/elements/flipbox.php:213
+#: config/elements_design_options.php:148 config/grid-settings.php:123
+#: config/header-settings.php:355 config/menu-dropdown.php:139
+#: plugins-support/js_composer/map/vc_row.php:334
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: config/elements/flipbox.php:69 config/elements/flipbox.php:219
+#: config/elements_design_options.php:163 config/grid-settings.php:139
+#: config/header-settings.php:364 config/menu-dropdown.php:144
+#: config/theme-options.php:858 plugins-support/js_composer/map/vc_row.php:351
+msgid "Background Image Size"
+msgstr "اندازه عکس پس زمینه"
+
+#: config/elements/flipbox.php:83
+msgid "Font icon"
+msgstr "فونت آیکون"
+
+#: config/elements/flipbox.php:104 config/elements/iconbox.php:33
+msgid "Icon Style"
+msgstr "استایل آیکون"
+
+#: config/elements/flipbox.php:107 config/elements/iconbox.php:36
+#: config/elements/menu.php:63 config/elements/person.php:59
+#: config/elements/pricing.php:67 config/elements/search.php:28
+#: config/elements/sharing.php:30 config/elements/socials.php:106
+#: config/widgets.php:265 plugins-support/js_composer/map/vc_tta_tabs.php:89
+#: plugins-support/js_composer/map/vc_tta_tour.php:90
+msgid "Simple"
+msgstr "ساده"
+
+#: config/elements/flipbox.php:108 config/elements/iconbox.php:37
+msgid "Inside the Solid circle"
+msgstr "داخل دایره توپُر"
+
+#: config/elements/flipbox.php:116 config/elements/iconbox.php:20
+#: config/elements/iconbox.php:44
+#: plugins-support/js_composer/map/vc_video.php:161
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: config/elements/flipbox.php:126 config/elements/iconbox.php:52
+msgid "Icon Circle Color"
+msgstr "رنگ دایره آیکون"
+
+#: config/elements/flipbox.php:154
+msgid "Above Title"
+msgstr "عنوان بالا"
+
+#: config/elements/flipbox.php:155
+msgid "Below Title"
+msgstr "عنوان پایین"
+
+#: config/elements/flipbox.php:156
+msgid "Below Description"
+msgstr "توضیحات پایین"
+
+#: config/elements/flipbox.php:167 config/elements/flipbox.php:169
+#: config/elements/flipbox.php:178 config/elements/flipbox.php:187
+#: config/elements/flipbox.php:193 config/elements/flipbox.php:201
+#: config/elements/flipbox.php:210 config/elements/flipbox.php:216
+#: config/elements/flipbox.php:226
+msgid "Back Side"
+msgstr "طرف پشت"
+
+#: config/elements/flipbox.php:236
+msgid "The whole element"
+msgstr "المان کامل"
+
+#: config/elements/flipbox.php:237
+msgid "Button on the Back Side"
+msgstr "دکمه در طرف پشت"
+
+#: config/elements/flipbox.php:257 config/elements/grid.php:370
+#: config/elements/popup.php:49 config/elements/pricing.php:127
+msgid "Button Size"
+msgstr "اندازه دکمه"
+
+#: config/elements/flipbox.php:266 config/elements/grid.php:378
+#: config/elements/popup.php:58 config/elements/post_taxonomy.php:33
+#: config/elements/pricing.php:120 config/theme-options.php:703
+#: config/theme-options.php:792
+msgid "Button Style"
+msgstr "استایل  دکمه"
+
+#: config/elements/flipbox.php:277 config/elements/ibanner.php:78
+#: config/elements/popup.php:190
+msgid "Animation Type"
+msgstr "نوع انیمیشن"
+
+#: config/elements/flipbox.php:280
+msgid "Card Flip"
+msgstr "کارت چرخشی"
+
+#: config/elements/flipbox.php:281
+msgid "Cube Tilt"
+msgstr "شیب مکعب"
+
+#: config/elements/flipbox.php:282
+msgid "Cube Flip"
+msgstr "چرخش مکعب"
+
+#: config/elements/flipbox.php:283
+msgid "Cover Open"
+msgstr "پوشش باز"
+
+#: config/elements/flipbox.php:290
+msgid "Animation Direction"
+msgstr "جهت انیمیشن"
+
+#: config/elements/flipbox.php:314 config/elements/ibanner.php:95
+msgid "Animation Easing"
+msgstr "کاهش سرعت انیمیشن (Easing)"
+
+#: config/elements/gmaps.php:6
+msgid "Map"
+msgstr "نقشه"
+
+#: config/elements/gmaps.php:12 config/elements/gmaps.php:61
+msgid ""
+"Specify address in accordance with the format used by the national postal "
+"service of the country concerned."
+msgstr "آدرس دقیق پستی را وارد کنید."
+
+#: config/elements/gmaps.php:12 config/elements/gmaps.php:61
+#, php-format
+msgid "Or use geo coordinates, for example: %s"
+msgstr "یا از مختصات جغرافیایی استفاده کنید، به عنوان مثال: %s"
+
+#: config/elements/gmaps.php:18 config/elements/gmaps.php:67
+msgid "Marker Text"
+msgstr "متن نشانگذار"
+
+#: config/elements/gmaps.php:19 config/elements/gmaps.php:68
+msgid "HTML tags are allowed."
+msgstr "محتوای مورد نظرتان را وارد کنید. HTML مجاز است."
+
+#: config/elements/gmaps.php:27
+msgid "Show Marker Text when map is loaded"
+msgstr "نمایش متن نشانگذار هنگامی که نقشه بارگذاری شد"
+
+#: config/elements/gmaps.php:31 config/elements/gmaps.php:74
+msgid "Custom Marker Image"
+msgstr "تصویر نشانگذار سفارشی"
+
+#: config/elements/gmaps.php:37 config/elements/gmaps.php:80
+msgid "Marker Image Size"
+msgstr "اندازه تصویر نشانگذار"
+
+#: config/elements/gmaps.php:96
+msgid "Additional Markers"
+msgstr "نشانگذارهای اضافی"
+
+#: config/elements/gmaps.php:101
+msgid "Map Provider"
+msgstr "ارائه دهنده نقشه"
+
+#: config/elements/gmaps.php:104
+msgid "Google Maps"
+msgstr "نقشه های گوگل"
+
+#: config/elements/gmaps.php:111
+msgid "Map Zoom"
+msgstr "بزرگنمایی نقشه"
+
+#: config/elements/gmaps.php:140
+msgid "Map Type"
+msgstr "نوع نقشه"
+
+#: config/elements/gmaps.php:143
+msgid "Roadmap"
+msgstr "نقشه راه ها"
+
+#: config/elements/gmaps.php:144
+msgid "Roadmap + Terrain"
+msgstr "نقشه راه ها + زمینه"
+
+#: config/elements/gmaps.php:145
+msgid "Satellite"
+msgstr "نقشه ماهواره ای"
+
+#: config/elements/gmaps.php:146
+msgid "Satellite + Roadmap"
+msgstr "نقشه ماهواره ای + راه ها"
+
+#: config/elements/gmaps.php:155
+msgid "Hide all map controls"
+msgstr "پنهان کردن همه دکمه های کنترل نقشه"
+
+#: config/elements/gmaps.php:161
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr "غیرفعال کردن زوم نقشه هنگام اسکرول ماوس"
+
+#: config/elements/gmaps.php:167
+msgid "Disable dragging on touch screens"
+msgstr "لغو کشیدن (dragging) در صفحات لمسی"
+
+#: config/elements/gmaps.php:172 config/elements/gmaps.php:180
+msgid "Map Style"
+msgstr "استایل نقشه"
+
+#: config/elements/gmaps.php:173 config/elements/gmaps.php:181
+#, php-format
+msgid "Check available styles on %s."
+msgstr "بررسی استایل های در دسترس در %s."
+
+#: config/elements/gmaps.php:181
+#, php-format
+msgid "Example: %s"
+msgstr "مثال ها: %s"
+
+#: config/elements/grid.php:36 config/elements/grid_filter.php:32
+msgid "Filter by"
+msgstr "فیلتر کردن بر اساس %s"
+
+#: config/elements/grid.php:62
+#, php-format
+msgid "Show Items of selected %s"
+msgstr "نمایش آیتم های انتخاب شده‌ی %s"
+
+#: config/elements/grid.php:124
+msgid "Total views"
+msgstr "مجموع بازدید ها"
+
+#: config/elements/grid.php:125
+msgid "Views for last month"
+msgstr "بازدید ها برای ماه گذشته"
+
+#: config/elements/grid.php:126
+msgid "Views for last week"
+msgstr "بازدید ها برای هفته گذشته"
+
+#: config/elements/grid.php:127
+msgid "Views for last day"
+msgstr "بازدید ها برای روز گذشته"
+
+#: config/elements/grid.php:145
+msgid "Items with the same taxonomy of current post"
+msgstr "آیتم ها با طبقه بندی مشابه با نوشته جاری"
+
+#: config/elements/grid.php:146
+msgid "Items of the current query (used for archives and search results)"
+msgstr "آیتم های جستجو (کوئری) جاری (استفاده برای بایگانی و نتایج جستجو)"
+
+#: config/elements/grid.php:147
+msgid "Сhild pages of current page"
+msgstr "صفحه های زیرمجموعه (Child) از صفحه اصلی"
+
+#: config/elements/grid.php:148
+msgid "Manually selected items"
+msgstr "آیتم های انتخاب شده دستی"
+
+#: config/elements/grid.php:154
+msgid "Terms of selected taxonomy"
+msgstr "شرایط طبقه بندی انتخابی"
+
+#: config/elements/grid.php:155
+msgid "Child terms of current taxonomy"
+msgstr "شرایط زیرمجموعه (Child) طبقه بندی انتخابی"
+
+#: config/elements/grid.php:156
+msgid "Manually selected terms"
+msgstr "آیتم های انتخاب شده دستی"
+
+#: config/elements/grid.php:217 config/widgets.php:237
+msgid "Ignore sticky posts"
+msgstr "نادیده گرفتن نوشته های چسبان"
+
+#: config/elements/grid.php:235
+msgid "Show child terms"
+msgstr "نمایش شرایط زیرمجموعه"
+
+#: config/elements/grid.php:236
+msgid "Show empty"
+msgstr "نمایش خالی"
+
+#: config/elements/grid.php:244
+msgid "Show past events"
+msgstr "نمایش رویداد های گذشته"
+
+#: config/elements/grid.php:255 config/elements/post_date.php:22
+#: config/widgets.php:169 config/widgets.php:170
+msgid "Date of creation"
+msgstr "تاریخ ایجاد"
+
+#: config/elements/grid.php:256 config/elements/post_date.php:23
+#: config/widgets.php:171 config/widgets.php:172
+msgid "Date of update"
+msgstr "تاریخ بروزرسانی"
+
+#: config/elements/grid.php:260
+#, php-format
+msgid "\"%s\" value from \"%s\" box"
+msgstr "\"%s\" مقدار از جعبه \"%s\""
+
+#: config/elements/grid.php:261
+msgid "Manually for selected images and items"
+msgstr "به صورت دستی برای آیتم ها و تصاویر منتخب"
+
+#: config/elements/grid.php:263 config/elements/post_custom_field.php:60
+msgid "Custom Field"
+msgstr "فیلد دلخواه"
+
+#: config/elements/grid.php:269
+msgid "Enter custom field name to order items by its value"
+msgstr "وارد کردن نام فیلد سفارشی در ترتیب آیتم ها توسط مقادیرشان"
+
+#: config/elements/grid.php:277
+msgid "Order by numeric values"
+msgstr "ترتیب بر اساس مقادیر عددی"
+
+#: config/elements/grid.php:284 config/widgets.php:170 config/widgets.php:172
+msgid "Invert order"
+msgstr "ترتیب برعکس"
+
+#: config/elements/grid.php:293 config/widgets.php:223
+msgid "By title"
+msgstr "توسط عنوان"
+
+#: config/elements/grid.php:295 config/elements/grid.php:303
+#: config/widgets.php:192
+msgid "Items Quantity"
+msgstr "تعداد آیتم ها"
+
+#: config/elements/grid.php:296
+msgid "Manually, if available"
+msgstr "به صورت دستی، اگر موجود است"
+
+#: config/elements/grid.php:310
+msgid "Exclude Items"
+msgstr "مستثنی کردن آیتم ها"
+
+#: config/elements/grid.php:315
+msgid "of previous Grids on this page"
+msgstr "از شبکه بندی قبلی در این صفحه"
+
+#: config/elements/grid.php:316
+msgid "by the given quantity from the beginning of output"
+msgstr "به وسیله تعداد داده شده از ابتدای خروجی"
+
+#: config/elements/grid.php:324
+msgid "Items Quantity to skip"
+msgstr "مقدار آیتم ها برای رد کردن"
+
+#: config/elements/grid.php:330
+msgid "Message when no items"
+msgstr "متن پیام هنگامی که آیتمی وجود ندارد"
+
+#: config/elements/grid.php:339
+msgid "Numbered pagination"
+msgstr "صفحه بندی شماره ای"
+
+#: config/elements/grid.php:340
+msgid "Load items on button click"
+msgstr "بارگذاری آیتم ها با کلیک ماوس"
+
+#: config/elements/grid.php:341
+msgid "Load items on page scroll"
+msgstr "بازگزاری آیتم ها هنگام اسکرول صفحه"
+
+#: config/elements/grid.php:351
+msgid "Pagination Style"
+msgstr "استایل صفحه"
+
+#: config/elements/grid.php:365
+msgid "Load More"
+msgstr "بارگذاری موارد بیشتر"
+
+#: config/elements/grid.php:404 config/elements/post_taxonomy.php:23
+#: functions/shortcodes.php:278
+msgid "Display as"
+msgstr "نمایش به عنوان"
+
+#: config/elements/grid.php:407
+msgid "Regular Grid"
+msgstr "شبکه منظم"
+
+#: config/elements/grid.php:408 functions/shortcodes.php:278
+msgid "Masonry"
+msgstr "شبکه بی نظم"
+
+#: config/elements/grid.php:409
+msgid "METRO (works with square items only)"
+msgstr "طرح METRO (فقط با آیتم های چهارگوش کار می کند)"
+
+#: config/elements/grid.php:416
+msgid "Items animation on load"
+msgstr "انیمیشن آیتم ها در بارگزاری"
+
+#: config/elements/grid.php:420 config/elements/image.php:129
+#: config/elements/image_slider.php:44 config/elements/menu.php:219
+#: config/elements/popup.php:193 config/elements/socials.php:120
+#: config/elements_misc.php:26 config/widgets.php:296
+#: plugins-support/js_composer/map/vc_column.php:93
+#: plugins-support/js_composer/map/vc_column_inner.php:85
+#: plugins-support/js_composer/map/vc_row.php:503
+msgid "Fade"
+msgstr "محو شدن"
+
+#: config/elements/grid.php:421 config/elements/image.php:130
+#: config/elements/menu.php:221
+#: plugins-support/js_composer/map/vc_column.php:94
+#: plugins-support/js_composer/map/vc_column_inner.php:86
+msgid "Appear From Center"
+msgstr "ظاهر شدن از وسط"
+
+#: config/elements/grid.php:422 config/elements/image.php:133
+#: config/elements/menu.php:222 config/elements_misc.php:29
+#: plugins-support/js_composer/map/vc_column.php:97
+#: plugins-support/js_composer/map/vc_column_inner.php:89
+msgid "Appear From Bottom"
+msgstr "ظاهر شدن از پایین"
+
+#: config/elements/grid.php:429
+msgid "Center items vertically"
+msgstr "آیتم ها در وسط"
+
+#: config/elements/grid.php:466
+msgid "Post Image Size"
+msgstr "اندازه تصویر نوشته"
+
+#: config/elements/grid.php:470 config/elements/grid.php:488
+msgid "As in Grid Layout"
+msgstr "مانند طرح شبکه ای"
+
+#: config/elements/grid.php:477
+msgid "Post Title Size"
+msgstr "اندازه عنوان پست"
+
+#: config/elements/grid.php:485
+msgid "Items Aspect Ratio"
+msgstr "نسبت ابعاد آیتم ها"
+
+#: config/elements/grid.php:489 config/elements/ibanner.php:66
+#: config/elements/post_image.php:73 config/grid-settings.php:67
+msgid "square"
+msgstr "مربع"
+
+#: config/elements/grid.php:490 config/elements/grid.php:491
+#: config/elements/grid.php:492 config/elements/ibanner.php:67
+#: config/elements/ibanner.php:68 config/elements/ibanner.php:69
+#: config/elements/post_image.php:74 config/elements/post_image.php:75
+#: config/elements/post_image.php:76 config/grid-settings.php:68
+#: config/grid-settings.php:69 config/grid-settings.php:70
+msgid "landscape"
+msgstr "4:3 به حالت افقی"
+
+#: config/elements/grid.php:493 config/elements/grid.php:494
+#: config/elements/ibanner.php:70 config/elements/ibanner.php:71
+#: config/elements/ibanner.php:72 config/elements/post_image.php:77
+#: config/elements/post_image.php:78 config/grid-settings.php:71
+#: config/grid-settings.php:72
+msgid "portrait"
+msgstr "2:3 به حالت عمودی"
+
+#: config/elements/grid.php:520
+msgid "Overriding Link"
+msgstr "لینک برجسته و مهم"
+
+#: config/elements/grid.php:521
+msgid ""
+"Applies to every item of this Grid. All Grid Layout elements become not "
+"clickable."
+msgstr ""
+"به تمام آیتم های این شبکه اعمال می شود! تمام عناصر طرح غیرقابل کلیک می شوند."
+
+#: config/elements/grid.php:526
+msgid "Opens a Post in a popup"
+msgstr "بازکردن نوشته در پاپ آپ"
+
+#: config/elements/grid.php:527
+msgid "Opens a Post Image in a popup"
+msgstr "نمایش تصویر یک نوشته در پاپ آپ"
+
+#: config/elements/grid.php:533 config/elements/popup.php:131
+msgid "Popup Width"
+msgstr "پهنای پاپ آپ"
+
+#: config/elements/grid.php:553
+msgid "Filter Bar Style"
+msgstr "استایل نوار فیلتر"
+
+#: config/elements/grid.php:566
+msgid "Filter Bar Alignment"
+msgstr "چیدمان نوار فیلتر"
+
+#: config/elements/grid.php:579
+msgid "Show \"All\" item in filter bar"
+msgstr "نمایش گزینه «همه» در نوار فیلتر"
+
+#: config/elements/grid_filter.php:39
+msgid "Taxonomies"
+msgstr "طبقه بندی"
+
+#: config/elements/grid_filter.php:57
+msgid "Number Range"
+msgstr "محدوده شماره"
+
+#: config/elements/grid_filter.php:62
+msgid "Show \"All\" value"
+msgstr "نمایش مقدار \" همه \""
+
+#: config/elements/grid_filter.php:69
+msgid "Show amount of relevant posts"
+msgstr "نمایش تعداد نوشته های مرتبط"
+
+#: config/elements/grid_filter.php:91 config/elements/grid_filter.php:93
+#: config/elements/person.php:64
+#: plugins-support/js_composer/map/vc_tta_tabs.php:91
+#: plugins-support/js_composer/map/vc_tta_tour.php:92
+msgid "Trendy"
+msgstr "مرسوم"
+
+#: config/elements/grid_filter.php:92 config/elements/grid_filter.php:93
+msgid "Switch"
+msgstr "تغییر"
+
+#: config/elements/grid_filter.php:116
+msgid "Show the list of values"
+msgstr "نمایش لیست از مقادیر"
+
+#: config/elements/grid_filter.php:127
+msgid "Show titles before values"
+msgstr "نمایش عنوان ها قبل از مقادیر"
+
+#: config/elements/grid_filter.php:134
+msgid "Max Height of the list of values"
+msgstr "حداکثر ارتفاع از لیست مقادیر"
+
+#: config/elements/grid_filter.php:141
+msgid "Hide unavailable values"
+msgstr "مخفی کردن مقدار غیر قابل دسترس"
+
+#: config/elements/grid_filter.php:142
+msgid ""
+"When turned off, unavailable values will remain visible, but not clickable."
+msgstr ""
+"زمانی که خاموش است، مقادیر غیر قابل دسترس مشاهده می شود، ولی قابل کلیک نیست."
+
+#: config/elements/grid_filter.php:148
+msgid "Mobile view at screen width"
+msgstr "دید موبایل در عرض صفحه نمایش"
+
+#: config/elements/grid_filter.php:149
+msgid "Leave blank to not apply mobile view."
+msgstr "خالی گذاشتن برای عدم نمایش دید موبایل."
+
+#: config/elements/html.php:7
+msgid "Custom HTML"
+msgstr "HTML دلخواه"
+
+#: config/elements/html.php:12
+#, php-format
+msgid "Added content will be displayed inside the %s block"
+msgstr "محتوای اضافه شده در داخل بلاک %s نشان داده خواهد شد"
+
+#: config/elements/hwrapper.php:17 config/elements/vwrapper.php:16
+msgid "Content Horizontal Alignment"
+msgstr "ترازبندی افقی محتوا"
+
+#: config/elements/hwrapper.php:29 config/elements/vwrapper.php:27
+msgid "Content Vertical Alignment"
+msgstr "ترازبندی عمودی محتوا"
+
+#: config/elements/hwrapper.php:35
+msgid "With baseline"
+msgstr "با خط انتها"
+
+#: config/elements/hwrapper.php:48 config/elements/text.php:21
+msgid "Allow move content to the next line"
+msgstr "اجازه دادن به انتقال محتوا به خط بعدی"
+
+#: config/elements/ibanner.php:8
+msgid "Image and text with hover effect"
+msgstr "تصویر و متن با افکت شناور (Hover)"
+
+#: config/elements/ibanner.php:21 config/elements/image.php:25
+#: config/elements/person.php:86 config/elements/popup.php:74
+#: config/elements/post_custom_field.php:74 config/elements/post_image.php:102
+msgid "Image Size"
+msgstr "سایز تصویر"
+
+#: config/elements/ibanner.php:63
+#: plugins-support/js_composer/map/vc_video.php:109
+msgid "Aspect Ratio"
+msgstr "نسبت ابعاد"
+
+#: config/elements/iconbox.php:8
+msgid "Icon, title, description"
+msgstr "عنوان، تصویر و توضیحات"
+
+#: config/elements/iconbox.php:25 config/elements/separator.php:70
+msgid "Border (theme color)"
+msgstr "کادر (رنگ پوسته)"
+
+#: config/elements/iconbox.php:27
+msgid "Custom colors"
+msgstr "رنگ بندی دلخواه"
+
+#: config/elements/iconbox.php:38
+msgid "Inside the Outlined circle"
+msgstr "داخل دایره توخالی"
+
+#: config/elements/iconbox.php:111
+msgid "Will be applied to the icon and title"
+msgstr "به آیکون و عنوان اعمال می شود"
+
+#: config/elements/iconbox.php:129
+msgid "Will be shown instead of the icon"
+msgstr "به جای آیکون نمایش داده می شود"
+
+#: config/elements/image.php:47
+msgid "Image Style"
+msgstr "استایل تصویر"
+
+#: config/elements/image.php:51 config/elements/socials.php:96
+#: config/widgets.php:288
+msgid "Circle"
+msgstr "دایره"
+
+# بهترین ترجمه ای که به نظرم رسید که گویای ویژگی باشه!
+#: config/elements/image.php:52 config/elements/sharing.php:32
+msgid "Outlined"
+msgstr "خط دور"
+
+#: config/elements/image.php:53
+msgid "Simple Shadow"
+msgstr "سایه ساده"
+
+#: config/elements/image.php:54
+msgid "Colored Shadow"
+msgstr "سایه رنگی"
+
+#: config/elements/image.php:55 config/elements/image_slider.php:115
+msgid "Phone 6 Black Realistic"
+msgstr "مدل Phone 6 مشکی و واقع گرا"
+
+#: config/elements/image.php:56 config/elements/image_slider.php:116
+msgid "Phone 6 White Realistic"
+msgstr "مدل Phone 6 سفید و واقع گرا"
+
+#: config/elements/image.php:57 config/elements/image_slider.php:117
+msgid "Phone 6 Black Flat"
+msgstr "مدل Phone 6 مشکی و تخت"
+
+#: config/elements/image.php:58 config/elements/image_slider.php:118
+msgid "Phone 6 White Flat"
+msgstr "مدل Phone 6 سفید و تخت"
+
+#: config/elements/image.php:65 config/elements/image_slider.php:58
+#: functions/shortcodes.php:282
+msgid "Show image title and description"
+msgstr "نمایش عنوان تصویر و توضیحات"
+
+#: config/elements/image.php:70
+msgid "Title and Description Style"
+msgstr "استایل عنوان و توضیحات"
+
+#: config/elements/image.php:73
+msgid "Below the image"
+msgstr "زیر تصویر"
+
+#: config/elements/image.php:74
+msgid "Over the image"
+msgstr "روی تصویر"
+
+#: config/elements/image.php:86 config/elements/post_image.php:21
+msgid "Open original image in a popup"
+msgstr "باز کردن تصاویر شاخص در پاپ آپ"
+
+#: config/elements/image.php:118
+msgid "Different Image for Transparent Header"
+msgstr "تصویر مختلف برای سربرگ شفاف"
+
+#: config/elements/image.php:125
+#: plugins-support/js_composer/map/vc_column.php:89
+#: plugins-support/js_composer/map/vc_column_inner.php:81
+msgid ""
+"Selected animation will be applied to this element, when it enters into the "
+"browsers viewport."
+msgstr "انیمیشن انتخاب شده روی این المان در هنگام ورود به صفحه اعمال می شود."
+
+#: config/elements/image.php:131 config/elements/menu.php:208
+#: plugins-support/js_composer/map/vc_column.php:95
+#: plugins-support/js_composer/map/vc_column_inner.php:87
+msgid "Appear From Left"
+msgstr "ظاهر شدن از چپ"
+
+#: config/elements/image.php:132 config/elements/menu.php:209
+#: plugins-support/js_composer/map/vc_column.php:96
+#: plugins-support/js_composer/map/vc_column_inner.php:88
+msgid "Appear From Right"
+msgstr "ظاهر شدن از راست"
+
+#: config/elements/image.php:134 config/elements/menu.php:220
+#: plugins-support/js_composer/map/vc_column.php:98
+#: plugins-support/js_composer/map/vc_column_inner.php:90
+msgid "Appear From Top"
+msgstr "ظاهر شدن از بالا"
+
+#: config/elements/image.php:135
+#: plugins-support/js_composer/map/vc_column.php:99
+#: plugins-support/js_composer/map/vc_column_inner.php:91
+msgid "Height From Center"
+msgstr "ارتفاع از وسط"
+
+#: config/elements/image.php:136
+#: plugins-support/js_composer/map/vc_column.php:100
+#: plugins-support/js_composer/map/vc_column_inner.php:92
+msgid "Width From Center"
+msgstr "عرض از وسط"
+
+#: config/elements/image.php:143 config/elements/itext.php:91
+#: plugins-support/js_composer/map/vc_column.php:108
+#: plugins-support/js_composer/map/vc_column_inner.php:100
+msgid "Animation Delay (in seconds)"
+msgstr "تاخیر در انیمیشن (به ثانیه)"
+
+#: config/elements/image.php:168 config/elements/image.php:201
+msgid "Height on Tablets"
+msgstr "ارتفاع در تبلت"
+
+#: config/elements/image.php:177 config/elements/image.php:210
+msgid "Height on Mobiles"
+msgstr "ارتفاع در موبایل"
+
+#: config/elements/image.php:186 config/header-settings.php:62
+#: config/meta-boxes.php:52
+msgid "Sticky Header"
+msgstr "سربرگ چسبان"
+
+#: config/elements/image_slider.php:21
+msgid "Show always"
+msgstr "همیشه نمایش بده"
+
+#: config/elements/image_slider.php:22
+msgid "Show on hover"
+msgstr "در زمان شناوری (هاور) نمایش بده"
+
+#: config/elements/image_slider.php:29
+msgid "Additional Navigation"
+msgstr "ناوبری اضافی"
+
+#: config/elements/image_slider.php:33
+msgid "Dots"
+msgstr "نقطه ای"
+
+#: config/elements/image_slider.php:34
+msgid "Thumbnails"
+msgstr "بندانگشتی"
+
+#: config/elements/image_slider.php:43 config/elements/socials.php:121
+#: config/widgets.php:297 plugins-support/js_composer/map/vc_row.php:502
+msgid "Slide"
+msgstr "اسلايد"
+
+#: config/elements/image_slider.php:63
+msgid "Display items in random order"
+msgstr "نمایش به صورت تصادفی"
+
+#: config/elements/image_slider.php:68 config/theme-options.php:2793
+msgid "Allow Full Screen view"
+msgstr "اجازه نمایش تمام صفحه"
+
+#: config/elements/image_slider.php:78
+msgid "Pause on hover"
+msgstr "توقف با آمدن ماوس روی اسلاید"
+
+#: config/elements/image_slider.php:90
+msgid "Images Size"
+msgstr "سایز تصاویر"
+
+#: config/elements/image_slider.php:99
+msgid "Images Fit"
+msgstr "تناسب تصویر"
+
+#: config/elements/image_slider.php:102 config/header-settings.php:369
+#: config/menu-dropdown.php:149 config/theme-options.php:863
+#: plugins-support/js_composer/map/vc_row.php:356
+msgid "Initial"
+msgstr "آغازین"
+
+#: config/elements/image_slider.php:103 config/grid-settings.php:143
+#: config/header-settings.php:368 config/menu-dropdown.php:148
+#: config/theme-options.php:862 plugins-support/js_composer/map/vc_row.php:355
+msgid "Fit to Area"
+msgstr "متناسب با ناحیه"
+
+#: config/elements/image_slider.php:104 config/grid-settings.php:142
+#: config/header-settings.php:367 config/menu-dropdown.php:147
+#: config/theme-options.php:861 plugins-support/js_composer/map/vc_row.php:354
+msgid "Fill Area"
+msgstr "پر کردن ناحیه"
+
+#: config/elements/image_slider.php:111
+msgid "Images Style"
+msgstr "استایل تصاویر"
+
+#: config/elements/itext.php:8
+msgid "Text with dynamically changing part"
+msgstr "متن با قسمتی که تغییر می کند"
+
+#: config/elements/itext.php:14
+msgid "Text States"
+msgstr "حالت های متن"
+
+#: config/elements/itext.php:32 config/elements/post_custom_field.php:133
+#: config/elements/post_title.php:64 config/elements/text.php:56
+msgid "HTML tag"
+msgstr "تگ HTML"
+
+#: config/elements/itext.php:42
+msgid "Disable Part Animation"
+msgstr "غیر فعال کردن بخش انیمیشن"
+
+#: config/elements/itext.php:43
+msgid ""
+"When enabled, lines of text will be animated without using the dynamic part."
+msgstr ""
+"زمانی که فعال شود، خط متن ها انیمیشنی خواهد شد بدون استفاده از قسمت پویا."
+
+#: config/elements/itext.php:49
+#, fuzzy
+msgid "Use non-breaking spaces"
+msgstr "استفاده از فضا های بدون شکست"
+
+#: config/elements/itext.php:56
+msgid "Make the dynamic part bold"
+msgstr "ضخیم کردن قسمت متغیر"
+
+#: config/elements/itext.php:62
+msgid "Dynamic Part Color"
+msgstr "رنگ قسمت متغیر"
+
+#: config/elements/itext.php:74
+msgid "Fade in the whole part"
+msgstr "محو شدن کل"
+
+#: config/elements/itext.php:75
+msgid "Zoom in the whole part"
+msgstr "بزرگنمایی کل"
+
+#: config/elements/itext.php:76
+msgid "Zoom in character by character"
+msgstr "بزرگنمایی حرف به حرف"
+
+#: config/elements/itext.php:77
+msgid "Typing"
+msgstr "نوشتن"
+
+#: config/elements/menu.php:19
+msgid "Distance Between Main Items"
+msgstr "فاصله بین آیتم های اصلی"
+
+#: config/elements/menu.php:54
+msgid "Main Items Height"
+msgstr "ارتفاع آیتم های اصلی"
+
+#: config/elements/menu.php:60
+msgid "Main Items Hover Effect"
+msgstr "افکت شناوری آیتم های اصلی"
+
+#: config/elements/menu.php:71
+msgid "Dropdown Indication"
+msgstr "نشانگر لیست باز شونده"
+
+#: config/elements/menu.php:73
+msgid "Show arrows for main items with dropdown"
+msgstr "نمایش آیکن ها برای موارد اصلی با کشویی"
+
+#: config/elements/menu.php:75 config/elements/menu.php:82
+#: config/elements/menu.php:89 config/elements/menu.php:96
+msgid "Dropdowns"
+msgstr "لیست های باز شونده (dropdown)"
+
+#: config/elements/menu.php:85 config/elements/menu.php:237
+msgid "Dropdown Font Size"
+msgstr "اندازه فونت لیست بازشونده"
+
+#: config/elements/menu.php:92
+msgid "Dropdown Width"
+msgstr "عرض لیست بازشونده"
+
+#: config/elements/menu.php:94
+msgid "Limit full-width dropdowns by a menu width"
+msgstr "محدود کردن منوی کشویی تمام عرض با عرض منو"
+
+#: config/elements/menu.php:115 config/elements/menu.php:122
+#: config/header-settings.php:99 config/header-settings.php:253
+#: config/header-settings.php:266 config/header-settings.php:279
+#: config/header-settings.php:446 config/header-settings.php:458
+#: config/header-settings.php:470 config/header-settings.php:585
+#: config/header-settings.php:598 config/header-settings.php:611
+#: config/meta-boxes.php:75 config/theme-options.php:1386
+#: config/theme-options.php:1392 config/theme-options.php:1398
+#: config/theme-options.php:1441 config/theme-options.php:1448
+#: config/theme-options.php:1455
+msgid "Transparent Header"
+msgstr "سربرگ شفاف"
+
+#: config/elements/menu.php:142
+msgid "Dropdown Background"
+msgstr "پس زمینه منوی کشویی"
+
+#: config/elements/menu.php:149
+msgid "Dropdown Text"
+msgstr "متن منوی کشویی"
+
+#: config/elements/menu.php:155
+msgid "Dropdown Item Background on hover"
+msgstr "پس زمینه آیتم منوی کشویی در حالت شناور"
+
+#: config/elements/menu.php:162
+msgid "Dropdown Item Text on hover"
+msgstr "متن آیتم منوی کشویی در حالت شناور"
+
+#: config/elements/menu.php:168
+msgid "Dropdown Active Item Background"
+msgstr "پس زمینه آیتم فعال در منوی کشویی"
+
+#: config/elements/menu.php:175
+msgid "Dropdown Active Item Text"
+msgstr "متن آیتم فعال در منوی کشویی"
+
+#: config/elements/menu.php:182
+msgid "Show mobile menu when screen width is less than"
+msgstr "نمایش منوی موبایل زمانی که عرض صفحه نمایش کمتر است از"
+
+#: config/elements/menu.php:192 config/elements/menu.php:203
+#: config/elements/menu.php:213 config/elements/menu.php:226
+#: config/elements/menu.php:234 config/elements/menu.php:242
+#: config/elements/menu.php:253 config/elements/menu.php:264
+#: config/elements/menu.php:272 config/elements/menu.php:280
+#: config/elements/menu.php:288 config/elements/menu.php:301
+#: config/elements/menu.php:312 config/menu-dropdown.php:187
+msgid "Mobile Menu"
+msgstr "منوی موبایل"
+
+#: config/elements/menu.php:195
+msgid "Mobile Menu Layout"
+msgstr "طرح بندی منو در موبایل"
+
+#: config/elements/menu.php:199
+msgid "Vertical Panel"
+msgstr "پنل عمودی"
+
+#: config/elements/menu.php:200 config/elements/search.php:31
+#: plugins-support/js_composer/map/vc_row.php:290
+msgid "Full Screen"
+msgstr "تمام عرض"
+
+#: config/elements/menu.php:229
+msgid "Main Items Font Size"
+msgstr "اندازه فونت آیتم های اصلی"
+
+#: config/elements/menu.php:245
+msgid "Menu Items Alignment"
+msgstr "تراز کردن آیتم های منو"
+
+#: config/elements/menu.php:256 config/menu-dropdown.php:194
+msgid "Show dropdown by click on"
+msgstr "باز شدن لیست کشویی با کلیک روی آن"
+
+#: config/elements/menu.php:257
+#, php-format
+msgid ""
+"You can change this behavior separately for every menu item on the %s page"
+msgstr ""
+"شما می توانید این رفتار جداگانه را برای هر آیتم منو در صفحه %s تغییر دهید"
+
+#: config/elements/menu.php:260 config/menu-dropdown.php:197
+msgid "Arrow"
+msgstr "پیکان"
+
+#: config/elements/menu.php:261 config/menu-dropdown.php:198
+msgid "Label and Arrow"
+msgstr "لیبل و پیکان"
+
+#: config/elements/menu.php:291
+msgid "Icon Thickness"
+msgstr "ضخامت آیکن"
+
+#: config/elements/menu.php:304
+#, php-format
+msgid "Position of \"%s\" word"
+msgstr "موقعیت کلمه \"%s\""
+
+#: config/elements/message.php:7
+msgid "Colored notification box"
+msgstr "باکس اطلاع رسانی (notification) رنگی"
+
+#: config/elements/message.php:16
+msgid "Blue"
+msgstr "آبی"
+
+#: config/elements/message.php:17
+msgid "Yellow"
+msgstr "زرد"
+
+#: config/elements/message.php:18
+msgid "Green"
+msgstr "سبز"
+
+#: config/elements/message.php:19
+msgid "Red"
+msgstr "قرمز"
+
+#: config/elements/message.php:24
+msgid "Message Text"
+msgstr "متن پیام"
+
+#: config/elements/message.php:36
+msgid "Enable closing"
+msgstr "فعال‌کردن بستن"
+
+#: config/elements/page_block.php:13 config/elements/page_block.php:18
+#: functions/post-types.php:234
+msgid "Page Block"
+msgstr "صفحه بلوک"
+
+#: config/elements/page_block.php:25
+msgid "Exclude Rows and Columns in selected Page Block"
+msgstr "ردیف ها و ستون ها را در بلوک صفحه انتخاب شده، حذف کنید"
+
+#: config/elements/page_block.php:30 config/elements/post_content.php:32
+msgid "Stretch content of Rows to the full width"
+msgstr "کشیدن محتوای این ردیف، به پهنای صفحه نمایش"
+
+#: config/elements/person.php:8
+msgid "Photo, name, description and social links"
+msgstr "تصویر، نام، توضیحات و لینک های اجتماعی"
+
+#: config/elements/person.php:14
+msgid "Photo"
+msgstr "عکس"
+
+#: config/elements/person.php:21
+msgid "Photo on hover (optional)"
+msgstr "تصویر هنگام شناوری (hover) - اختیاری"
+
+#: config/elements/person.php:35
+msgid "Role"
+msgstr "نقش"
+
+#: config/elements/person.php:49
+msgid "Applies to the Name and to the Photo"
+msgstr "اعمال به نام و تصویر"
+
+#: config/elements/person.php:60
+msgid "Simple (rounded photo)"
+msgstr "ساده (تصویر گرد شده)"
+
+#: config/elements/person.php:61 config/grid-templates.php:3126
+#: config/theme-options.php:2995
+msgid "Compact"
+msgstr "فشرده"
+
+#: config/elements/person.php:62
+msgid "Compact (rounded photo)"
+msgstr "فشرده (تصویر گرد شده)"
+
+#: config/elements/person.php:63 config/elements/search.php:29
+#: plugins-support/js_composer/map/vc_tta_tabs.php:90
+#: plugins-support/js_composer/map/vc_tta_tour.php:91
+msgid "Modern"
+msgstr "مدرن"
+
+#: config/elements/person.php:65 config/elements/pricing.php:68
+msgid "Cards"
+msgstr "کارت ها"
+
+#: config/elements/person.php:72
+msgid "Photo Effect"
+msgstr "افکت تصویر"
+
+#: config/elements/person.php:76
+msgid "Sepia"
+msgstr "قهوه ای (sepia)"
+
+#: config/elements/person.php:78
+msgid "Faded"
+msgstr "محو شده"
+
+#: config/elements/person.php:79
+msgid "Colored"
+msgstr "رنگی"
+
+#: config/elements/person.php:137 config/meta-boxes.php:228
+#: config/widgets.php:305 functions/helpers.php:1954
+#: functions/shortcodes.php:311
+msgid "Custom Link"
+msgstr "لینک دلخواه"
+
+#: config/elements/person.php:144 config/widgets.php:315
+msgid "Custom Link Icon"
+msgstr "آیکون لینک دلخواه"
+
+#: config/elements/popup.php:8
+msgid "Window appears in the foreground of the page content"
+msgstr "پنجره جلوی محتوای صفحه ظاهر می شود"
+
+#: config/elements/popup.php:22
+msgid "This content will appear inside a popup..."
+msgstr "این محتوا داخل یک پاپ آپ ظاهر می شود..."
+
+#: config/elements/popup.php:28
+msgid "Show Popup on"
+msgstr "نمایش پاپ آپ روی"
+
+#: config/elements/popup.php:31
+msgid "Button click"
+msgstr "کلیک روی دکمه"
+
+#: config/elements/popup.php:32
+msgid "Image click"
+msgstr "کلیک روی تصویر"
+
+#: config/elements/popup.php:33
+msgid "Custom element click"
+msgstr "کلیک روی المان دلخواه"
+
+#: config/elements/popup.php:34
+msgid "Page load"
+msgstr "بارگذاری صفحه"
+
+#: config/elements/popup.php:37 config/elements/popup.php:46
+#: config/elements/popup.php:55 config/elements/popup.php:64
+#: config/elements/popup.php:71 config/elements/popup.php:81
+#: config/elements/popup.php:93 config/elements/popup.php:100
+#: config/elements/popup.php:111 config/elements/popup.php:119
+#: config/elements/popup.php:126
+msgid "Trigger"
+msgstr "فعال ساز"
+
+#: config/elements/popup.php:114
+msgid "Custom element CSS selector"
+msgstr "انتخابگر دلخواه CSS برای المان"
+
+#: config/elements/popup.php:115
+msgid "Use class or ID."
+msgstr "استفاده از کلاس یا ID."
+
+#: config/elements/popup.php:122
+msgid "Delay after page load (in seconds)"
+msgstr "تاخیر بعد از بارگذاری تصویر (به ثانیه)"
+
+#: config/elements/popup.php:138
+msgid "Popup Padding"
+msgstr "فاصله داخلی پاپ آپ"
+
+#: config/elements/popup.php:146
+msgid "Popup Corners Radius"
+msgstr "گرد کردن گوشه های پاپ آپ"
+
+#: config/elements/popup.php:154
+msgid "Title Background Color"
+msgstr "رنگ پس زمینه عنوان"
+
+#: config/elements/popup.php:161
+msgid "Title Text Color"
+msgstr "رنگ متن عنوان"
+
+#: config/elements/popup.php:169
+msgid "Popup Background Color"
+msgstr "رنگ پس زمینه پاپ آپ"
+
+#: config/elements/popup.php:176
+msgid "Popup Text Color"
+msgstr "رنگ متن پاپ آپ"
+
+#: config/elements/popup.php:184 config/theme-options.php:1529
+#: config/theme-options.php:1603 plugins-support/js_composer/map/vc_row.php:532
+msgid "Background Overlay"
+msgstr "روکش پس زمینه"
+
+#: config/elements/popup.php:194
+msgid "Scale Up"
+msgstr "بزرگ شدن"
+
+#: config/elements/popup.php:195
+msgid "Scale Down"
+msgstr "کوچک شدن"
+
+#: config/elements/popup.php:196
+msgid "Slide from the Top"
+msgstr "اسلاید از بالا"
+
+#: config/elements/popup.php:197
+msgid "Slide from the Bottom"
+msgstr "اسلاید از پایین"
+
+#: config/elements/popup.php:198 config/elements/popup.php:199
+msgid "3D Flip"
+msgstr "چرخش 3D"
+
+#: config/elements/post_author.php:8
+msgid "Post Author"
+msgstr "نویسنده نوشته"
+
+#: config/elements/post_author.php:17
+msgid "To the page with the Author's posts"
+msgstr "به برگه ی نوشته های نویسنده"
+
+#: config/elements/post_author.php:18
+msgid "To the Author's website (if specified on his profile)"
+msgstr "به وبسایت نویسنده (اگر در پروفایل خود مشخص کرده باشد)"
+
+#: config/elements/post_author.php:35 config/elements/post_comments.php:57
+#: config/elements/post_custom_field.php:126
+#: config/elements/post_taxonomy.php:72 config/elements/post_title.php:45
+msgid "Link Color"
+msgstr "رنگ لينک"
+
+#: config/elements/post_author.php:37 config/elements/post_comments.php:59
+#: config/elements/post_custom_field.php:128
+#: config/elements/post_taxonomy.php:74 config/elements/post_title.php:47
+msgid "Inherit from text color"
+msgstr "ارث بری از رنگ متن"
+
+#: config/elements/post_author.php:47
+msgid "Picture Width"
+msgstr "عرض تصویر"
+
+#: config/elements/post_author.php:55
+msgid "Picture Position"
+msgstr "جایگاه تصویر"
+
+#: config/elements/post_author.php:67
+msgid "Posts count"
+msgstr "تعداد نوشته"
+
+#: config/elements/post_comments.php:8
+msgid "Post Comments"
+msgstr "دیدگاه های نوشته"
+
+#: config/elements/post_comments.php:17
+msgid "List of comments with response form"
+msgstr "لیست موارد با حالت واکنش گرا"
+
+#: config/elements/post_comments.php:18
+msgid "Comments amount"
+msgstr "تعداد دیدگاه ها"
+
+#: config/elements/post_comments.php:26
+msgid "Hide this element if no comments"
+msgstr "اگر دیدگاهی وجود ندارد، این المان را پنهان کن"
+
+#: config/elements/post_comments.php:32
+msgid "Show only number"
+msgstr "فقط شماره را نشان بده"
+
+#: config/elements/post_comments.php:40
+msgid "To a Post comments"
+msgstr "به دیدگاه های یک پست"
+
+#: config/elements/post_content.php:7
+msgid "Post Content"
+msgstr "محتوای نوشته"
+
+#: config/elements/post_content.php:17
+msgid "Excerpt, if it's empty, show part of a content"
+msgstr "چکیده، اگر این بخش خالی بود ، مقداری از نوشته را نمایش بده"
+
+#: config/elements/post_content.php:18
+msgid "Excerpt, if it's empty, show nothing"
+msgstr "چکیده ، اگر خالی بود چیزی نمایش نده"
+
+#: config/elements/post_content.php:19
+msgid "Part of a content"
+msgstr "بخشی از محتوا"
+
+#: config/elements/post_content.php:20
+msgid "Full content"
+msgstr "محتوای کامل"
+
+#: config/elements/post_content.php:38
+msgid "Amount of words in Excerpt"
+msgstr "تعداد کلمات در چکیده"
+
+#: config/elements/post_content.php:39 config/elements/post_content.php:52
+msgid "HTML tags, line-breaks and shortcodes will be stripped."
+msgstr "تمام تگ های HTML محتوا از بین می روند."
+
+#: config/elements/post_content.php:39
+msgid "Set \"0\" to show full Excerpt."
+msgstr "برای نمایش کامل چکیده، مقدار \"0\" را وارد کنید."
+
+#: config/elements/post_content.php:51
+msgid "Amount of words in Content"
+msgstr "تعداد کلمات در نوشته"
+
+#: config/elements/post_content.php:65
+#: plugins-support/js_composer/map/vc_column_text.php:43
+msgid "Hide part of a content with the \"Show More\" link"
+msgstr "مخفی کردن قسمتی از محتوا با لینک \" نمایش بیشتر \""
+
+#: config/elements/post_content.php:70
+#: plugins-support/js_composer/map/vc_column_text.php:51
+msgid "Height of visible content"
+msgstr "ارتفاع محتوای قابل مشاهده"
+
+#: config/elements/post_content.php:71 config/elements_misc.php:72
+#: plugins-support/js_composer/map/vc_column_text.php:52
+msgid "In pixels:"
+msgstr "در پیکسل ها:"
+
+#: config/elements/post_content.php:78
+#: plugins-support/js_composer/map/vc_column_text.php:60
+msgid "Text when content is hidden"
+msgstr "متن زمانی که محتوا مخفی شده است"
+
+#: config/elements/post_content.php:80 config/shortcodes.php:176
+msgid "Show More"
+msgstr "نمایش بیشتر"
+
+#: config/elements/post_content.php:85
+#: plugins-support/js_composer/map/vc_column_text.php:68
+msgid "Text when content is shown"
+msgstr "متن زمانی که محتوا نمایش داده شده است"
+
+#: config/elements/post_content.php:86
+#: plugins-support/js_composer/map/vc_column_text.php:69
+msgid "Leave blank to prevent content from being hidden again."
+msgstr "برای مانع شدن از مخفی شدن دوباره محتوا خالی بگذارید."
+
+#: config/elements/post_content.php:88 config/shortcodes.php:177
+msgid "Show Less"
+msgstr "نمایش کمتر"
+
+#: config/elements/post_custom_field.php:11
+#: config/elements/post_custom_field.php:12 config/grid-settings.php:36
+#: config/meta-boxes.php:198 functions/helpers.php:1954
+#: plugins-support/js_composer/map/vc_row.php:97
+msgid "Custom appearance in Grid"
+msgstr "ظاهر دلخواه در طرح شبکه ای"
+
+#: config/elements/post_custom_field.php:11 config/grid-settings.php:36
+#: config/meta-boxes.php:234 plugins-support/js_composer/map/vc_row.php:97
+msgid "Additional Image"
+msgstr "تصویر اضافی"
+
+#: config/elements/post_custom_field.php:18
+#: config/elements/post_custom_field.php:19
+#: config/elements/post_custom_field.php:20
+#: config/elements/post_custom_field.php:21 config/grid-templates.php:3197
+#: config/grid-templates.php:3303 config/grid-templates.php:3405
+#: config/grid-templates.php:3502 config/grid-templates.php:3569
+#: config/grid-templates.php:3640 functions/helpers.php:1959
+#: functions/post-types.php:99
+msgid "Testimonial"
+msgstr "نظر مشتری"
+
+#: config/elements/post_custom_field.php:18 config/meta-boxes.php:255
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: config/elements/post_custom_field.php:19 config/meta-boxes.php:260
+msgid "Author Role"
+msgstr "نقش نویسنده"
+
+#: config/elements/post_custom_field.php:20 config/meta-boxes.php:265
+msgid "Author Company"
+msgstr "شرکت نویسنده"
+
+#: config/elements/post_custom_field.php:21 config/meta-boxes.php:276
+msgid "Rating"
+msgstr "رتبه بندی"
+
+#: config/elements/post_custom_field.php:50
+msgid "Post Custom Field"
+msgstr "فیلد دلخواه نوشته"
+
+#: config/elements/post_custom_field.php:66
+msgid "Enter custom field name to retrieve its value."
+msgstr "برای بازیابی مقدار فیلد، یک نام کلیدی برای آن وارد کنید."
+
+#: config/elements/post_custom_field.php:83
+msgid "Hide this element if its value is empty"
+msgstr "پنهان سازی این المان، اگر مقدار آن خالی است"
+
+#: config/elements/post_custom_field.php:146 config/elements/post_date.php:56
+#: config/elements/post_taxonomy.php:84 config/elements/post_views.php:22
+msgid "Text before value"
+msgstr "متن پیش از مقدار"
+
+#: config/elements/post_custom_field.php:154 config/elements/post_views.php:29
+msgid "Text after value"
+msgstr "متن پس از مقدار"
+
+#: config/elements/post_date.php:9 functions/helpers.php:2031
+msgid "Yesterday"
+msgstr "دیروز"
+
+#: config/elements/post_date.php:13
+msgid "Post Date"
+msgstr "تاریخ پست"
+
+#: config/elements/post_date.php:29
+msgid "Format"
+msgstr "فرمت"
+
+#: config/elements/post_date.php:32
+msgid "Human friendly"
+msgstr "دوستانه"
+
+#: config/elements/post_date.php:44
+msgid "Documentation on date and time formatting."
+msgstr "اسناد مرتبط با الگوی زمان و تاریخ."
+
+#: config/elements/post_image.php:9
+msgid "Post Image"
+msgstr "عکس نوشته"
+
+#: config/elements/post_image.php:47
+msgid "Show placeholder when post image is absent"
+msgstr "نمایش placeholder هنگامی که نوشته، تصویر ندارد"
+
+#: config/elements/post_image.php:52
+msgid "Show media preview for posts with video, audio and gallery format"
+msgstr ""
+"برای نوشته ها، پیش نمایش مدیاها اعم از تصاویر ، ویدئوها و صداها را نشان بده"
+
+#: config/elements/post_image.php:57
+msgid "Stretch the image to the container width"
+msgstr "کشیدن تصویر به اندازه عرض المان دربرگیرنده"
+
+#: config/elements/post_image.php:62
+msgid "Enable rounded image"
+msgstr "فعالسازی تصویر گرد شده"
+
+#: config/elements/post_image.php:66 config/grid-settings.php:60
+msgid "Set Aspect Ratio"
+msgstr "تنظیمات نسبت آیتم ها"
+
+#: config/elements/post_navigation.php:17
+msgid "Simple links"
+msgstr "لینک های ساده"
+
+#: config/elements/post_navigation.php:18
+msgid "On sides of the screen"
+msgstr "در کناره های صفحه"
+
+#: config/elements/post_navigation.php:25
+msgid "Invert position of previous and next"
+msgstr "جابجا کردن مکان دکمه قبلی و بعدی باهم"
+
+#: config/elements/post_navigation.php:30
+msgid "Navigate within the specified taxonomy"
+msgstr "ناوبری درون یک دسته بندی خاص"
+
+#: config/elements/post_navigation.php:41
+msgid "Previous Post subtitle"
+msgstr "زیر نویس نوشته قبلی"
+
+#: config/elements/post_navigation.php:48
+msgid "Next Post subtitle"
+msgstr "زیر نویس نوشته بعدی"
+
+#: config/elements/post_taxonomy.php:10
+msgid "Post Taxonomy"
+msgstr "طبقه بندی نوشته"
+
+#: config/elements/post_taxonomy.php:37
+msgid "Badge by default"
+msgstr "نشان گذاری پیش فرض"
+
+#: config/elements/post_taxonomy.php:56
+msgid "To a Post Archive"
+msgstr "به بایگانی نوشته ها"
+
+#: config/elements/post_title.php:9
+msgid "Post Title"
+msgstr "عنوان نوشته"
+
+#: config/elements/post_views.php:11
+msgid "Post Views"
+msgstr "بازدید نوشته"
+
+#: config/elements/post_views.php:37
+msgid "Use \"K\" shorthand for thousands"
+msgstr "استفاده مختصر نویسی \" K \" برای هزاران"
+
+#: config/elements/post_views.php:41
+msgid "Thousand separator"
+msgstr "هزاران جداکننده"
+
+#: config/elements/pricing.php:69
+msgid "Flat"
+msgstr "فلت"
+
+#: config/elements/pricing.php:88
+msgid "Mark this item as featured"
+msgstr "ویژه کردن این آیتم"
+
+#: config/elements/pricing.php:92
+msgid "Price"
+msgstr "قيمت"
+
+#: config/elements/pricing.php:99
+msgid "Price Substring"
+msgstr "زیرنوشته قیمت"
+
+#: config/elements/pricing.php:105
+msgid "Features List"
+msgstr "لیست ویژگی ها"
+
+#: config/elements/pricing.php:115
+msgid "Button Link"
+msgstr "لینک دکمه"
+
+#: config/elements/pricing.php:133
+msgid "Button Icon"
+msgstr "آیکن دکمه"
+
+#: config/elements/pricing.php:138
+msgid "Button Icon Position"
+msgstr "موقعیت آیکون دکمه"
+
+# Sale به معنی فروشه
+# ولی فکر میکنم اینجا منظور حراج باشه
+#: config/elements/product_field.php:18
+#, fuzzy
+msgid "Sale Badge"
+msgstr "نشان حراج"
+
+#: config/elements/product_field.php:23
+msgid "Actions for plugins compatibility"
+msgstr "اقدامات برای سازگاری افزونه ها"
+
+#: config/elements/product_field.php:29
+msgid "Sale Badge Text"
+msgstr "متن نشان حراج"
+
+#: config/elements/product_gallery.php:11
+#, php-format
+msgid "Edit Product gallery appearance on %sTheme Options%s."
+msgstr "ویرایش ظاهر گالری محصولات در %sتنظیمات پوسته%s."
+
+#: config/elements/product_ordering.php:6
+msgid "Product ordering"
+msgstr "سفارش دهی محصول"
+
+#: config/elements/progbar.php:34
+msgid "Progress Value"
+msgstr "مقدار پیشرفت"
+
+#: config/elements/progbar.php:41
+msgid "Final Value"
+msgstr "مقدار پایانی"
+
+#: config/elements/progbar.php:49
+msgid "Hide progress value counter"
+msgstr "مخفی سازی مقدار شمارنده نوار پیشرفت"
+
+#: config/elements/progbar.php:56
+msgid "Hide final value"
+msgstr "مخفی کردن مقدار پایانی"
+
+#: config/elements/progbar.php:76
+msgid "Progress Bar Color"
+msgstr "رنگ نوار پیشرفت"
+
+#: config/elements/progbar.php:95
+msgid "Progress Bar Height"
+msgstr "ارتفاع نوار پیشرفت"
+
+#: config/elements/scroller.php:8
+msgid "Accurate scroll to page sections"
+msgstr "اسکرول به بخش های مختلف صفحه"
+
+#: config/elements/scroller.php:13
+msgid "Disable scrolling at width"
+msgstr "غیرفعال کردن اسکرول در عرض"
+
+#: config/elements/scroller.php:14
+msgid ""
+"When screen width is less than this value, scrolling by rows will be "
+"disabled."
+msgstr ""
+"هنگامی که عرض نمایشگر کمتر از این مقدار باشد، اسکرول در ردیف ها غیرفعال می "
+"شود."
+
+#: config/elements/scroller.php:20
+msgid "Scroll Speed (milliseconds)"
+msgstr "سرعت اسکرول (به میلی ثانیه)"
+
+#: config/elements/scroller.php:26
+msgid "Show Navigation Dots"
+msgstr "نمایش دات های ناوبری"
+
+#: config/elements/scroller.php:30
+msgid "Dots Style"
+msgstr "استایل دات ها"
+
+#: config/elements/scroller.php:43
+msgid "Dots Position"
+msgstr "موقعیت دات ها"
+
+#: config/elements/scroller.php:54
+msgid "Dots Size"
+msgstr "اندازه دات ها"
+
+#: config/elements/scroller.php:62
+msgid "Dots Color"
+msgstr "رنگ دات ها"
+
+#: config/elements/scroller.php:72
+msgid "Show dots for Footer"
+msgstr "نمایش دات ها در فوتر"
+
+#: config/elements/search.php:19
+msgid "Search Shop Products only"
+msgstr "فقط جستجوی محصولات فروشگاه"
+
+#: config/elements/search.php:36
+msgid "Field Width"
+msgstr "عرض فیلد"
+
+#: config/elements/search.php:58
+msgid "Field Width on Tablets"
+msgstr "عرض فیلد در تبلت"
+
+#: config/elements/search.php:81
+msgid "Search Field Background"
+msgstr "پس زمینه فیلد جستجو"
+
+#: config/elements/search.php:88
+msgid "Search Field Text"
+msgstr "متن فیلد جستجو"
+
+#: config/elements/separator.php:8
+msgid "Gap between elements"
+msgstr "فاصله بین المان ها"
+
+#: config/elements/separator.php:17 config/theme-options.php:939
+#: plugins-support/js_composer/map/vc_row.php:286
+msgid "Small"
+msgstr "کوچک"
+
+#: config/elements/separator.php:18 config/theme-options.php:940
+#: plugins-support/js_composer/map/vc_row.php:287
+msgid "Medium"
+msgstr "متوسط"
+
+#: config/elements/separator.php:19 config/theme-options.php:941
+#: plugins-support/js_composer/map/vc_row.php:288
+msgid "Large"
+msgstr "بزرگ"
+
+#: config/elements/separator.php:20 config/theme-options.php:942
+#: plugins-support/js_composer/map/vc_row.php:289
+msgid "Huge"
+msgstr "خیلی بزرگ"
+
+#: config/elements/separator.php:36
+msgid "Show horizontal line in the middle"
+msgstr "نمایش خط افقی در میانه"
+
+#: config/elements/separator.php:40
+msgid "Line Width"
+msgstr "عرض خط"
+
+#: config/elements/separator.php:43
+msgid "Container width"
+msgstr "عرض نگهدارنده"
+
+#: config/elements/separator.php:44
+msgid "Screen width"
+msgstr "عرض صفحه نمایش"
+
+#: config/elements/separator.php:45 config/elements/separator.php:46
+#, php-format
+msgid "%s of container width"
+msgstr "%s از عرض نگهدارنده"
+
+#: config/elements/separator.php:53
+msgid "Line Thickness"
+msgstr "ضخامت خط"
+
+#: config/elements/separator.php:67
+msgid "Line Color"
+msgstr "رنگ خط"
+
+#: config/elements/separator.php:80
+msgid "Line Style"
+msgstr "استایل خط"
+
+#: config/elements/separator.php:83 config/elements/sharing.php:31
+#: config/elements_design_options.php:322
+msgid "Solid"
+msgstr "ساده"
+
+#: config/elements/separator.php:84 config/elements_design_options.php:323
+msgid "Dashed"
+msgstr "خط چین"
+
+#: config/elements/separator.php:85 config/elements_design_options.php:324
+msgid "Dotted"
+msgstr "نقطه دار"
+
+#: config/elements/separator.php:86 config/elements_design_options.php:325
+msgid "Double"
+msgstr "دوتایی"
+
+#: config/elements/separator.php:99 config/elements/separator.php:107
+#: config/elements/separator.php:114 config/elements/separator.php:122
+#: config/elements/separator.php:134
+msgid "Icon and Title"
+msgstr "آیکون و عنوان"
+
+#: config/elements/sharing.php:33 config/elements_design_options.php:190
+#: plugins-support/js_composer/map/vc_row.php:397
+msgid "Fixed"
+msgstr "ثابت"
+
+#: config/elements/sharing.php:54 config/elements/socials.php:81
+#: config/widgets.php:276
+msgid "Default brands colors"
+msgstr "رنگ های برند پیشفرض"
+
+#: config/elements/sharing.php:63
+msgid "Share Counters"
+msgstr "اشتراک شمارنده ها"
+
+#: config/elements/sharing.php:73
+msgid "Allow to share selected text"
+msgstr "اجازه دادن به اشتراک متن منتخب"
+
+#: config/elements/sharing.php:74
+msgid ""
+"When you select text on a page, a panel with buttons appears, and you can "
+"quickly share the selected text."
+msgstr ""
+"هنگامی که در صفحه متنی را انتخاب می کنید، یک پنل ظاهر می شود که به کمک آن می "
+"توانید به سرعت متن منتخب را به اشتراک گذارید."
+
+#: config/elements/sharing.php:79
+msgid "Text selection inside post content only"
+msgstr "انتخاب پس فقط در محتوای نوشته ها"
+
+#: config/elements/sharing.php:86
+msgid "Sharing URL (optional)"
+msgstr "لینک اشتراک (اختیاری)"
+
+#: config/elements/sharing.php:87
+msgid "If not specified, the opened page URL will be used by default"
+msgstr ""
+"اگه مقدار مشخص نشود .آدرس اینترنتی برگه باز به عنوان پیشفرض استفاده خواهد شد"
+
+#: config/elements/socials.php:22
+msgid "Custom Icon"
+msgstr "آیکون دلخواه"
+
+#: config/elements/socials.php:78 config/widgets.php:274
+msgid "Icons Color"
+msgstr "رنگ آیکون ها"
+
+#: config/elements/socials.php:83 config/widgets.php:278
+msgid "Link (theme color)"
+msgstr "لینک (رنگ پوسته)"
+
+#: config/elements/socials.php:90 config/widgets.php:284
+msgid "Icons Shape"
+msgstr "شکل آیکون"
+
+#: config/elements/socials.php:94 config/widgets.php:286
+msgid "Square"
+msgstr "مربع"
+
+#: config/elements/socials.php:95 config/widgets.php:287
+msgid "Rounded Square"
+msgstr "گوشه های گرد"
+
+#: config/elements/socials.php:103 config/widgets.php:263
+msgid "Icons Style"
+msgstr "استایل آیکون"
+
+#: config/elements/socials.php:107 config/widgets.php:266
+msgid "With outline"
+msgstr "با خط دور"
+
+#: config/elements/socials.php:108 config/widgets.php:267
+msgid "With light background"
+msgstr "با پس زمینه روشن"
+
+#: config/elements/socials.php:109 config/widgets.php:268
+msgid "With colored background"
+msgstr "با پس زمینه رنگی"
+
+#: config/elements/socials.php:117 config/theme-options.php:1918
+#: config/widgets.php:294
+msgid "Hover Style"
+msgstr "استایل شناور"
+
+#: config/elements/socials.php:130
+msgid "Gap between Icons"
+msgstr "فاصله میان آیکون ها"
+
+#: config/elements/socials.php:138
+msgid "Hide tooltip on hover"
+msgstr "مخفی کردن راهنمای ابزار در شناور"
+
+#: config/elements/text.php:9
+msgid "Custom text with link and icon"
+msgstr "متن دلخواه با لینک و آیکن"
+
+#: config/elements_design_options.php:13
+msgid "Extra class"
+msgstr "کلاس اضافی"
+
+#: config/elements_design_options.php:18 config/elements_design_options.php:27
+#: config/elements_design_options.php:34 config/elements_design_options.php:501
+#: config/elements_design_options.php:508
+#: config/elements_design_options.php:525
+#: config/elements_design_options.php:540
+#: plugins-support/js_composer/js_composer.php:448
+#: plugins-support/js_composer/map/vc_column.php:56
+#: plugins-support/js_composer/map/vc_column.php:64
+#: plugins-support/js_composer/map/vc_column.php:74
+#: plugins-support/js_composer/map/vc_column_inner.php:48
+#: plugins-support/js_composer/map/vc_column_inner.php:56
+#: plugins-support/js_composer/map/vc_column_inner.php:66
+#: plugins-support/js_composer/map/vc_column_text.php:25
+#: plugins-support/js_composer/map/vc_column_text.php:33
+#: plugins-support/js_composer/map/vc_column_text.php:98
+#: plugins-support/js_composer/map/vc_custom_heading.php:15
+#: plugins-support/js_composer/map/vc_custom_heading.php:23
+#: plugins-support/js_composer/map/vc_row.php:44
+#: plugins-support/js_composer/map/vc_row.php:52
+#: plugins-support/js_composer/map/vc_row.php:62
+#: plugins-support/js_composer/map/vc_row_inner.php:37
+#: plugins-support/js_composer/map/vc_row_inner.php:45
+#: plugins-support/js_composer/map/vc_row_inner.php:55
+#: plugins-support/js_composer/map/vc_tta_accordion.php:41
+#: plugins-support/js_composer/map/vc_tta_accordion.php:49
+#: plugins-support/js_composer/map/vc_tta_accordion.php:59
+#: plugins-support/js_composer/map/vc_tta_section.php:109
+#: plugins-support/js_composer/map/vc_tta_tabs.php:41
+#: plugins-support/js_composer/map/vc_tta_tabs.php:49
+#: plugins-support/js_composer/map/vc_tta_tabs.php:59
+#: plugins-support/js_composer/map/vc_tta_tour.php:42
+#: plugins-support/js_composer/map/vc_tta_tour.php:50
+#: plugins-support/js_composer/map/vc_tta_tour.php:60
+#: plugins-support/js_composer/map/vc_video.php:25
+#: plugins-support/js_composer/map/vc_video.php:33
+#: plugins-support/js_composer/map/vc_video.php:43
+msgid "Design"
+msgstr "طراحی"
+
+#: config/elements_design_options.php:23
+msgid "Element ID"
+msgstr "آی دی عنصر"
+
+#: config/elements_design_options.php:63 config/theme-options.php:2021
+#: config/theme-options.php:2423
+#: plugins-support/js_composer/map/vc_tta_tabs.php:109
+#: plugins-support/js_composer/map/vc_tta_tour.php:144
+msgid "Font"
+msgstr "فونت"
+
+#: config/elements_design_options.php:70 config/theme-options.php:494
+#: config/theme-options.php:1856 config/theme-options.php:2106
+#: config/theme-options.php:2496
+#: plugins-support/js_composer/map/vc_tta_tabs.php:118
+#: plugins-support/js_composer/map/vc_tta_tour.php:153
+msgid "Font Weight"
+msgstr "وزن قلم"
+
+#: config/elements_design_options.php:74
+#: plugins-support/js_composer/map/vc_tta_tabs.php:122
+#: plugins-support/js_composer/map/vc_tta_tour.php:157
+#: usof/templates/fields/font.php:167 usof/templates/fields/font.php:168
+msgid "thin"
+msgstr "نازک"
+
+#: config/elements_design_options.php:75
+#: plugins-support/js_composer/map/vc_tta_tabs.php:123
+#: plugins-support/js_composer/map/vc_tta_tour.php:158
+#: usof/templates/fields/font.php:169 usof/templates/fields/font.php:170
+msgid "extra-light"
+msgstr "خیلی روشن"
+
+#: config/elements_design_options.php:76
+#: plugins-support/js_composer/map/vc_tta_tabs.php:124
+#: plugins-support/js_composer/map/vc_tta_tour.php:159
+#: usof/templates/fields/font.php:171 usof/templates/fields/font.php:172
+msgid "light"
+msgstr "روشن"
+
+#: config/elements_design_options.php:77 config/elements_design_options.php:107
+#: plugins-support/js_composer/map/vc_tta_tabs.php:125
+#: plugins-support/js_composer/map/vc_tta_tour.php:160
+#: usof/templates/fields/font.php:173 usof/templates/fields/font.php:174
+msgid "normal"
+msgstr "عادی"
+
+#: config/elements_design_options.php:78
+#: plugins-support/js_composer/map/vc_tta_tabs.php:126
+#: plugins-support/js_composer/map/vc_tta_tour.php:161
+#: usof/templates/fields/font.php:175 usof/templates/fields/font.php:176
+msgid "medium"
+msgstr "متوسط"
+
+#: config/elements_design_options.php:79
+#: plugins-support/js_composer/map/vc_tta_tabs.php:127
+#: plugins-support/js_composer/map/vc_tta_tour.php:162
+#: usof/templates/fields/font.php:177 usof/templates/fields/font.php:178
+msgid "semi-bold"
+msgstr "نیمه پر"
+
+#: config/elements_design_options.php:80
+#: plugins-support/js_composer/map/vc_tta_tabs.php:128
+#: plugins-support/js_composer/map/vc_tta_tour.php:163
+#: usof/templates/fields/font.php:179 usof/templates/fields/font.php:180
+msgid "bold"
+msgstr "پررنگ"
+
+#: config/elements_design_options.php:81
+#: plugins-support/js_composer/map/vc_tta_tabs.php:129
+#: plugins-support/js_composer/map/vc_tta_tour.php:164
+#: usof/templates/fields/font.php:181 usof/templates/fields/font.php:182
+msgid "extra-bold"
+msgstr "خیلی پررنگ"
+
+#: config/elements_design_options.php:82
+#: plugins-support/js_composer/map/vc_tta_tabs.php:130
+#: plugins-support/js_composer/map/vc_tta_tour.php:165
+#: usof/templates/fields/font.php:183 usof/templates/fields/font.php:184
+msgid "ultra-bold"
+msgstr "فوق العاده پررنگ"
+
+#: config/elements_design_options.php:89
+#: plugins-support/js_composer/map/vc_tta_tabs.php:139
+#: plugins-support/js_composer/map/vc_tta_tour.php:174
+msgid "Text Transform"
+msgstr "تغییر شکل متن"
+
+#: config/elements_design_options.php:103
+msgid "Font Style"
+msgstr "استایل فونت"
+
+#: config/elements_design_options.php:108 usof/templates/fields/font.php:168
+#: usof/templates/fields/font.php:170 usof/templates/fields/font.php:172
+#: usof/templates/fields/font.php:174 usof/templates/fields/font.php:176
+#: usof/templates/fields/font.php:178 usof/templates/fields/font.php:180
+#: usof/templates/fields/font.php:182 usof/templates/fields/font.php:184
+msgid "italic"
+msgstr "ایتالیک"
+
+#: config/elements_design_options.php:115 config/theme-options.php:455
+#: config/theme-options.php:1730 config/theme-options.php:2041
+#: config/theme-options.php:2452
+#: plugins-support/js_composer/map/vc_tta_tabs.php:155
+#: plugins-support/js_composer/map/vc_tta_tour.php:190
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+#: config/elements_design_options.php:123 config/theme-options.php:477
+#: config/theme-options.php:1742 config/theme-options.php:2076
+#: plugins-support/js_composer/map/vc_tta_tabs.php:165
+#: plugins-support/js_composer/map/vc_tta_tour.php:200
+msgid "Line height"
+msgstr "ارتفاع خط"
+
+#: config/elements_design_options.php:131 config/theme-options.php:507
+#: config/theme-options.php:2131 config/theme-options.php:2531
+msgid "Letter Spacing"
+msgstr "فاصله بین حروف"
+
+#: config/elements_design_options.php:141
+msgid "Background Сolor"
+msgstr "رنگ پس زمینه"
+
+#: config/elements_design_options.php:145
+#: config/elements_design_options.php:151
+#: config/elements_design_options.php:159
+#: config/elements_design_options.php:168
+#: config/elements_design_options.php:182
+#: config/elements_design_options.php:194
+msgid "Background"
+msgstr "پس زمینه"
+
+#: config/elements_design_options.php:154 config/grid-settings.php:148
+#: config/header-settings.php:385 config/menu-dropdown.php:169
+#: config/theme-options.php:881 plugins-support/js_composer/map/vc_row.php:368
+msgid "Background Image Position"
+msgstr "موقعیت عکس زمینه"
+
+#: config/elements_design_options.php:172 config/grid-settings.php:165
+#: config/header-settings.php:374 config/menu-dropdown.php:156
+#: config/theme-options.php:869 plugins-support/js_composer/map/vc_row.php:409
+msgid "Background Image Repeat"
+msgstr "تکرار عکس زمینه"
+
+#: config/elements_design_options.php:175 config/grid-settings.php:169
+#: config/header-settings.php:377 config/menu-dropdown.php:159
+#: config/theme-options.php:872 plugins-support/js_composer/map/vc_row.php:412
+msgid "Repeat"
+msgstr "تکرار"
+
+#: config/elements_design_options.php:176 config/grid-settings.php:170
+#: config/header-settings.php:378 config/menu-dropdown.php:160
+#: config/theme-options.php:873 plugins-support/js_composer/map/vc_row.php:413
+msgid "Horizontally"
+msgstr "افقی"
+
+#: config/elements_design_options.php:177 config/grid-settings.php:171
+#: config/header-settings.php:379 config/menu-dropdown.php:161
+#: config/theme-options.php:874 plugins-support/js_composer/map/vc_row.php:414
+msgid "Vertically"
+msgstr "عمودی"
+
+#: config/elements_design_options.php:186
+msgid "Background Image Attachment"
+msgstr "پیوست تصویر پس زمینه"
+
+#: config/elements_design_options.php:205
+#: config/elements_design_options.php:213
+#: config/elements_design_options.php:221
+#: config/elements_design_options.php:229
+#: config/elements_design_options.php:237
+#: config/elements_design_options.php:245
+msgid "Sizes"
+msgstr "اندزه ها"
+
+#: config/elements_design_options.php:232
+msgid "Min Width"
+msgstr "عرض اصلی"
+
+#: config/elements_design_options.php:240
+msgid "Min Height"
+msgstr "ارتفاع اصلی"
+
+#: config/elements_design_options.php:255
+#: config/elements_design_options.php:264
+#: config/elements_design_options.php:272
+#: config/elements_design_options.php:280
+#: config/elements_design_options.php:288
+#: config/elements_design_options.php:297
+#: config/elements_design_options.php:305
+#: config/elements_design_options.php:313
+msgid "Spacing"
+msgstr "فاصله"
+
+#: config/elements_design_options.php:318
+msgid "Border Style"
+msgstr "استایل حاشیه"
+
+#: config/elements_design_options.php:329
+#: config/elements_design_options.php:337
+#: config/elements_design_options.php:345
+#: config/elements_design_options.php:361
+#: config/elements_design_options.php:370
+#: config/elements_design_options.php:379
+#: config/elements_design_options.php:388
+msgid "Border"
+msgstr "حاشیه"
+
+#: config/elements_design_options.php:332 config/grid-settings.php:180
+#: config/theme-options.php:2093 config/theme-options.php:2509
+msgid "Border Radius"
+msgstr "گرد کردن حاشیه"
+
+#: config/elements_design_options.php:340 config/theme-options.php:2119
+#: config/theme-options.php:2544
+msgid "Border Width"
+msgstr "عرض خط کادر"
+
+#: config/elements_design_options.php:383
+msgid "Border Сolor"
+msgstr "رنگ کادر"
+
+#: config/elements_design_options.php:403
+#: config/elements_design_options.php:406
+#: config/elements_design_options.php:411
+#: config/elements_design_options.php:421
+#: config/elements_design_options.php:430
+#: config/elements_design_options.php:439
+#: config/elements_design_options.php:447
+#: plugins-support/js_composer/map/vc_tta_tour.php:100
+msgid "Position"
+msgstr "جایگاه"
+
+#: config/elements_design_options.php:453
+msgid "Horizontal Offset"
+msgstr "انحراف افقی"
+
+#: config/elements_design_options.php:458
+#: config/elements_design_options.php:466
+#: config/elements_design_options.php:474
+#: config/elements_design_options.php:482
+#: config/elements_design_options.php:490
+msgid "Box Shadow"
+msgstr "باکس سایه"
+
+#: config/elements_design_options.php:461
+msgid "Vertical Offset"
+msgstr "انحراف عمودی"
+
+#: config/elements_design_options.php:469 config/theme-options.php:2319
+#: config/theme-options.php:2377
+msgid "Blur"
+msgstr "بلور"
+
+#: config/elements_design_options.php:477 config/theme-options.php:2331
+#: config/theme-options.php:2389
+msgid "Spread"
+msgstr "گسترش"
+
+#: config/elements_design_options.php:499
+msgid "Hide this element when the header is sticky"
+msgstr "این المان را زمانی که سربرگ چسبان است مخفی کن"
+
+#: config/elements_design_options.php:506
+msgid "Hide this element when the header is NOT sticky"
+msgstr "این المان را زمانی که سربرگ چسبان نیست مخفی کن"
+
+#: config/elements_design_options.php:514
+msgid "Hide on screens LESS than"
+msgstr "مخفی کردن در صفحه های کمتر از"
+
+#: config/elements_design_options.php:529
+msgid "Hide on screens MORE than"
+msgstr "مخفی کردن در صفحه های بیشتر از"
+
+#: config/elements_hover_options.php:10
+msgid "Enable hover effect"
+msgstr "فعالسازی افکت شناوری (hover)"
+
+#: config/elements_hover_options.php:11
+msgid "Change appearance of this element when hover on the whole Grid Layout"
+msgstr ""
+"ظاهر این عنصر را تغییر دهید زمانی که ماوس روی کل حالت شبکه ای شناور است"
+
+#: config/elements_hover_options.php:14 config/elements_hover_options.php:30
+#: config/elements_hover_options.php:46 config/elements_hover_options.php:62
+#: config/elements_hover_options.php:78 config/elements_hover_options.php:102
+#: config/elements_hover_options.php:126 config/elements_hover_options.php:150
+#: config/elements_hover_options.php:174 config/elements_hover_options.php:184
+#: config/elements_hover_options.php:195 config/elements_hover_options.php:206
+#: config/elements_hover_options.php:222 config/elements_hover_options.php:237
+#: config/elements_hover_options.php:252
+msgid "Hover Effect"
+msgstr "افکت شناوری"
+
+#: config/elements_hover_options.php:18
+msgid "Opacity"
+msgstr "شفافیت"
+
+#: config/elements_hover_options.php:34
+msgid "Opacity on Hover"
+msgstr "شفافیت در شناوری"
+
+#: config/elements_hover_options.php:50
+msgid "Scale"
+msgstr "مقیاس"
+
+#: config/elements_hover_options.php:66
+msgid "Scale on Hover"
+msgstr "مقایس در شناوری"
+
+#: config/elements_hover_options.php:82
+msgid "Horizontal Shift"
+msgstr "تغییر افقی"
+
+#: config/elements_hover_options.php:106
+msgid "Horizontal Shift on Hover"
+msgstr "تغییر افقی در شناوری"
+
+#: config/elements_hover_options.php:130
+msgid "Vertical Shift"
+msgstr "تغییر عمودی"
+
+#: config/elements_hover_options.php:154
+msgid "Vertical Shift on Hover"
+msgstr "تغییر عمودی در شناوری"
+
+#: config/elements_hover_options.php:178
+msgid "Background Сolor on Hover"
+msgstr "رنگ پس زمینه در حالت شناوری"
+
+#: config/elements_hover_options.php:188
+msgid "Border Сolor on Hover"
+msgstr "رنگ خط کادر در شناوری"
+
+#: config/elements_hover_options.php:199
+msgid "Text Сolor on Hover"
+msgstr "رنگ متن در شناوری"
+
+#: config/elements_hover_options.php:210
+msgid "Hover Transition Duration"
+msgstr "مدت زمان حرکت شناوری"
+
+#: config/elements_misc.php:27
+msgid "SlideDown"
+msgstr "اسلاید به پایین"
+
+#: config/elements_misc.php:28
+msgid "Fade + SlideDown"
+msgstr "محو + اسلاید به پایین"
+
+#: config/elements_misc.php:30
+msgid "Horizontal Slide"
+msgstr "اسلایدر افقی"
+
+#: config/elements_misc.php:31
+msgid "Material Design Effect"
+msgstr "افکت متریال دیزاین"
+
+#: config/elements_misc.php:84
+#, php-format
+msgid "Add or edit a menu on the %s page"
+msgstr "افزودن یا ویرایش منوی صفحه %s"
+
+#: config/elements_misc.php:87
+msgid "Edit image sizes"
+msgstr "ویرایش اندازه های تصویر"
+
+#: config/elements_misc.php:90
+#, php-format
+msgid "Add or edit Button Styles on %sTheme Options%s"
+msgstr "افزودن یا ویرایش استایل دکمه ها در %sتنظیمات پوسته %s"
+
+#: config/elements_misc.php:93
+#, php-format
+msgid ""
+"To apply a URL from a custom field, use its name between the %s symbols."
+msgstr ""
+"برای گذاشتن یک URL از یک فیلد دلخواه، نام آن را بین علامت های %s بگذارید."
+
+#: config/elements_misc.php:96
+#, php-format
+msgid "Add or edit Header on the %s page"
+msgstr "افزودن یا ویرایش سربرگ (هدر) در صفحه %s"
+
+#: config/elements_misc.php:99
+#, php-format
+msgid "Add or edit content template on the %s page"
+msgstr "افزودن یا ویرایش قالب محتوا در صفحه %s"
+
+#: config/elements_misc.php:102
+#, php-format
+msgid "Add or edit Footer on the %s page"
+msgstr "افزودن یا ویرایش پاورقی (فوتر) صفحه %s"
+
+#: config/elements_misc.php:105
+msgid "In seconds:"
+msgstr "در ثانیه:"
+
+#: config/elements_misc.php:108
+msgid "In milliseconds:"
+msgstr "به میلی ثانیه:"
+
+#: config/grid-settings.php:100
+msgid "Hide Overflowing Content"
+msgstr "پنهان کردن محتوای بیشتر"
+
+#: config/grid-settings.php:192 config/theme-options.php:1981
+#: config/theme-options.php:1989 config/theme-options.php:1993
+#: config/theme-options.php:2276 config/theme-options.php:2284
+#: config/theme-options.php:2290
+msgid "Shadow"
+msgstr "سایه"
+
+#: config/grid-settings.php:204 config/theme-options.php:2006
+msgid "Shadow on hover"
+msgstr "سایه در حالت شناوری"
+
+#: config/grid-templates.php:13
+msgid "Blog Templates"
+msgstr "قالب های وبلاگ"
+
+#: config/grid-templates.php:1293
+msgid "Read More"
+msgstr "بیش تر بخوانید"
+
+#: config/grid-templates.php:1398
+msgid "News Templates"
+msgstr "قالب های خبر"
+
+#: config/grid-templates.php:1496
+msgid "Gallery Templates"
+msgstr "قالب های گالری"
+
+#: config/grid-templates.php:1515
+msgid "Image Gallery with titles BELOW the image"
+msgstr "گالری تصاویر با عناوین در زیر تصویر"
+
+#: config/grid-templates.php:1596
+msgid "Image Gallery with titles OVER the image"
+msgstr "گالری تصاویر با عناوین روی تصویر"
+
+#: config/grid-templates.php:1691
+msgid "Portfolio Templates"
+msgstr "قالب نمونه کارها"
+
+#: config/grid-templates.php:3198
+msgid "Testimonial Templates"
+msgstr "قالب های نظرات مشتریان"
+
+#: config/grid-templates.php:3745
+msgid "Shop Templates"
+msgstr "قالب های فروشگاه"
+
+#: config/header-settings.php:36
+msgid "Apply when the screen width is less than"
+msgstr "این گزینه فعال باشد هنگامی که عرض صفحه نمایش کمتر است از"
+
+#: config/header-settings.php:53
+msgid "Orientation"
+msgstr "گرایش (جهت)"
+
+#: config/header-settings.php:64
+msgid "Fix the header at the top of a page during scroll"
+msgstr "با اسکرول کردن، سربرگ بالای برگه ثابت می ماند"
+
+#: config/header-settings.php:70
+msgid "Auto-hide on scroll down"
+msgstr "مخفی کردن خودکار در اسکرول به پایین"
+
+#: config/header-settings.php:81
+msgid "Header Scroll Breakpoint"
+msgstr "نقطه شکست اسکرول سربرگ"
+
+#: config/header-settings.php:82
+msgid ""
+"This option sets scroll distance from the top of a page after which the "
+"sticky header will be shrunk"
+msgstr "بعد از طی شدن این فاصله نسبت به بالای صفحه، سربرگ چسبان نمایان می شود"
+
+#: config/header-settings.php:101
+msgid "Make the header transparent at its initial position"
+msgstr "سربرگ شفاف در موقعیت ابتدایی آن"
+
+#: config/header-settings.php:107
+msgid "Header Width"
+msgstr "عرض سربرگ"
+
+#: config/header-settings.php:124
+msgid "Elements Alignment"
+msgstr "ترازبندی المان ها"
+
+#: config/header-settings.php:135 config/meta-boxes.php:98
+msgid "Header Shadow"
+msgstr "سایه سربرگ"
+
+#: config/header-settings.php:139
+msgid "Thin"
+msgstr "باریک"
+
+#: config/header-settings.php:140
+msgid "Wide"
+msgstr "عریض"
+
+#: config/header-settings.php:149 config/header-settings.php:484
+msgid "Show Area"
+msgstr "نمایش ناحیه"
+
+#: config/header-settings.php:154 config/header-settings.php:294
+#: config/header-settings.php:489
+msgid "Area Height"
+msgstr "ارتفاع ناحیه"
+
+#: config/header-settings.php:171 config/header-settings.php:307
+#: config/header-settings.php:505
+msgid "Sticky Area Height"
+msgstr "ارتفاع ناحیه چسبان"
+
+#: config/header-settings.php:189 config/header-settings.php:323
+#: config/header-settings.php:523
+#: plugins-support/js_composer/map/vc_row.php:310
+msgid "Full Width Content"
+msgstr "محتوای تمام عرض"
+
+#: config/header-settings.php:201 config/header-settings.php:333
+#: config/header-settings.php:535
+msgid "Center the middle cell"
+msgstr "سلول میانی در وسط"
+
+#: config/header-settings.php:241 config/header-settings.php:279
+#: config/header-settings.php:435 config/header-settings.php:470
+#: config/header-settings.php:573 config/header-settings.php:611
+#: config/theme-options.php:1379 config/theme-options.php:1398
+#: config/theme-options.php:1434 config/theme-options.php:1455
+#: config/theme-options.php:1508 config/theme-options.php:1582
+#: config/theme-options.php:1651 config/theme-options.php:1699
+msgid "Link on hover"
+msgstr "لینک در زمان شناوری"
+
+#: config/header-settings.php:340
+msgid "Elements Vertical Alignment"
+msgstr "ترازبندی عمودی المان ها"
+
+#: config/menu-dropdown.php:47
+msgid "Stretch background to the screen edges"
+msgstr "کشیدن پس زمینه به حاشیه صفحه نمایش"
+
+#: config/menu-dropdown.php:53
+msgid "Drop from"
+msgstr "رها کردن از"
+
+#: config/menu-dropdown.php:56
+msgid "Menu item"
+msgstr "آیتم منو"
+
+#: config/menu-dropdown.php:65
+msgid "Drop to"
+msgstr "رها کردن به"
+
+#: config/menu-dropdown.php:78
+msgid "Columns for sub-items"
+msgstr "ستون ها برای زیر آیتم ها"
+
+#: config/menu-dropdown.php:92
+msgid "Inner indents"
+msgstr "تو رفتگی داخلی"
+
+#: config/menu-dropdown.php:189
+msgid "Override settings for this menu item"
+msgstr "نا دیده گرفتن تنظیمات برای آیتم این منو"
+
+#: config/meta-boxes.php:31
+msgid "Page Layout"
+msgstr "طرح بندی صفحه"
+
+#: config/meta-boxes.php:44 config/meta-boxes.php:126 config/meta-boxes.php:142
+#: config/meta-boxes.php:156 config/meta-boxes.php:185 functions/post.php:329
+msgid "As in Theme Options"
+msgstr "همانطور که در تنظیمات پوسته است"
+
+#: config/meta-boxes.php:45 config/meta-boxes.php:127 config/meta-boxes.php:157
+#: config/meta-boxes.php:186 config/theme-options.php:118
+#: config/theme-options.php:131 config/theme-options.php:157
+#: config/theme-options.php:184 config/theme-options.php:213
+#: config/theme-options.php:226 config/theme-options.php:251
+#: config/theme-options.php:278 config/theme-options.php:309
+#: config/theme-options.php:322 config/theme-options.php:347
+#: config/theme-options.php:374 config/theme-options.php:1111
+#: config/theme-options.php:1122 config/theme-options.php:1144
+#: config/theme-options.php:1168 config/theme-options.php:1196
+#: config/theme-options.php:1207 config/theme-options.php:1229
+#: config/theme-options.php:1253 config/theme-options.php:1274
+#: config/theme-options.php:1286 config/theme-options.php:1309
+#: config/theme-options.php:1334 config/theme-options.php:2815
+#: config/theme-options.php:2827 config/theme-options.php:2850
+#: config/theme-options.php:2875 config/theme-options.php:2894
+#: config/theme-options.php:2906 config/theme-options.php:2951
+#: config/theme-options.php:2976
+msgid "Do not display"
+msgstr "عدم نمایش"
+
+#: config/meta-boxes.php:54 config/meta-boxes.php:77
+msgid "Override this setting"
+msgstr "نادیده گرفتن این تنظیمات"
+
+#: config/meta-boxes.php:62 config/meta-boxes.php:85
+msgid "On Desktops"
+msgstr "در دسکتاپ"
+
+#: config/meta-boxes.php:63 config/meta-boxes.php:86
+msgid "On Tablets"
+msgstr "در تبلت"
+
+#: config/meta-boxes.php:64 config/meta-boxes.php:87
+msgid "On Mobiles"
+msgstr "در موبایل"
+
+#: config/meta-boxes.php:100
+msgid "Remove header shadow"
+msgstr "حذف سایه سربرگ"
+
+#: config/meta-boxes.php:106
+msgid "Sticky Header Initial Position"
+msgstr "موقعیت ابتدایی سربرگ چسبان"
+
+#: config/meta-boxes.php:109
+msgid "At the Top of this page"
+msgstr "در بالای این برگه"
+
+#: config/meta-boxes.php:110
+msgid "At the Bottom of the first content row"
+msgstr "در پایین اولین ردیف محتوا"
+
+#: config/meta-boxes.php:111
+msgid "Above the first content row"
+msgstr "بالای اولین ردیف محتوا"
+
+#: config/meta-boxes.php:112
+msgid "Below the first content row"
+msgstr "زیر اولین ردیف محتوا"
+
+#: config/meta-boxes.php:121 config/theme-options.php:125
+#: config/theme-options.php:220 config/theme-options.php:316
+#: config/theme-options.php:1117 config/theme-options.php:1202
+#: config/theme-options.php:1280 config/theme-options.php:2821
+#: config/theme-options.php:2900 functions/post-types.php:694
+msgid "Titlebar"
+msgstr "نوار عنوان"
+
+#: config/meta-boxes.php:137 config/theme-options.php:139
+#: config/theme-options.php:234 config/theme-options.php:330
+#: config/theme-options.php:1129 config/theme-options.php:1214
+#: config/theme-options.php:1293 config/theme-options.php:2834
+#: config/theme-options.php:2913 functions/header.php:567
+#: functions/post-types.php:210
+msgid "Content template"
+msgstr "قالب محتوا"
+
+#: config/meta-boxes.php:143 config/theme-options.php:145
+#: config/theme-options.php:1134
+msgid "Show content as is"
+msgstr "نمایش محتوا همانطور که هست"
+
+#: config/meta-boxes.php:180 config/theme-options.php:178
+#: config/theme-options.php:272 config/theme-options.php:368
+#: config/theme-options.php:1163 config/theme-options.php:1248
+#: config/theme-options.php:1328 config/theme-options.php:2869
+#: config/theme-options.php:2970 functions/header.php:569
+#: functions/post-types.php:697
+msgid "Footer"
+msgstr "فوتر"
+
+#: config/meta-boxes.php:217
+msgid "Custom Size"
+msgstr "اندازه دلخواه"
+
+#: config/meta-boxes.php:270 functions/helpers.php:1959
+msgid "Author Link"
+msgstr "لینک نویسنده"
+
+#: config/meta-boxes.php:294 functions/post-types.php:364
+msgid "Used in"
+msgstr "استفاده شده در"
+
+#: config/theme-options.php:117 config/theme-options.php:130
+#: config/theme-options.php:144 config/theme-options.php:156
+#: config/theme-options.php:183 config/theme-options.php:2814
+#: config/theme-options.php:2826 config/theme-options.php:2849
+#: config/theme-options.php:2874 config/theme-options.php:2893
+#: config/theme-options.php:2905 config/theme-options.php:2950
+#: config/theme-options.php:2975
+msgid "As in Pages"
+msgstr "همانطور که در صفحات است"
+
+#: config/theme-options.php:212 config/theme-options.php:225
+#: config/theme-options.php:239 config/theme-options.php:250
+#: config/theme-options.php:277 config/theme-options.php:1273
+#: config/theme-options.php:1285 config/theme-options.php:1298
+#: config/theme-options.php:1308 config/theme-options.php:1333
+msgid "As in Archives"
+msgstr "همانطور که در بایگانی است"
+
+#: config/theme-options.php:308 config/theme-options.php:321
+#: config/theme-options.php:335 config/theme-options.php:346
+#: config/theme-options.php:373
+msgid "As in Shop Page"
+msgstr "همانطور که در برگه فروشگاه است"
+
+#: config/theme-options.php:387
+#, php-format
+msgid "%s different images sizes are registered."
+msgstr "%s اندازه تصاویر مختلف رجیستر شده است."
+
+#: config/theme-options.php:395
+#, php-format
+msgid "To change the default image sizes, go to %s."
+msgstr "برای تغییر اندازه پیش فرض تصویر بروید به %s."
+
+#: config/theme-options.php:400
+#, php-format
+msgid "To change the Product image sizes, go to %s."
+msgstr "برای تغییر اندازه تصاویر محصول بروید به %s."
+
+#: config/theme-options.php:439
+#, php-format
+msgid "Heading %s Preview"
+msgstr "پیش نمایش %s عنوان"
+
+#: config/theme-options.php:527 config/theme-options.php:1761
+msgid "Font Size on Mobiles"
+msgstr "اندازه فونت در موبایل ها"
+
+# نمیدونم کاربردش کجاست؟
+#: config/theme-options.php:549
+msgid "Bottom indent"
+msgstr "تو رفتگی پایین"
+
+#: config/theme-options.php:573 config/theme-options.php:2147
+msgid "Uppercase"
+msgstr "حروف بزرگ"
+
+#: config/theme-options.php:574 config/theme-options.php:1871
+#: config/theme-options.php:2148
+msgid "Italic"
+msgstr "ایتالیک"
+
+#: config/theme-options.php:602 functions/post.php:221
+msgid "Maintenance Mode"
+msgstr "حالت در حال کار"
+
+#: config/theme-options.php:603
+msgid ""
+"When this option is ON, all not logged in users will see only specific page "
+"selected by you. This is useful when your site is under construction."
+msgstr ""
+"هنگامی که این گزینه فعال باشد، تمام کاربران وارد نشده، فقط برگه ای که شما "
+"انتخاب کرده اید، می بینند. برای وقتی که سایت در حال ایجاد یا تغییرات است، "
+"مناسب می باشد."
+
+#: config/theme-options.php:605
+msgid "Show for site visitors only specific page"
+msgstr "نمایش برگه ای خاص به بازدیدکنندگان"
+
+#: config/theme-options.php:612
+#, php-format
+msgid ""
+"It's not possible to switch off this setting, while %s is activated for "
+"development."
+msgstr ""
+"غیر فعال کردن این تنظیم غیر ممکن است، تا زمانی که %s برای توسعه فعال است."
+
+#: config/theme-options.php:612
+#, php-format
+msgid "You can deactivate it on your %sLicenses%s page."
+msgstr "شما می توانید این مورد را در برگه %s لایسنس %s غیرفعال کنید."
+
+#: config/theme-options.php:626
+msgid ""
+"When this option is ON, your site will send HTTP 503 response to search "
+"engines. Use this option only for short period of time."
+msgstr ""
+"هنگامی که این گزینه روشن است، سایت شما پاسخ HTTP 503 را به موتورهای جستجو "
+"ارسال خواهد کرد. از این گزینه فقط برای مدت کوتاهی استفاده کنید."
+
+#: config/theme-options.php:628
+msgid "Enable \"503 Service Unavailable\" status"
+msgstr ""
+"فعالسازی وضعیت \"503 Service Unavailable\" (خطای 503 - سرویس در دسترس نیست)"
+
+#: config/theme-options.php:640
+msgid "Preloader Screen"
+msgstr "صفحه پیش بارگذاری"
+
+#: config/theme-options.php:644 config/theme-options.php:645
+#: config/theme-options.php:646 config/theme-options.php:647
+#: config/theme-options.php:648
+#, php-format
+msgid "Shows Preloader %d"
+msgstr "نمایش پیش بارگذاری %d"
+
+#: config/theme-options.php:649
+msgid "Shows Custom Image"
+msgstr "نمایش تصویر دلخواه"
+
+#: config/theme-options.php:660
+msgid "Images Placeholder"
+msgstr "متن راهنما تصاویر"
+
+#: config/theme-options.php:666
+msgid "Ripple Effect"
+msgstr "افکت موج دار"
+
+#: config/theme-options.php:668
+msgid "Show the ripple effect when clicking on theme elements"
+msgstr "نمایش افکت موجدار زمانی که بر عناصر پوسته کلیک می شود"
+
+#: config/theme-options.php:672
+msgid "Rounded Corners"
+msgstr "گوشه های گرد"
+
+#: config/theme-options.php:674
+msgid "Enable rounded corners of theme elements"
+msgstr "فعال نمودن گوشه های گرد برای المان ها"
+
+#: config/theme-options.php:678
+msgid "Links Underline"
+msgstr "خط زیر لینک ها"
+
+#: config/theme-options.php:680
+msgid "Underline text links on hover"
+msgstr "خط کشیدن زیر لینک ها در حالت شناور"
+
+#: config/theme-options.php:684
+msgid "Keyboard Accessibility"
+msgstr "دسترسی به صفحه کلید"
+
+#: config/theme-options.php:686
+msgid "Highlight theme elements on focus"
+msgstr "هنگام فوکوس ، عناصر پوسته را برجسته نشان میدهد"
+
+#: config/theme-options.php:692
+#, php-format
+msgid "\"%s\" button"
+msgstr "دکمه \"%s\""
+
+#: config/theme-options.php:692 templates/footer.php:62
+msgid "Back to top"
+msgstr "بازگشت‌به‌بالا"
+
+#: config/theme-options.php:694
+msgid "Enable button which scrolls a page back to the top"
+msgstr "دکمه ای که برگه را به بالا برمی گرداند"
+
+#: config/theme-options.php:704 config/theme-options.php:793
+#: config/theme-options.php:2697 config/theme-options.php:2704
+msgid "Edit Button Styles"
+msgstr "ویرایش استایل های دکمه"
+
+#: config/theme-options.php:726
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+#: config/theme-options.php:732
+msgid "Show Button after page is scrolled to"
+msgstr "نمایش دکمه بعد از اینکه برگه اسکرول یافت"
+
+# از متن اصلی ایراد میگیره
+#: config/theme-options.php:733
+#, php-format
+msgid "1vh equals 1% of the screen height"
+msgstr "1vh equals 1% o از ارتفاع صفحه نمایش"
+
+#: config/theme-options.php:751
+msgid "Cookie Notice"
+msgstr "اعلان کوکی"
+
+#: config/theme-options.php:753
+msgid "Show notice that will be shown to new site visitors"
+msgstr "نمایش اعلانی که به بازدیدکنندگان جدید وب سایت نمایش داده می شود"
+
+#: config/theme-options.php:770
+#, php-format
+msgid "Show link to the %s page"
+msgstr "نمایش لینک به صفحه %s"
+
+#: config/theme-options.php:804
+msgid "Smooth Scroll Duration"
+msgstr "مدت زمان اسکرول نرم"
+
+#: config/theme-options.php:816
+msgid "Google Maps API Key"
+msgstr "کلید API نقشه گوگل"
+
+#: config/theme-options.php:817
+msgid "The API key is required for the domains created after June 22, 2016."
+msgstr ""
+"کلید API برای دامنه هایی که بعد از 22 ژوئن 2016 ایجاد شده اند، ضروری است."
+
+#: config/theme-options.php:817
+msgid "Get API key"
+msgstr "دریافت کلید API"
+
+#: config/theme-options.php:826
+msgid "Site Layout"
+msgstr "طرح بندی سایت"
+
+#: config/theme-options.php:829
+msgid "Site Canvas Layout"
+msgstr "طرح بندی بوم (Canvas) سایت"
+
+#: config/theme-options.php:839
+msgid "Body Background Color"
+msgstr "رنگ پیش زمینه بدنه"
+
+#: config/theme-options.php:844
+msgid "Body Background Image"
+msgstr "تصویر پس زمینه بدنه"
+
+#: config/theme-options.php:897
+msgid "Site Canvas Width"
+msgstr "عرض بوم سایت (canvas)"
+
+#: config/theme-options.php:910
+msgid "Site Content Width"
+msgstr "عرض محتوای سایت"
+
+#: config/theme-options.php:922
+msgid "Sidebar Width"
+msgstr "عرض سایدبار"
+
+#: config/theme-options.php:935
+msgid "Row Height by default"
+msgstr "ارتفاع ردیف به صورت پیش فرض"
+
+#: config/theme-options.php:938 plugins-support/js_composer/map/vc_row.php:285
+msgid "Equals the content height"
+msgstr "برابر با ارتفاع محتوا"
+
+# مطمئن نیستم indent اینجا چه معنی بده
+# باید دید کجا استفاده شده
+#: config/theme-options.php:969
+msgid "Text Blocks bottom indent"
+msgstr "تو رفتگی متن در بلوک های متن"
+
+#: config/theme-options.php:985
+msgid "Effects Disabling Width"
+msgstr "عرض غیرفعال شدن افکت"
+
+#: config/theme-options.php:986
+msgid ""
+"When screen width is less than this value, vertical parallax and animation "
+"of elements appearance will be disabled."
+msgstr ""
+"وقتی عرض صفحه از این مقدار کمتر شود، پارالاکس عمودی و انیمیشن المان ها "
+"غیرفعال میشود."
+
+#: config/theme-options.php:998
+msgid "Responsive Layout"
+msgstr "طرح بندی واکنش گرا (ریسپانسیو)"
+
+#: config/theme-options.php:1000
+msgid "Enable responsive layout"
+msgstr "فعال کردن طرح واکنش گرا"
+
+#: config/theme-options.php:1004
+msgid "Columns Stacking Width"
+msgstr "عرض جابجاکردن ستون ها"
+
+#: config/theme-options.php:1005
+msgid ""
+"When screen width is less than this value, all columns within a row will "
+"become a single column."
+msgstr ""
+"وقتی عرض صفحه از این مقدار کمتر شود، همه ستون های یک ردیف در زیر هم قرار "
+"میگیرند."
+
+#: config/theme-options.php:1018
+msgid "Tablets Screen Width"
+msgstr "عرض صفحه نمایش تبلت"
+
+#: config/theme-options.php:1019 config/theme-options.php:1033
+msgid "Used in Design settings of theme elements."
+msgstr "استفاده از تنظیمات طراحی برای عناصر پوسته."
+
+#: config/theme-options.php:1032
+msgid "Mobiles Screen Width"
+msgstr "عرض صفحه نمایش موبایل"
+
+#: config/theme-options.php:1050
+msgid "Pages Layout"
+msgstr "طرح بندی صفحات"
+
+#: config/theme-options.php:1057 config/theme-options.php:1076
+msgid ""
+"Selected page must contain Grid element showing items of the current query."
+msgstr ""
+"برگه منتخب باید شامل شبکه ای از المان ها باشد که آیتم های کوئری موجود را "
+"نمایش دهد."
+
+#: config/theme-options.php:1060 config/theme-options.php:1079
+#: config/theme-options.php:1219
+msgid "Show results via Grid element with defaults"
+msgstr "نمایش نتایج با شبکه ای از المان ها"
+
+#: config/theme-options.php:1067
+msgid "Exclude from Search Results"
+msgstr "از نتایج جستوجو حذف شود"
+
+#: config/theme-options.php:1088
+msgid "Page \"404 Not Found\""
+msgstr "صفحه \"404 Not Found\" (خطای 404 - پیدا نشد!)"
+
+#: config/theme-options.php:1089
+msgid "Selected page will be shown instead of the \"Page not found\" message."
+msgstr "برگه انتخاب شده به جای پیغام \"برگه پیدا نشد\" نمایش داده خواهد شد."
+
+#: config/theme-options.php:1180
+msgid "Archives Layout"
+msgstr "طرح بندی بایگانی ها"
+
+#: config/theme-options.php:1263 functions/post-types.php:731
+msgid "Authors"
+msgstr "نویسندگان"
+
+#: config/theme-options.php:1361
+msgid "Header colors"
+msgstr "رنگ های سربرگ (هدر)"
+
+#: config/theme-options.php:1403
+msgid "Toolbar in Chrome for Android"
+msgstr "نوار ابزار در مرورگر کروم برای اندروید"
+
+#: config/theme-options.php:1416
+msgid "Alternate Header colors"
+msgstr "رنگ های هدر جایگزین"
+
+#: config/theme-options.php:1468 plugins-support/js_composer/map/vc_row.php:322
+msgid "Content colors"
+msgstr "رنگ‌های محتوا"
+
+# محل استفاده در ترجمه مهمه
+#: config/theme-options.php:1479 config/theme-options.php:1553
+#: config/theme-options.php:1627 config/theme-options.php:1675
+msgid "Alternate Background"
+msgstr "پس زمینه جایگزین"
+
+#: config/theme-options.php:1490 config/theme-options.php:1564
+msgid "Headings"
+msgstr "عنوان ها"
+
+#: config/theme-options.php:1513 config/theme-options.php:1587
+msgid "Primary Color"
+msgstr "رنگ اصلی"
+
+#: config/theme-options.php:1518 config/theme-options.php:1592
+msgid "Secondary Color"
+msgstr "رنگ دوم"
+
+#: config/theme-options.php:1523 config/theme-options.php:1597
+msgid "Faded Text"
+msgstr "متن محو شده"
+
+#: config/theme-options.php:1542 plugins-support/js_composer/map/vc_row.php:323
+msgid "Alternate Content colors"
+msgstr "رنگ های محتوای جایگزین"
+
+#: config/theme-options.php:1616 plugins-support/js_composer/map/vc_row.php:326
+msgid "Footer colors"
+msgstr "رنگ های فوتر"
+
+#: config/theme-options.php:1664 plugins-support/js_composer/map/vc_row.php:327
+msgid "Alternate Footer colors"
+msgstr "رنگ های فوتر جایگزین"
+
+#: config/theme-options.php:1711
+msgid "Typography"
+msgstr "فونت ها (تایپوگرافی)"
+
+#: config/theme-options.php:1719
+msgid ""
+"This is how your site will show the <strong>text by default</strong>, while "
+"you can change the typography settings for most elements separately. Note "
+"the font size will affect all elements in \"rem\" units, that is, almost all "
+"areas of your site."
+msgstr ""
+"این چگونگی نمایش<strong> متن ها در </strong>سایت شماست، هرچند شما می توانید "
+"تنظیمات متن را برای اکثر المان ها به صورت جداگانه انجام دهید. توجه کنید که "
+"اندازه فونت روی المان هایی که با واحد \"rem\" تنظیم شده اند، تاثیر می گذارد "
+"و این یعنی تقریبا تمام بخش های سایت شما."
+
+#: config/theme-options.php:1773
+msgid "Line height on Mobiles"
+msgstr "ارتفاع خط در موبایل"
+
+#: config/theme-options.php:1792 functions/helpers.php:1231
+msgid "Additional Google Fonts"
+msgstr "فونت های اضافی گوگل"
+
+#: config/theme-options.php:1793
+msgid "In case when you need more Google Fonts in theme elements."
+msgstr ""
+"در حالتی که به فونت های گوگل بیشتری در المان های پوسته نیاز داشته باشید."
+
+#: config/theme-options.php:1807
+msgid "Google Font Preview"
+msgstr "پیش نمایش فونت های گوگل"
+
+#: config/theme-options.php:1816
+msgid "Google Fonts Display"
+msgstr "نمایش فونت های گوگل"
+
+#: config/theme-options.php:1817
+msgid "Sets behavior of fonts rendering."
+msgstr "رفتار رندر شدن فونت ها را تنظیم می کند."
+
+#: config/theme-options.php:1817
+#, php-format
+msgid "Read about %s property"
+msgstr "در مورد ویژگی %s بیشتر بخوانید"
+
+#: config/theme-options.php:1834 functions/helpers.php:1246
+#: functions/helpers.php:1291 usof/templates/fields/font.php:144
+msgid "Uploaded Fonts"
+msgstr "فونت‌های بارگزاری شده"
+
+#: config/theme-options.php:1835
+#, php-format
+msgid "Add custom fonts via uploading %s files."
+msgstr "اضافه کردن فونت های دلخواه از طریق آپلود %s فایل."
+
+#: config/theme-options.php:1835
+msgid "Read about usage of uploaded fonts"
+msgstr "اطلاعات بیشتر در مورد استفاده از فونت های آپلود شده"
+
+#: config/theme-options.php:1850
+msgid "Font Name"
+msgstr "نام فونت"
+
+#: config/theme-options.php:1877
+msgid "Font Files"
+msgstr "فایل های فونت"
+
+#: config/theme-options.php:1894
+msgid "Button Styles"
+msgstr "استایل  دکمه"
+
+#: config/theme-options.php:1912
+msgid "Button Style Name"
+msgstr "نام استایل دکمه"
+
+#: config/theme-options.php:1919
+msgid ""
+"\"Slide background from the top\" may not work with buttons of 3rd-party "
+"plugins."
+msgstr ""
+"\"اسلاید زدن پس زمینه از بالا\" ممکن است با دکمه های افزونه های واسطه (3rd-"
+"party) کار نکند."
+
+#: config/theme-options.php:1922
+msgid "Simple color change"
+msgstr "تغییر رنگ ساده"
+
+#: config/theme-options.php:1923
+msgid "Slide background from the top"
+msgstr "اسلاید زدن پس زمینه از بالا"
+
+#: config/theme-options.php:1939
+msgid "Colors on hover"
+msgstr "رنگ ها در زمان شناوری (hover)"
+
+#: config/theme-options.php:2028
+msgid "Relative Height"
+msgstr "ارتفاع نسبی (Relative)"
+
+#: config/theme-options.php:2063
+msgid "Relative Width"
+msgstr "عرض نسبی (Relative)"
+
+#: config/theme-options.php:2144
+msgid "Text Styles"
+msgstr "استایل های متن"
+
+#: config/theme-options.php:2157
+msgid "Default Button"
+msgstr "دکمه پیش فرض"
+
+#: config/theme-options.php:2211
+msgid "Fields Style"
+msgstr "استایل فیلد"
+
+#: config/theme-options.php:2232
+msgid "Colors on focus"
+msgstr "رنگ ها در حالت فوکوس"
+
+#: config/theme-options.php:2295 config/theme-options.php:2353
+msgid "Hor. offset"
+msgstr "انحراف افقی"
+
+#: config/theme-options.php:2307 config/theme-options.php:2365
+msgid "Ver. offset"
+msgstr "انحراف عمودی"
+
+#: config/theme-options.php:2348
+msgid "Shadow on focus"
+msgstr "سایه در حالت فوکوس"
+
+#: config/theme-options.php:2407 config/theme-options.php:2415
+msgid "Inner shadow"
+msgstr "سایه داخلی"
+
+#: config/theme-options.php:2474
+msgid "Side Indents"
+msgstr "تو رفتگی کنار"
+
+# ترجمه به محل به کارگیری این عبارت بستگی داره
+#: config/theme-options.php:2597
+msgid "Intermediate Breadcrumbs Page"
+msgstr "صفحه مسیر راهنمای متوسط"
+
+#: config/theme-options.php:2607
+msgid "Portfolio Page Slug"
+msgstr "نامک برگه نمونه کارها"
+
+#: config/theme-options.php:2612
+msgid "Portfolio Category Slug"
+msgstr "نامک دسته نمونه کارها"
+
+#: config/theme-options.php:2618
+msgid "Portfolio Tag Slug"
+msgstr "نامک برچسب نمونه کارها"
+
+#: config/theme-options.php:2626
+#, php-format
+msgid "Rename \"%s\" labels"
+msgstr "تغییر نام لیبل های \"%s\""
+
+#: config/theme-options.php:2639 config/theme-options.php:2640
+#: functions/post-types.php:25
+msgid "Portfolio Page"
+msgstr "برگه نمونه کارها"
+
+#: config/theme-options.php:2646 config/theme-options.php:2647
+#: functions/post-types.php:26 functions/post-types.php:27
+msgid "Add Portfolio Page"
+msgstr "افزودن برگه نمونه کارها"
+
+#: config/theme-options.php:2653 config/theme-options.php:2654
+#: functions/post-types.php:28
+msgid "Edit Portfolio Page"
+msgstr "ویرایش برگه نمونه کارها"
+
+#: config/theme-options.php:2660 config/theme-options.php:2661
+#: functions/post-types.php:48
+msgid "Portfolio Categories"
+msgstr "دسته های نمونه کارها"
+
+#: config/theme-options.php:2667 config/theme-options.php:2668
+#: functions/post-types.php:61
+msgid "Portfolio Tags"
+msgstr "برچسب های نمونه کارها"
+
+#: config/theme-options.php:2690
+msgid "Catalog Mode"
+msgstr "حالت کاتالوگ"
+
+#: config/theme-options.php:2692
+#, php-format
+msgid "Remove \"%s\" buttons"
+msgstr "حدف دکمه های %s"
+
+#: config/theme-options.php:2696
+msgid "Primary Buttons Style"
+msgstr "استایل دکمه های اصلی"
+
+#: config/theme-options.php:2703
+msgid "Secondary Buttons Style"
+msgstr "استایل دکمه های ثانویه"
+
+#: config/theme-options.php:2715
+msgid "Slider"
+msgstr "اسلايدر"
+
+#: config/theme-options.php:2725
+msgid "Thumbnails Position"
+msgstr "موقعیت بندانگشتی"
+
+#: config/theme-options.php:2755
+msgid "Thumbnails Width"
+msgstr "عرض بندانگشتی"
+
+#: config/theme-options.php:2777
+msgid "Gap between Thumbnails"
+msgstr "فاصله بین بندانگشتی ها"
+
+#: config/theme-options.php:2792
+msgid "Zoom images on hover"
+msgstr "بزرگنمایی در حالت شناوری (hover)"
+
+#: config/theme-options.php:2839 config/theme-options.php:2918
+msgid "Default WooCommerce template"
+msgstr "قالب پیش فرض ووکامرس"
+
+#: config/theme-options.php:2994
+msgid "Standard"
+msgstr "استاندارد"
+
+#: config/theme-options.php:3019
+msgid "Image Sizes"
+msgstr "سایز تصاویر"
+
+#: config/theme-options.php:3029
+msgid "Additional Image Sizes"
+msgstr "اندازه های تصویر اضافی"
+
+#: config/theme-options.php:3067
+msgid "Crop to exact dimensions"
+msgstr "برش به ابعاد دقیق"
+
+#: config/theme-options.php:3082
+msgid "Big Image Size Threshold"
+msgstr "حد نصاب (Threshold) اندازه تصویر بزرگ"
+
+#: config/theme-options.php:3083
+#, php-format
+msgid ""
+"If an image height or width is above this threshold, it will be scaled down "
+"and used as the \"%s\"."
+msgstr ""
+"اگر ارتفاع یا یا عرض تصویر بالا تر از این حد نصاب (Threshold) باشد، پایین می "
+"آید و به عنوان  \"%s\" استفاده می شود."
+
+#: config/theme-options.php:3083
+msgid "Set \"0px\" to disable threshold."
+msgstr " \"0px\" را برای غیر فعال کردن حد نصاب (Threshold) تنظیم کنید."
+
+#: config/theme-options.php:3083
+#, php-format
+msgid "This is built-in WordPress feature, described in %sthe article%s."
+msgstr "در ویژگی وردپرس ساخته شده است، در %s مقاله %s شرح داده شده است."
+
+#: config/theme-options.php:3096
+msgid "Unused Thumbnails"
+msgstr "بندانگشتی بدون استفاده"
+
+#: config/theme-options.php:3097
+msgid ""
+"When this option is ON, all image files that do not match the registered "
+"image sizes will be deleted."
+msgstr ""
+"زمانی که این گزینه فعال باشد، همه فایل تصاویری که در اندازه های تصویر ثبت "
+"شده مطابقت نداشته باشد حذف خواهد شد."
+
+#: config/theme-options.php:3097
+msgid "This is helpful for increasing free space in your storage."
+msgstr "این برای افزایش فضای آزاد در فضای ذخیره سازی شما مفید است."
+
+#: config/theme-options.php:3099
+msgid "Delete unused image thumbnails"
+msgstr "پاک کردن تصاویر بند انگشتی بدون استفاده"
+
+#: config/theme-options.php:3108
+msgctxt "Advanced Settings"
+msgid "Advanced"
+msgstr "تنظیمات پیشرفته"
+
+#: config/theme-options.php:3111
+msgid "Theme Modules"
+msgstr "ماژول های پوسته"
+
+#: config/theme-options.php:3117
+msgid "Titlebars & Sidebars"
+msgstr "نوارهای عنوان و سایدبارها"
+
+#: config/theme-options.php:3123
+msgid "Use Page Blocks for Sidebars"
+msgstr "استفاده از بلوک های صفحه در سایدبار ها"
+
+#: config/theme-options.php:3142 functions/post-types.php:140
+msgid "Media Categories"
+msgstr "دسته های مدیا"
+
+#: config/theme-options.php:3148
+msgid "Open Graph meta tags"
+msgstr "باز کردن نمودارهای متا تگ ها"
+
+#: config/theme-options.php:3154
+msgid "Schema.org markup"
+msgstr "استفاده از مارک Schema.org"
+
+#: config/theme-options.php:3159
+msgid "FAQs page"
+msgstr "صفحه FAQs"
+
+#: config/theme-options.php:3160
+#, php-format
+msgid "Selected page must contain \"%s\" element."
+msgstr "برگه منتخب باید شامل المان \"%s\" باشد."
+
+#: config/theme-options.php:3160
+msgid "Read why it may useful"
+msgstr "بخوانید که چرا ممکن است کاربردی باشد"
+
+#: config/theme-options.php:3173
+msgid "Website Performance"
+msgstr "کارایی وبسایت"
+
+#: config/theme-options.php:3179
+msgid "Lazy Load"
+msgstr "بارگذاری آهسته"
+
+#: config/theme-options.php:3180
+msgid ""
+"When this option is ON, your site will load images when they're in the "
+"viewport only."
+msgstr ""
+"هنگامی که این گزینه فعال باشد، تصاویر در زمان در دید قرار گرفتن بارگذاری "
+"خواهند شد."
+
+#: config/theme-options.php:3180 config/theme-options.php:3194
+#: config/theme-options.php:3201 config/theme-options.php:3209
+#: config/theme-options.php:3216 config/theme-options.php:3223
+#: config/theme-options.php:3231 config/theme-options.php:3239
+#: config/theme-options.php:3267
+msgid "This will improve pages loading speed."
+msgstr "افزایش سرعت بارگذاری صفحات."
+
+#: config/theme-options.php:3186
+msgid "Keep \"http/https\" in the paths to files"
+msgstr "نگه داشتن http/https از مسیر فایل ها"
+
+#: config/theme-options.php:3187
+msgid ""
+"If your site uses both \"HTTP\" and \"HTTPS\" and has some appearance "
+"issues, turn OFF this option."
+msgstr ""
+"اگر سایت شما از HTTP و HTTPS به صورت همزمان استفاده کند مسائلی به وجود خواهد "
+"آمد، این گزینه را خاموش کنید."
+
+#: config/theme-options.php:3193
+msgid "Use modern jQuery library"
+msgstr "استفاده از کتابخانه مدرن jQuery"
+
+#: config/theme-options.php:3194
+msgid ""
+"When this option is ON, the latest version of jQuery will be used instead of "
+"the one that comes with WordPress."
+msgstr ""
+"زمانی که این گزینه فعال است آخرین ورژن از کتابخانه jQuery به جای آن یکی که "
+"در وردپرس است استفاده خواهد شد."
+
+#: config/theme-options.php:3200
+msgid "Disable jQuery migrate script"
+msgstr "غیرفعال کردن انتقال اسکریپت های jQuery"
+
+#: config/theme-options.php:3201
+msgid ""
+"When this option is ON, \"jquery-migrate.min.js\" file won't be loaded in "
+"front-end."
+msgstr ""
+"هنگامی که این گزینه روشن است, \"jquery migrate.min.js\" فایل در جلو لود "
+"نخواهد شد."
+
+#: config/theme-options.php:3208
+msgid "Move jQuery scripts to the footer"
+msgstr "انتقال اسکریپت های jQuery به فوتر"
+
+#: config/theme-options.php:3209
+msgid ""
+"When this option is ON, jQuery library files will be loaded after page "
+"content."
+msgstr ""
+"هنگامی که این گزینه روشن است، فایل های کتابخانه jQuery پس از محتوای صفحه "
+"بارگذاری می شوند."
+
+#: config/theme-options.php:3215
+msgid "Dynamically load theme JS components"
+msgstr "بارگذاری داینامیک اجزای جاوااسکریپت پوسته"
+
+#: config/theme-options.php:3216
+msgid ""
+"When this option is ON, theme components JS files will be loaded dynamically "
+"without additional external requests."
+msgstr ""
+"با فعال بودن این گزینه، اجزای جاوااسکریپت پوسته به صورت پویا و بدون نیاز به "
+"درخواست های اضافی از سرور بارگذاری می شوند. (سرعت بارگذاری صفحه را بهبود می "
+"بخشد)."
+
+#: config/theme-options.php:3222
+msgid "Disable extra features of WPBakery Page Builder"
+msgstr "غیرفعال کردن ویژگی های اضافی WPBakery Page Builder"
+
+#: config/theme-options.php:3223
+msgid ""
+"When this option is ON, original CSS and JS files of WPBakery Page Builder "
+"won't be loaded in front-end."
+msgstr ""
+"هنگامی که این گزینه ON است، فایلهای اصلی CSS و JS از WPBakery Page Builder "
+"در بخش front-end آن بارگذاری نخواهند شد."
+
+#: config/theme-options.php:3230
+msgid "Disable Gutenberg (block editor) CSS files"
+msgstr "غیر فعال کردن فایل های Gutenberg ، فایل های CSS (ویرایشگر بلوک)"
+
+#: config/theme-options.php:3231
+msgid ""
+"When this option is ON, original CSS files of Gutenberg won't be loaded in "
+"front-end."
+msgstr ""
+"هنگامی که این گزینه ON است، فایلهای اصلی CSS از Gutenberg در بخش front-end "
+"آن بارگذاری نخواهند شد."
+
+#: config/theme-options.php:3238
+msgid "Optimize JS and CSS size"
+msgstr "بهینه سازی حجم CSS و جاوااسکریپت"
+
+#: config/theme-options.php:3239
+msgid ""
+"When this option is ON, your site will load single JS file and single CSS "
+"file. You can disable unused components to reduce its sizes."
+msgstr ""
+"هنگامی که این گزینه روشن است, سایت شما فقط یک فایل جاوااسکریپت و یک فایل CSS "
+"را بارگذاری خواهد کرد. شما می توانید اجزای استفاده نشده را به منظور کاهش حجم "
+"فایل، غیر فعال نمایید."
+
+#: config/theme-options.php:3245
+msgid ""
+"Your uploads folder is not writable. Change your server permissions to use "
+"this option."
+msgstr "پوشه قابل نوشتن نیست. لطفاً سطوح دسترسی سرور را تغییر دهید."
+
+#: config/theme-options.php:3266
+msgid "Merge Google Fonts styles into single CSS file"
+msgstr "ترکیب کردن استایل فونت های گوگل در فایل CSS تکی"
+
+#: config/theme-options.php:3267
+msgid ""
+"When this option is ON, Google Fonts CSS file won't be loaded separately."
+msgstr ""
+"هنگامی که این گزینه فعال است، فایل CSS فونت های گوگل جدا شده بارگذاری نمی "
+"شوند."
+
+#: config/theme-options.php:3278
+msgid "Custom Code"
+msgstr "کد دلخواه"
+
+#: config/theme-options.php:3281
+msgid "Custom CSS"
+msgstr "CSS دلخواه"
+
+#: config/theme-options.php:3282
+#, php-format
+msgid ""
+"CSS code from this field will overwrite theme styles. It will be located "
+"inside the %s tags just before the %s tag of every site page."
+msgstr ""
+"کدهای CSS از این فیلد جایگزین استایل های پوسته خواهد شد و درون تگ های %s و "
+"درست قبل از تگ %s در هر صفحه قرار خواهند گرفت."
+
+#: config/theme-options.php:3287 config/theme-options.php:3293
+#, php-format
+msgid "Code before %s"
+msgstr "کد قبل از %s"
+
+#: config/theme-options.php:3288 config/theme-options.php:3294
+#, php-format
+msgid ""
+"Use this field for Google Analytics code or other tracking code. If you "
+"paste custom JavaScript, use it inside the %s tags."
+msgstr ""
+"از این فیلد برای تجزیه و تحلیل های گوگل (Google Analytics) استفاده کنید. اگر "
+"از کدهای جاوااسکریپت استفاده می کنید، آنها را بین تگ های %s قرار دهید."
+
+#: config/theme-options.php:3288 config/theme-options.php:3294
+#, php-format
+msgid ""
+"Content from this field will be located just before the %s tag of every site "
+"page."
+msgstr "محتوای این فیلد دقیقا قبل از تگ %s در هر صفحه از سایت قرار می گیرد."
+
+#: config/theme-options.php:3302
+msgid "Manage Options"
+msgstr "مدیریت تنظیمات"
+
+#: config/theme-options.php:3305
+msgid "Reset Theme Options"
+msgstr "ریست کردن تنظیمات پوسته"
+
+#: config/theme-options.php:3309
+msgid "Backup Theme Options"
+msgstr "بکاپ تنظیمات پوسته"
+
+#: config/theme-options.php:3313
+msgid "Transfer Theme Options"
+msgstr "انتقال تنظیمات پوسته"
+
+#: config/theme-options.php:3315
+msgid ""
+"You can transfer the saved options data between different installations by "
+"copying the text inside the text box. To import data from another "
+"installation, replace the data in the text box with the one from another "
+"installation and click \"Import Options\"."
+msgstr ""
+"شما می توانید به وسیله کپی کردن متن داخل این باکس، تنظیمات ذخیره شده را بین "
+"نصب های مختلف انتقال دهید. برای وارد نمودن تنظیمات از یک نصب دیگر، باید "
+"اطلاعات موجود در باکس را با اطلاعاتی که از نصب دیگر آورده اید، جایگزین کرده "
+"و دکمه \"وارد نمودن تنظیمات\" را کلیک کنید."
+
+#: config/white-label.php:17
+msgid "Activate White Label"
+msgstr "فعالسازی لیبل سفید"
+
+#: config/white-label.php:23
+msgid "Theme Name"
+msgstr "نام قالب"
+
+#: config/white-label.php:24
+msgid ""
+"Will be shown on all admin pages, except the current one. The theme "
+"directory won't be renamed due to server security reasons."
+msgstr ""
+"در تمام صفحه های ادمین نمایش داده خواهد شد، به جز صفحه فعلی. دایرکتوری پوسته "
+"به دلایل امنیتی سرور تغییر نام نمی شود."
+
+#: config/white-label.php:30
+msgid "Theme Image"
+msgstr "تصویر پوسته"
+
+#: config/white-label.php:31
+#, php-format
+msgid "Will be shown on the \"%s\" page."
+msgstr "در صفحه \"%s\" نمایش داده خواهد شد."
+
+#: config/white-label.php:31
+msgid "Use the 4:3 aspect ratio to display correctly."
+msgstr "برای نمایش صحیح از نسبت تصویر 4:3 استفاده کنید."
+
+#: config/white-label.php:36
+msgid "Theme Menu Icon"
+msgstr "آیکن منو قالب"
+
+#: config/white-label.php:37
+msgid "Will be shown in the admin menu."
+msgstr "در منوی ادمین نمایش داده خواهد شد."
+
+#: config/widgets.php:117
+msgid "Login"
+msgstr "ورود"
+
+#: config/widgets.php:118
+msgid "Login Form"
+msgstr "فرم ورود"
+
+#: config/widgets.php:127
+msgid "Register URL"
+msgstr "آدرس صفحه ثبت نام"
+
+#: config/widgets.php:132
+msgid "Lost Password URL"
+msgstr "لینک فراموشی رمز عبور"
+
+#: config/widgets.php:137
+msgid "Login Redirect URL"
+msgstr "آدرس ریدایرکت صفحه ورود"
+
+#: config/widgets.php:142
+msgid "Logout Redirect URL"
+msgstr "آدرس ریدایرکت صفحه خروج"
+
+#: config/widgets.php:219
+msgid "By date of creation (newer first)"
+msgstr "به وسیله تاریخ ایجاد (اول جدیدترها)"
+
+#: config/widgets.php:220
+msgid "By date of creation (older first)"
+msgstr "به وسیله تاریخ به ایجاد (اول قدیمی تر)"
+
+#: config/widgets.php:221
+msgid "By date of update (newer first)"
+msgstr "به وسیله تاریخ به روزرسانی (اول جدیدترها)"
+
+#: config/widgets.php:222
+msgid "By date of update (older first)"
+msgstr "به وسیله تاریخ به روزرسانی (اول قدیمی تر)"
+
+#: config/widgets.php:310
+msgid "Custom Link Title"
+msgstr "عنوان لینک دلخواه"
+
+#: config/widgets.php:320
+msgid "Custom Link Color"
+msgstr "رنگ لینک دلخواه"
+
+#: functions/ajax/cform.php:143
+msgid "The sender has given his consent."
+msgstr "فرستنده رضایت خود را اعلام نموده است."
+
+#: functions/ajax/cform.php:144
+msgid "Agreement text"
+msgstr "متن توافقنامه"
+
+#: functions/ajax/cform.php:145
+msgid "Agreement date and time"
+msgstr "تاریخ و زمان توافقنامه"
+
+#: functions/ajax/cform.php:146
+msgid "IP address"
+msgstr "نشانیIP"
+
+#: functions/ajax/cform.php:188
+msgid "You received a message from"
+msgstr "شما یک پیام دریافت کردید از"
+
+#: functions/ajax/cform.php:195
+#, php-format
+msgid "Message from %s"
+msgstr "پیام جدید از %s"
+
+#: functions/ajax/cform.php:198
+msgid "Cannot send empty message. Please fill any of the fields."
+msgstr "پیام خالی ارسال نخواهد شد. لطفا فیلد ها را پر کنید."
+
+#: functions/ajax/cform.php:221
+msgid "Cannot send the message. Please contact the website administrator."
+msgstr "پیام نمیتواند ارسال شود. لطفا از طریق دیگری با مدیر سایت تماس بگیرید."
+
+#: functions/header.php:434
+msgid "Custom Menu"
+msgstr "منوی سفارشی"
+
+#: functions/helpers.php:1209
+msgid "Preset Fonts"
+msgstr "فونت های پیش فرض"
+
+#: functions/helpers.php:1214
+msgid "used as default font"
+msgstr "به عنوان فونت پیش فرض"
+
+#: functions/helpers.php:1221
+#, php-format
+msgid "used in Heading %s"
+msgstr "به کاررفته در عنوان %s"
+
+#: functions/helpers.php:1264 functions/helpers.php:1318
+#: usof/templates/fields/font.php:142
+msgid "Web safe font combinations (do not need to be loaded)"
+msgstr "ترکیب های فونتی مطمئن برای وب (بی نیاز از بارگذاری)"
+
+#: functions/helpers.php:1298
+msgid "No font specified"
+msgstr "فونت مشخص نشده است"
+
+#: functions/helpers.php:1301
+msgid "As in Heading 1"
+msgstr "این فونت برای عنوان ها ، المان های H و ... استفاده می شود"
+
+#: functions/helpers.php:1330 usof/templates/fields/font.php:143
+msgid "Google Fonts (loaded from Google servers)"
+msgstr "فونت های گوگل (بارگذاری شده از سرورهای گوگل)"
+
+#: functions/helpers.php:1793 functions/helpers.php:1795
+msgid "any"
+msgstr "همه"
+
+#: functions/helpers.php:1797
+msgid "cropped"
+msgstr "بریده شده"
+
+#: functions/media.php:324
+msgid "Without categories"
+msgstr "بدون دسته ها"
+
+#: functions/media.php:330
+msgid "Filter by Categories"
+msgstr "فیلتر کردن بر اساس دسته ها"
+
+#: functions/post-types.php:100 functions/post-types.php:101
+msgid "Add Testimonial"
+msgstr "افزودن نظرات مشتریان"
+
+#: functions/post-types.php:102
+msgid "Edit Testimonial"
+msgstr "ویرایش نظرات مشتریان"
+
+#: functions/post-types.php:103
+msgid "Author Photo"
+msgstr "تصویر نویسنده"
+
+#: functions/post-types.php:121
+msgid "Testimonial Categories"
+msgstr "دسته های نظرات مشتریان"
+
+#: functions/post-types.php:161 functions/post-types.php:162
+#: plugins-support/js_composer/js_composer.php:1108
+msgid "Add Grid Layout"
+msgstr "افزودن طرح شبکه ای"
+
+#: functions/post-types.php:163
+msgid "Edit Grid Layout"
+msgstr "ویرایش طرح شبکه ای"
+
+#: functions/post-types.php:186 functions/post-types.php:187
+msgctxt "site top area"
+msgid "Add Header"
+msgstr "افزودن سربرگ"
+
+#: functions/post-types.php:188
+msgctxt "site top area"
+msgid "Edit Header"
+msgstr "ویرایش سربرگ"
+
+#: functions/post-types.php:211 functions/post-types.php:212
+msgid "Add Content template"
+msgstr "افزودن قالب محتوا"
+
+#: functions/post-types.php:213 functions/post-types.php:814
+msgid "Edit Content template"
+msgstr "ویرایش قالب محتوا"
+
+#: functions/post-types.php:235 functions/post-types.php:236
+msgid "Add Page Block"
+msgstr "اضافه کردن بلوک صفحه"
+
+#: functions/post-types.php:237 functions/post-types.php:810
+msgid "Edit Page Block"
+msgstr "ویرایش بلوک صفحه"
+
+#: functions/post-types.php:718 functions/post-types.php:738
+#: functions/post-types.php:758 plugins-support/js_composer/map/vc_row.php:271
+#: plugins-support/js_composer/map/vc_row_inner.php:86
+msgid "edit in Theme Options"
+msgstr "ویرایش در تنظیمات پوسته"
+
+#: functions/post.php:350
+msgid "Archive Content template"
+msgstr "آرشیو قالب محتوا"
+
+#: functions/post.php:362
+#, php-format
+msgid "Will apply to the \"%s\" archive page."
+msgstr "به صفحه آرشیو \"%s\" افزوده خواهد شد."
+
+#: functions/post.php:372
+msgid "Pages Content template"
+msgstr "صفحه های قالب محتوا"
+
+#: functions/post.php:384
+#, php-format
+msgid "Will apply to all pages with the \"%s\" taxonomy."
+msgstr "همه صفحه ها با طبقه بندی \"%s\" افزوده خواهند شد."
+
+#: functions/shortcodes.php:274
+msgid "Add indents between items"
+msgstr "اضافه کردن تو رفتگی بین آیتم ها"
+
+#: functions/widget_areas.php:34
+msgid "Sidebar Name"
+msgstr "نام سایدبار"
+
+#: functions/widget_areas.php:35
+msgid "Add Sidebar"
+msgstr "اضافه کردن سایدبار"
+
+#: functions/widget_areas.php:38
+msgid "Do you really want to delete this sidebar?"
+msgstr "آیا واقعاً می خواهید این سایدبار را پاک کنید؟"
+
+#: functions/widget_areas.php:115
+msgid "Custom Sidebar"
+msgstr "سایدبار دلخواه"
+
+#: functions/widget_areas.php:176
+msgid "Default Sidebar"
+msgstr "سایدبار پیش فرض"
+
+#: migrations/Impreza/us_migration_5_7.php:104
+#: migrations/Zephyr/us_migration_5_4.php:104 templates/form/captcha.php:92
+msgid "Enter the equation result to proceed"
+msgstr "برای ادامه، نتیجه معادله را وارد کنید"
+
+#: plugins-support/js_composer/js_composer.php:898
+#: usof/templates/fields/icon.php:55
+msgid "Enter icon name from the list"
+msgstr "نام آیکون را از لیست وارد کنید"
+
+#: plugins-support/js_composer/js_composer.php:1105
+#, php-format
+msgctxt "Grid Layout"
+msgid "%sEdit selected%s or %screate a new one%s."
+msgstr "%s ویرایش انتخاب شده %s یا %s ایجاد یکی دیگر %s."
+
+#: plugins-support/js_composer/js_composer.php:1108
+#, php-format
+msgid "See %s"
+msgstr "مشاهده %s"
+
+#: plugins-support/js_composer/js_composer.php:1494
+#: plugins-support/js_composer/js_composer.php:1540
+msgid "Paste Row/Section"
+msgstr "چسباندن ردیف/بخش"
+
+#: plugins-support/js_composer/js_composer.php:1555
+msgid "Append Section"
+msgstr "افزودن بخش"
+
+#: plugins-support/js_composer/map/vc_column.php:117
+msgid "Sticky Column"
+msgstr "ستون چسبان"
+
+#: plugins-support/js_composer/map/vc_column.php:119
+msgid "Fix this column at the top of a page during scroll"
+msgstr "ثابت کردن این ستون در بالای صفحه در هنگام اسکرول"
+
+#: plugins-support/js_composer/map/vc_column.php:125
+msgid "Sticky Column Top Position"
+msgstr "موقعیت بالا ستون چسبان"
+
+#: plugins-support/js_composer/map/vc_column.php:126
+msgid "Set the distance from the top of a page where the column will stick."
+msgstr "تنظیم فاصله ی بالای صفحه جایی که ستون چسبیده خواهد شد."
+
+#: plugins-support/js_composer/map/vc_column.php:126
+msgid "Leave blank to use the default."
+msgstr "برای استفاده پیش فرض خالی بگذارید."
+
+#: plugins-support/js_composer/map/vc_column.php:134
+msgid "Stretched Column"
+msgstr "ستون کشیده شده"
+
+#: plugins-support/js_composer/map/vc_column.php:136
+msgid "Stretch to the screen edge"
+msgstr "کشیدن به حاشیه صفحه نمایش"
+
+#: plugins-support/js_composer/map/vc_row.php:29
+#: plugins-support/js_composer/map/vc_row_inner.php:13
+msgid "Additional gap"
+msgstr "فاصله اضافی"
+
+#: plugins-support/js_composer/map/vc_row.php:122
+#: plugins-support/js_composer/map/vc_row.php:149
+#: plugins-support/js_composer/map/vc_row.php:162
+#: plugins-support/js_composer/map/vc_row.php:178
+#: plugins-support/js_composer/map/vc_row.php:194
+#: plugins-support/js_composer/map/vc_row.php:209
+#: plugins-support/js_composer/map/vc_row.php:224
+msgid "Shape Divider"
+msgstr "جدا کننده شکل"
+
+#: plugins-support/js_composer/map/vc_row.php:130
+msgid "Tilt"
+msgstr "شیب"
+
+#: plugins-support/js_composer/map/vc_row.php:131
+msgid "Curve"
+msgstr "منحنی"
+
+#: plugins-support/js_composer/map/vc_row.php:132
+msgid "Curve (inv)"
+msgstr "منحنی (inv)"
+
+#: plugins-support/js_composer/map/vc_row.php:133
+#: plugins-support/js_composer/map/vc_tta_accordion.php:127
+msgid "Triangle"
+msgstr "مثلث"
+
+#: plugins-support/js_composer/map/vc_row.php:134
+msgid "Triangle (inv)"
+msgstr "مثلث (inv)"
+
+#: plugins-support/js_composer/map/vc_row.php:135
+msgid "Triangle 2"
+msgstr "مثلث 2"
+
+#: plugins-support/js_composer/map/vc_row.php:136
+msgid "Triangle 2 (inv)"
+msgstr "مثلث 2 (inv)"
+
+#: plugins-support/js_composer/map/vc_row.php:137
+msgid "Wave"
+msgstr "موج"
+
+#: plugins-support/js_composer/map/vc_row.php:138
+msgid "Zigzag"
+msgstr "زیگ زاگ"
+
+#: plugins-support/js_composer/map/vc_row.php:200
+msgid "Overlap the content of this Row"
+msgstr "همپوشانی محتوای این ردیف"
+
+#: plugins-support/js_composer/map/vc_row.php:215
+msgid "Flip horizontally"
+msgstr "چرخش افقی"
+
+#: plugins-support/js_composer/map/vc_row.php:247
+#: plugins-support/js_composer/map/vc_row_inner.php:63
+msgid "Columns Content Position"
+msgstr "پوزیشن محتوای ستون ها"
+
+#: plugins-support/js_composer/map/vc_row.php:261
+#: plugins-support/js_composer/map/vc_row_inner.php:77
+msgid "Improves appearance of columns with background"
+msgstr "بهبود ظاهر ستون ها با پس زمینه"
+
+#: plugins-support/js_composer/map/vc_row.php:263
+#: plugins-support/js_composer/map/vc_row_inner.php:79
+msgid "Add extra padding around columns content"
+msgstr "اضافه کردن فاصله داخلی بیشتر در اطراف محتوای ستون ها"
+
+#: plugins-support/js_composer/map/vc_row.php:271
+#: plugins-support/js_composer/map/vc_row_inner.php:86
+msgid "The last column will be shown on the top."
+msgstr "آخرین ستون در بالا نمایش داده خواهد شد."
+
+#: plugins-support/js_composer/map/vc_row.php:271
+#: plugins-support/js_composer/map/vc_row_inner.php:86
+#, php-format
+msgid "Applied when the screen width is less than %s"
+msgstr "اعمال می شود هنگامی که عرض صفحه نمایش کمتر است از %s"
+
+#: plugins-support/js_composer/map/vc_row.php:273
+#: plugins-support/js_composer/map/vc_row_inner.php:88
+msgid "Reverse order for columns stacking"
+msgstr "برعکس کردن ترتیب ستون ها در جابجایی"
+
+#: plugins-support/js_composer/map/vc_row.php:281
+msgid "Row Height"
+msgstr "ارتفاع ردیف"
+
+#: plugins-support/js_composer/map/vc_row.php:284
+msgid "Default from Theme Options"
+msgstr "پیش فرض از تنظیمات پوسته"
+
+#: plugins-support/js_composer/map/vc_row.php:297
+msgid "Row Content Position"
+msgstr "موقعیت محتوای ردیف"
+
+#: plugins-support/js_composer/map/vc_row.php:312
+msgid "Stretch content of this row to the screen width"
+msgstr "محتوای این ردیف را به پهنای صفحه نمایش بکشید"
+
+#: plugins-support/js_composer/map/vc_row.php:319
+msgid "Row Color Style"
+msgstr "استایل رنگ ردیف"
+
+#: plugins-support/js_composer/map/vc_row.php:391
+msgid "Parallax Effect"
+msgstr "افکت پارالاکس"
+
+#: plugins-support/js_composer/map/vc_row.php:427
+msgid "Parallax Background Width"
+msgstr "عرض پس زمینه پارالاکس"
+
+#: plugins-support/js_composer/map/vc_row.php:443
+msgid "Reverse Vertical Parallax Effect"
+msgstr "برعکس کردن افکت پارالاکس عمودی"
+
+#: plugins-support/js_composer/map/vc_row.php:456
+msgid "Show on background"
+msgstr "نمایش در پس زمینه"
+
+#: plugins-support/js_composer/map/vc_row.php:473
+msgid "Link to YouTube, Vimeo or video file (mp4, webm, ogg)"
+msgstr "لینک به فایل ویدئویی (mp4, webm, ogg)"
+
+#: plugins-support/js_composer/map/vc_row.php:481
+msgid "Hide video at width"
+msgstr "مخفی کردن ویدئو در عرض"
+
+#: plugins-support/js_composer/map/vc_row.php:482
+msgid ""
+"When screen width is less than this value, background video will be hidden"
+msgstr ""
+"زمانی که عرض صفحه نمایش کمتر از این مقدار باشد، پس زمینه ویدئو مخفی خواهد شد"
+
+#: plugins-support/js_composer/map/vc_row.php:541
+msgid "Sticky Row"
+msgstr "ردیف چسبان"
+
+#: plugins-support/js_composer/map/vc_row.php:543
+msgid "Fix this row at the top of a page during scroll"
+msgstr "ثابت کردن این ردیف در بالای صفحه در هنگام اسکرول"
+
+#: plugins-support/js_composer/map/vc_row.php:557
+msgid ""
+"Background Image, Background Video, Background Overlay settings located "
+"below will override the settings located at \"Background\" and \"Effect\" "
+"tabs."
+msgstr ""
+"تصویر پس زمینه، ویدوئو پس زمینه و تنظیمات هم پوشانی پس زمینه که در زیر قرار "
+"دارند، تمام تنظیماتی را که در تب \"پس زمینه\" و \"افکت\" قرار دارند را "
+"بازنویسی می کنند. (خودشان جایگزین می شوند)."
+
+#: plugins-support/js_composer/map/vc_tta_accordion.php:69
+msgid "Allow several sections to be opened at the same time"
+msgstr "اجازه دهید چندین بخش همزمان باز باشند"
+
+#: plugins-support/js_composer/map/vc_tta_accordion.php:77
+msgid "Remove left and right indents"
+msgstr "پاک کردن تو رفتگی راست و چپ"
+
+#: plugins-support/js_composer/map/vc_tta_accordion.php:85
+msgid "Scroll to the beginning of the section when opening"
+msgstr "هنگام باز کردن به ابتدای بخش بروید"
+
+#: plugins-support/js_composer/map/vc_tta_accordion.php:91
+msgid "Title Alignment"
+msgstr "ترازبندی عنوان"
+
+# یک علامت شبیه به 2تا فلش رو به بالا یا پایینه! به نظرم بهترین حالت همینه که اسم خودش رو بذاریم!
+#: plugins-support/js_composer/map/vc_tta_accordion.php:125
+#, fuzzy
+msgid "Chevron"
+msgstr "شورون (Chevron)"
+
+#: plugins-support/js_composer/map/vc_tta_accordion.php:126
+msgid "Plus"
+msgstr "به علاوه"
+
+#: plugins-support/js_composer/map/vc_tta_section.php:53
+msgid "Show this section open"
+msgstr "نمایش این بخش باز"
+
+#: plugins-support/js_composer/map/vc_tta_section.php:60
+msgid "Stretch this section content to the full available area"
+msgstr "کشیده شدن محتوای این بخش تا عرض موجود کامل"
+
+#: plugins-support/js_composer/map/vc_tta_section.php:76
+msgid "Before title"
+msgstr "قبل از عنوان"
+
+#: plugins-support/js_composer/map/vc_tta_section.php:77
+msgid "After title"
+msgstr "بعد از عنوان"
+
+#: plugins-support/js_composer/map/vc_tta_tabs.php:67
+#: plugins-support/js_composer/map/vc_tta_tour.php:68
+msgid "Switch sections"
+msgstr "تعویض بخش ها"
+
+#: plugins-support/js_composer/map/vc_tta_tabs.php:78
+#: plugins-support/js_composer/map/vc_tta_tour.php:79
+msgid "Sections Title HTML tag"
+msgstr "تگ HTML عنوان بخش"
+
+#: plugins-support/js_composer/map/vc_tta_tabs.php:92
+#: plugins-support/js_composer/map/vc_tta_tabs.php:93
+msgid "Timeline"
+msgstr "گاهشمار"
+
+#: plugins-support/js_composer/map/vc_tta_tabs.php:102
+msgid "Stretch tabs to the full available width"
+msgstr "کشیدن تب ها تا عرض کامل موجود"
+
+#: plugins-support/js_composer/map/vc_video.php:85
+msgid "Video link"
+msgstr "لینک ویدئو"
+
+#: plugins-support/js_composer/map/vc_video.php:86
+#, php-format
+msgid "Check supported formats on %s"
+msgstr "فرمت های مورد پشتیبانی را چک کنید %s"
+
+#: plugins-support/js_composer/map/vc_video.php:96
+msgid "Hide YouTube controls while watching"
+msgstr "پنهان سازی کلیدهای کنترل یوتیوب در زمان مشاهده"
+
+#: plugins-support/js_composer/map/vc_video.php:103
+msgid "Hide Vimeo video title (only if the owner allows)"
+msgstr "پنهان سازی عنوان ویدئوی Vimeo (فقط اگر مالک آن اجازه می دهد)"
+
+#: plugins-support/js_composer/map/vc_video.php:123
+msgid "Video Alignment"
+msgstr "تراز بندی ویدئو"
+
+#: plugins-support/js_composer/map/vc_video.php:137
+msgid "Image Overlay"
+msgstr "پوشش تصویر"
+
+#: plugins-support/js_composer/map/vc_video.php:145
+msgid "Show Play icon"
+msgstr "نمایش آیکن پخش"
+
+#: templates/404.php:81
+msgid "The link you followed may be broken, or the page may have been removed."
+msgstr "لینکی که آن را دنبال می کنید خراب یا برگه حذف شده است."
+
+#: templates/comments.php:16
+msgid "Leave new"
+msgstr "ارسال دیدگاه جدید"
+
+#: templates/comments.php:82 templates/comments.php:83
+#: templates/form/password.php:87 templates/form/text.php:92
+#: templates/form/textarea.php:90
+msgid "Fill out this field"
+msgstr "این فیلد را پر کنید"
+
+#: templates/elements/grid_filter.php:72 templates/elements/grid_filter.php:78
+msgid "Filters"
+msgstr "فیلتر ها"
+
+#: templates/elements/grid_filter.php:333
+#: templates/elements/grid_filter.php:520 templates/us_grid/listing.php:211
+msgid "All"
+msgstr "همه"
+
+#: templates/elements/grid_filter.php:440
+#: templates/elements/grid_filter.php:441
+msgid "Min"
+msgstr "اصلی"
+
+#: templates/elements/grid_filter.php:446
+#: templates/elements/grid_filter.php:447
+msgid "Max"
+msgstr "حداکثر"
+
+#: templates/elements/post_author.php:101
+#, php-format
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] "%s نوشته"
+
+#: templates/elements/progbar.php:114
+#, php-format
+msgctxt "Example: 33% of 100%"
+msgid "of %s"
+msgstr "از %s"
+
+#: templates/elements/sharing.php:39
+msgid "Email this"
+msgstr "ایمیل کردن"
+
+#: templates/elements/sharing.php:42 templates/elements/sharing.php:48
+#: templates/elements/sharing.php:54 templates/elements/sharing.php:57
+#: templates/elements/sharing.php:60 templates/elements/sharing.php:63
+msgid "Share this"
+msgstr "اشتراک‌گذاری"
+
+#: templates/elements/sharing.php:45
+msgid "Tweet this"
+msgstr "توییت کردن"
+
+#: templates/elements/sharing.php:51
+msgid "Pin this"
+msgstr "سنجاق کردن"
+
+#: templates/footer.php:92
+msgid "Previous (Left arrow key)"
+msgstr "قبلی (کلید جهت چپ)"
+
+#: templates/footer.php:93
+msgid "Next (Right arrow key)"
+msgstr "بعدی (کلید جهت راست)"
+
+#: templates/footer.php:94
+msgctxt "Example: 3 of 12"
+msgid "%curr% of %total%"
+msgstr "%curr% از %total%"
+
+#: templates/form/agreement.php:66
+msgid "You need to agree with the terms to proceed"
+msgstr "برای ادامه، شما باید با قوانین موافقت کنید"
+
+#: templates/form/checkboxes.php:89 templates/form/radio.php:86
+#: templates/form/select.php:88
+msgid "Select an option"
+msgstr "انتخاب تنظیمات"
+
+#: usof/functions/ajax-menu-dropdown.php:57 usof/functions/menu-dropdown.php:30
+msgid "Dropdown Settings"
+msgstr "تنظیمات کشویی"
+
+#: usof/functions/ajax.php:35
+msgid "There's no options to save"
+msgstr "تنظیمی برای ذخیره سازی نیست"
+
+#: usof/functions/ajax.php:78 usof/templates/fields/reset.php:25
+msgid "Options were reset"
+msgstr "تنظیمات ریست شد"
+
+#: usof/functions/ajax.php:101 usof/templates/fields/backup.php:24
+msgid "Last Backup"
+msgstr "آخرین بک آپ"
+
+#: usof/functions/ajax.php:123
+msgid "There's no backup to restore"
+msgstr "بکاپی برای بازگردانی نیست"
+
+#: usof/functions/ajax.php:133
+msgid "Backup was restored"
+msgstr "بکاپ بازگردانده شد"
+
+#: usof/functions/ajax.php:273 usof/functions/ajax.php:290 usof/usof.php:415
+msgid "Add the current color to the palette"
+msgstr "افزودن رنگ فعلی به پالت رنگ"
+
+#: usof/functions/interface.php:53 usof/templates/fields/style_scheme.php:33
+msgid "Color Schemes"
+msgstr "طرح های رنگی"
+
+#: usof/functions/interface.php:116
+msgid "New"
+msgstr "جدید"
+
+#: usof/templates/field.php:103 usof/templates/fields/grid_builder.php:203
+#: usof/templates/fields/header_builder.php:269
+#: usof/templates/fields/style_scheme.php:77
+msgid "Are you sure want to delete the element?"
+msgstr "شما مطمئن به حذف این المان هستید؟"
+
+#: usof/templates/field.php:187
+msgid "Edit selected"
+msgstr "ویرایش انتخاب شده"
+
+#: usof/templates/fields/backup.php:26
+msgid "No backups yet"
+msgstr "هنوز بکاپی گرفته نشده است"
+
+#: usof/templates/fields/backup.php:29
+msgid "Backup Options"
+msgstr "بکاپ تنظیمات"
+
+#: usof/templates/fields/backup.php:36
+msgid "Restore Options"
+msgstr "بازيابي تنظيمات"
+
+#: usof/templates/fields/backup.php:40
+msgid "Are you sure want to restore options from the backup?"
+msgstr "برای بازگردانی تنظیمات از بکاپ مطمئن هستید؟"
+
+#: usof/templates/fields/check_table.php:38
+msgid "Auto Optimize"
+msgstr "بهینه سازی خودکار"
+
+#: usof/templates/fields/check_table.php:44
+msgid ""
+"The checkboxes will be checked / unchecked depending on the components and "
+"settings used on the website."
+msgstr ""
+"باکس بررسی میتواند بررسی شده/بررسی نشده باشد بستگی به مولفه ها و تنظیمات "
+"مورد استفاده در وبسایت دارد."
+
+#: usof/templates/fields/check_table.php:71
+msgid "All sizes in kilobytes"
+msgstr "همه سایزها به کیلوبایت"
+
+#: usof/templates/fields/color.php:68
+msgid "Colors from the Color Scheme"
+msgstr "رنگ ها از طرح های رنگی"
+
+#: usof/templates/fields/design_options.php:29
+#: usof/templates/fields/header_builder.php:29
+msgid "Tablets"
+msgstr "تبلت"
+
+#: usof/templates/fields/design_options.php:30
+#: usof/templates/fields/header_builder.php:30
+msgid "Mobiles"
+msgstr "موبایل"
+
+#: usof/templates/fields/grid_builder.php:69
+#: usof/templates/fields/grid_builder.php:204
+#: usof/templates/fields/header_builder.php:63
+#: usof/templates/fields/header_builder.php:270
+msgid "Add element into wrapper"
+msgstr "افزودن المان به نگهدارنده"
+
+#: usof/templates/fields/grid_builder.php:70
+#: usof/templates/fields/grid_builder.php:208
+#: usof/templates/fields/header_builder.php:64
+#: usof/templates/fields/header_builder.php:274
+msgid "Edit wrapper"
+msgstr "ویرایش نگهدارنده"
+
+#: usof/templates/fields/grid_builder.php:122
+#: usof/templates/fields/grid_builder.php:205
+#: usof/templates/fields/header_builder.php:166
+#: usof/templates/fields/header_builder.php:271
+msgid "Edit element"
+msgstr "ویرایش المان"
+
+#: usof/templates/fields/grid_builder.php:140
+#: usof/templates/fields/header_builder.php:192
+#: usof/templates/window_add.php:11
+msgid "Add element"
+msgstr "افزودن المان"
+
+#: usof/templates/fields/grid_builder.php:149
+msgid "Grid Layout Settings"
+msgstr "تنظیمات طرح شبکه ای"
+
+#: usof/templates/fields/grid_builder.php:201
+#: usof/templates/fields/header_builder.php:267
+msgid ""
+"Selected template will overwrite all your current elements and settings! Are "
+"you sure want to apply it?"
+msgstr ""
+"قالب انتخاب شده بر روی المان ها و تنظیمات فعلی بازنویسی می شود! آیا شما از "
+"این کار مطمئن هستید؟"
+
+#: usof/templates/fields/grid_builder.php:202
+#: usof/templates/fields/header_builder.php:268
+msgid ""
+"Are you sure want to change the header orientation? Some of your elements' "
+"positions may be changed"
+msgstr ""
+"آیا شما مطمئن هستید که میخواهید جهت قرارگیری سربرگ را تغییر دهید؟ موقعیت "
+"برخی از المان ها ممکن است تغییر کند"
+
+#: usof/templates/fields/grid_builder.php:246
+msgid ""
+"To import another Grid Layout replace the text in this field and click "
+"\"Import\" button."
+msgstr ""
+"برای وارد کردن یک طرح شبکه ای دیگر، متن را در این قسمت جایگزین کرده و روی "
+"دکمه «وارد کردن» کلیک کنید."
+
+#: usof/templates/fields/grid_builder.php:247
+msgid "Import Grid Layout"
+msgstr "وارد کردن طرح شبکه ای"
+
+#: usof/templates/fields/header_builder.php:201
+msgid "Hidden Elements"
+msgstr "المان های سربرگ"
+
+#: usof/templates/fields/header_builder.php:211
+msgid "General Header Settings"
+msgstr "تنظیمات عمومی سربرگ"
+
+#: usof/templates/fields/header_builder.php:212
+msgid "Top Area"
+msgstr "ناحیه بالا"
+
+#: usof/templates/fields/header_builder.php:213
+msgid "Main Area"
+msgstr "ناحیه اصلی"
+
+#: usof/templates/fields/header_builder.php:214
+msgid "Bottom Area"
+msgstr "ناحیه پایین"
+
+#: usof/templates/fields/header_builder.php:304
+msgid "Header Export / Import"
+msgstr "درون‌ریزی و برون‌ریزی سربرگ"
+
+#: usof/templates/fields/header_builder.php:305
+msgid ""
+"You can export the saved Header by copying the text inside this field. To "
+"import another Header replace the text in this field and click \"Import "
+"Header\" button."
+msgstr ""
+"می توانید سربرگ را به وسیله کپی کردن متن داخل این فیلد، ذخیره کنید. برای "
+"وارد کردن یک سربرگ دیگر، متن را در این قسمت جایگزین کنید و روی دکمه «وارد "
+"کردن سربرگ» کلیک کنید."
+
+#: usof/templates/fields/header_builder.php:306
+msgid "Import Header"
+msgstr "درون ریزی سربرگ"
+
+#: usof/templates/fields/reset.php:19
+msgid "Reset Options"
+msgstr "ریست تنظیمات"
+
+#: usof/templates/fields/reset.php:24
+msgid "Are you sure want to reset all the options to default values?"
+msgstr "مطمئن هستید که می خواهید تنظیمات را به حالت پیش فرض برگردانید؟"
+
+#: usof/templates/fields/slider.php:81
+msgid "No units"
+msgstr "بدون واحد"
+
+#: usof/templates/fields/style_scheme.php:40
+msgid "Save current colors as"
+msgstr "ذخیره رنگ های جاری به عنوان"
+
+#: usof/templates/fields/style_scheme.php:41
+msgid "Color Scheme Name"
+msgstr "نام طرح رنگی"
+
+#: usof/templates/fields/style_scheme.php:43
+msgctxt "color scheme"
+msgid "Save as new"
+msgstr "ذخیره به عنوان جدید"
+
+#: usof/templates/fields/transfer.php:20
+msgctxt "verb"
+msgid "Import Options"
+msgstr "تنظیمات درون ریزی"
+
+#: usof/templates/fields/transfer.php:24
+msgid "Wrong import data format"
+msgstr "فرمت اشتباه"
+
+#: usof/templates/fields/transfer.php:25
+msgid "Options imported"
+msgstr "تنظیمات دورن ریزی شدند"
+
+#: usof/templates/window_header_templates.php:29
+msgid "Header Templates"
+msgstr "قالب های سربرگ"
+
+#: usof/usof.php:422
+msgctxt "color type"
+msgid "Solid"
+msgstr "ساده"
+
+#: usof/usof.php:426
+msgctxt "color type"
+msgid "Gradient"
+msgstr "گرادیانت"
+
+#: usof/usof.php:432
+msgid "Angle"
+msgstr "زاویه"
+
+#: widgets/us_blog.php:137 widgets/us_portfolio.php:144
+msgid "Display Items of selected categories"
+msgstr "نمایش آیتم ها از دسته های انتخاب شده"
+
+#. Plugin Name of the plugin/theme
+msgid "UpSolution Core"
+msgstr "هسته شرکت UpSolution (شرکت سازنده قالب)"
+
+#. Plugin URI of the plugin/theme
+msgid "https://help.us-themes.com/impreza/us-core/"
+msgstr "https://help.us-themes.com/impreza/us-core/"
+
+#. Description of the plugin/theme
+msgid "Adds plenty of features for Impreza and Zephyr themes."
+msgstr "اضافه نمودن تعداد زیادی ویژگی به پوسته های زفایر و ایمپرزا."
+
+#. Author of the plugin/theme
+msgid "UpSolution"
+msgstr "UpSolution شرکت سازنده قالب"
+
+#. Author URI of the plugin/theme
+msgid "https://us-themes.com/"
+msgstr "https://us-themes.com/"
+
+#~ msgid "Revolution Sliders"
+#~ msgstr "اسلایدر روولوشن"
+
+#~ msgid "Base Components"
+#~ msgstr "اجزاء پایه"
+
+#~ msgid "Popups"
+#~ msgstr "پنجره های بازشو"
+
+#~ msgid "Content Elements"
+#~ msgstr "المان های محتوا"
+
+#~ msgid "Buttons"
+#~ msgstr "دکمه ها"
+
+#~ msgid "Product \"%s\" block"
+#~ msgstr "بلوک \"%s\" محصول"
+
+#~ msgid "Links Menu"
+#~ msgstr "منوی لینک ها"
+
+#~ msgid "Font Size on Tablets"
+#~ msgstr "اندازه فونت در تبلت ها"
+
+#~ msgid "Items Indents on Tablets"
+#~ msgstr "تو رفتگی آیتم ها در تبلت ها"
+
+#~ msgid "Items Indents on Mobiles"
+#~ msgstr "تو رفتگی آیتم ها در موبایل"
+
+#~ msgid "Size on Tablets"
+#~ msgstr "اندازه در تبلت ها"
+
+#~ msgid "Set a width"
+#~ msgstr "تعیین عرض"
+
+#~ msgid "Set a maximum width"
+#~ msgstr "تعیین عرض حداکثری"
+
+#~ msgid "Cart"
+#~ msgstr "سبد خرید"
+
+#~ msgid "Title Color"
+#~ msgstr "رنگ عنوان"
+
+#~ msgid "Map Height (pixels)"
+#~ msgstr "ارتفاع نقشه (پیکسل)"
+
+#~ msgid "This color will be visible when map layer has not yet loaded."
+#~ msgstr ""
+#~ "این رنگ قابل نمایش خواهد شد وقتی که لایه نقشه هنوز بارگذاری نشده است."
+
+#~ msgid "Alphabetically"
+#~ msgstr "بر اساس الفبا"
+
+#~ msgid "Default Sizes"
+#~ msgstr "اندازه های پیش فرض"
+
+#~ msgid "Sizes in the Sticky Header"
+#~ msgstr "اندازه ها در سربرگ چسبان"
+
+#~ msgid "Flip the whole part"
+#~ msgstr "چرخش کل"
+
+#~ msgid "Flip character by character"
+#~ msgstr "چرخش حرف به حرف"
+
+#~ msgid "Dropdown Behavior"
+#~ msgstr "رفتار منوی بازشو"
+
+#~ msgid ""
+#~ "When this option is OFF, mobile menu dropdown will be shown by click on "
+#~ "an arrow only."
+#~ msgstr ""
+#~ "هنگامی که این گزینه خاموش است, منوی کرکره ای موبایل، فقط با کلیک بر روی "
+#~ "فلش نمایش داده می شود."
+
+#~ msgid "Page Title"
+#~ msgstr "عنوان صفحه"
+
+#~ msgid "Show the next text in the same line"
+#~ msgstr "نمایش متن بعدی در همان خط"
+
+#~ msgid "Show archive pages description"
+#~ msgstr "نمایش توضیحات صفحات بایگانی"
+
+#~ msgid "Full Width"
+#~ msgstr "تمام عرض"
+
+#~ msgid "Add a transparent gradient to the background"
+#~ msgstr "اضافه کردن گرادیینت (gradient) شفاف به پس زمینه"
+
+#~ msgid "Hide the element when the screen width is less than"
+#~ msgstr "پنهان کردن عنصر زمانی که عرض صفحه نمایش کمتر است از"
+
+#~ msgid "Custom Width"
+#~ msgstr "عرض دلخواه"
+
+#~ msgid "Line height on Tablets"
+#~ msgstr "ارتفاع خط در تبلت"
+
+#~ msgid "Classic"
+#~ msgstr "کلاسیک"
+
+#~ msgid "Tiles"
+#~ msgstr "موزاییکی (تایل)"
+
+#~ msgid "Side Image"
+#~ msgstr "تصویر اسلاید"
+
+#~ msgid "Invert dropdown direction"
+#~ msgstr "معکوس نمودن جهت لیست کشویی"
+
+#~ msgid "Dropdown Columns"
+#~ msgstr "ستون های کشویی"
+
+#~ msgid "Dropdown Padding"
+#~ msgstr "فاصله داخلی کشویی"
+
+#~ msgid "Portfolio Pages"
+#~ msgstr "برگه های نمونه کارها"
+
+#~ msgid "Read about %simage sizes and how to use them%s."
+#~ msgstr "درباره %s اندازه تصاویر و چگونگی استفاده از آنها %s بخوانید."
+
+#~ msgid "\"Back to top\" Button"
+#~ msgstr "دکمه بازگشت به بالا"
+
+#~ msgid "Text in transparent header"
+#~ msgstr "متن در سربرگ شفاف"
+
+#~ msgid "Link on hover in transparent header"
+#~ msgstr "لینک در حالت شناور در سربرگ شفاف"
+
+#~ msgid "Active Menu Item Background in transparent header"
+#~ msgstr "پس زمینه آیتم فعال در منو در سربرگ شفاف"
+
+#~ msgid "Active Menu Item Text in transparent header"
+#~ msgstr "رنگ متن آیتم فعال در منو"
+
+#~ msgid "Menu Button Background"
+#~ msgstr "پس زمینه دکمه منو"
+
+#~ msgid "Menu Button Text"
+#~ msgstr "متن دکمه منو"
+
+#~ msgid "Menu Button Hover Background"
+#~ msgstr "پس زمینه دکمه منو در حالت شناور"
+
+#~ msgid "Menu Button Hover Text"
+#~ msgstr "متن دکمه منو در حالت شناور"
+
+#~ msgid "Bottom Footer colors"
+#~ msgstr "رنگ های فوتر پایین"
+
+#~ msgid "Display as slider"
+#~ msgstr "نمایش اسلایدر"
+
+#~ msgid "Defer Google Fonts loading"
+#~ msgstr "تاخیر در بارگذاری فونت های گوگل"
+
+#~ msgid "For better compatibility with caching plugins."
+#~ msgstr "برای سازگاری بهتر با افزونه های ذخیره سازی."
+
+#~ msgid "Site Header %d"
+#~ msgstr "سربرگ سایت %d"
+
+#~ msgid "Phone Number"
+#~ msgstr "شماره تماس"
+
+#~ msgid "Message"
+#~ msgstr "پیام"
+
+#~ msgid "Just to prove you are a human, please solve the equation: "
+#~ msgstr "برای اثبات اینکه ربات نیستید، لطفا معادله را حل کنید: "
+
+#~ msgid "Send Message"
+#~ msgstr "ارسال پیام"
+
+#~ msgid "Absolute Positioning"
+#~ msgstr "موقعیت مطلق"
+
+#~ msgid "Background Video"
+#~ msgstr "ویدئو پس زمینه"
+
+#~ msgid ""
+#~ "When screen width is less than this value, sticky row becomes not sticky."
+#~ msgstr ""
+#~ "وقتی که پهنای صفحه کمتر از این مقدار باشد، ردیف چسبان، دیگر چسبان نخواهد "
+#~ "شد."
+
+#~ msgid "Background Slider"
+#~ msgstr "اسلایدر پس زمینه"
+
+#~ msgid "Act as Toggles"
+#~ msgstr "عمل به صورت باشونده (Toggles)"
+
+#~ msgid "Select accordion navigation icon."
+#~ msgstr "انتخاب آیکون ناوبری آکاردئون."
+
+#~ msgid "Select accordion navigation icon position."
+#~ msgstr "انتخاب موقعیت آیکون ناوبری آکاردئون."
+
+#~ msgid "Max Width in pixels"
+#~ msgstr "حداکثر عرض (px)"
+
+#~ msgid "was added to your cart"
+#~ msgstr "به سبد شما اضافه شد"
+
+#~ msgid "Delete wrapper"
+#~ msgstr "حذف نگهدارنده"
+
+#~ msgid "Duplicate element"
+#~ msgstr "کپی سازی المان"
+
+#~ msgid "Delete element"
+#~ msgstr "حذف المان"
+
+#~ msgid "Welcome to %s"
+#~ msgstr "به %s خوش آمدید"
+
+#~ msgid "Online Documentation"
+#~ msgstr "آموزش آنلاین"
+
+#~ msgid "Support Portal"
+#~ msgstr "پشتیبانی"
+
+#~ msgid "%s is activated"
+#~ msgstr "%s فعال شده است"
+
+#~ msgid "%s is not activated"
+#~ msgstr "%s فعال نشده است"
+
+# این ترجمه رو هم تغییر ندادم
+#~ msgid "By activating theme license you will unlock premium options:"
+#~ msgstr ""
+#~ "این پوسته نیازی به فعال سازی ندارد. پشتیبانی و آپدیت در ابزار وردپرس"
+
+#~ msgid ""
+#~ "Theme update notifications and ability to update the theme via one click"
+#~ msgstr ""
+#~ "اطلاع رسانی به روز رسانی پوسته و توانایی به روز رسانی پوسته با یک کلیک"
+
+#~ msgid "Ability to install and update premium addons via one click"
+#~ msgstr "توانایی بروزرسانی و نصب افزونه های پرمیوم تنها با یک کلیک"
+
+#~ msgid "Ability to import any of theme demos"
+#~ msgstr "توانایی وارد کردن هر یک از پوسته های دمو"
+
+#~ msgid "Don't have valid license yet?"
+#~ msgstr "هنوز لایسنی معتبر ندارید؟"
+
+#~ msgid "Purchase %s license"
+#~ msgstr "خرید %s لایسنس"
+
+#~ msgid "Install Addons"
+#~ msgstr "نصب افزونه ها"
+
+#~ msgid ""
+#~ "%s comes with popular plugins which increase theme abilities, install "
+#~ "them via one click."
+#~ msgstr ""
+#~ "%s همراه با پلاگین های محبوب که توانایی های پوسته را افزایش می دهند، آن "
+#~ "ها را با یک کلیک نصب کنید."
+
+#~ msgid "Go to Addons page"
+#~ msgstr "برو به صفحه افزونه"
+
+#~ msgid "Import Demo Content"
+#~ msgstr "درونریزی محتوای دمو"
+
+#~ msgid ""
+#~ "Installed this theme for the first time? Import demo content to build "
+#~ "your site not from scratch."
+#~ msgstr ""
+#~ "این پوسته را برای اولین بار نصب کرده اید؟ محتوای دمو را درون ریزی کنید تا "
+#~ "نیاز به ساخت سایت از صفر نباشد."
+
+#~ msgid "Go to Demo Import"
+#~ msgstr "درون ریزی اطلاعات"
+
+#~ msgid "Customize Appearance"
+#~ msgstr "شخصی سازی ظاهر"
+
+#~ msgid ""
+#~ "To customize the look of your site (colors, layouts, fonts) go to the "
+#~ "Theme Options panel."
+#~ msgstr ""
+#~ "برای سفارشی سازی ظاهر سایت خود (رنگ ها، پوسته ها، فونت ها) به پنل تنظیمات "
+#~ "پوسته بروید."
+
+#~ msgid "Go to Theme Options"
+#~ msgstr "برو به تنظیمات پوسته"
+
+#~ msgid ""
+#~ "To enable all features used by %s theme, install and activate %s plugin."
+#~ msgstr ""
+#~ "برای فعال نمودن همه ویژگی های استفاده شده در پوسته %s ، پلاگین %s را نصب "
+#~ "و فعال کنید."
+
+#~ msgid "Read more about it"
+#~ msgstr "اطلاعات بیشتر"
+
+#~ msgid "This theme recommends to use %s plugin."
+#~ msgstr "این پوسته به افزونه %s برای نصب نیاز دارد."
+
+#~ msgid "Addons"
+#~ msgstr "افزونه ها"
+
+#~ msgid "Recommended Plugins"
+#~ msgstr "افزونه هایی که توصیه می شوند"
+
+#~ msgid "<a href=\"%s\">Activate the theme</a> to install premium addons"
+#~ msgstr "<a href=\"%s\">فعال سازی پوسته</a> برای نصب افزونه های پریمیوم"
+
+#~ msgid "Activating..."
+#~ msgstr "در حال فعالسازی..."
+
+#~ msgid "Please adjust file permissions to allow plugins installation"
+#~ msgstr "لطفا مجوز فایل را برای نصب افزونه ها تنظیم کنید"
+
+#~ msgid "Save time working on your website content."
+#~ msgstr "صرفه جویی در زمان کار بر روی محتوای وب سایت شما."
+
+#~ msgid "Create interactive sliders and presentations."
+#~ msgstr "ایجاد اسلایدرهای خلاقانه و جذاب."
+
+#~ msgid "Most popular eCommerce plugin that allows you to sell anything."
+#~ msgstr ""
+#~ "محبوب ترین افزونه تجارت الکترونیک که به شما اجازه می دهد هرچیزی بفروشید."
+
+#~ msgid "Create and manage custom post types and taxonomies."
+#~ msgstr "ایجاد و مدیریت انواع نوشته ها و دسته بندی های دلخواه."
+
+#~ msgid ""
+#~ "Add fields to edit screens and display their values on website pages."
+#~ msgstr ""
+#~ "ایجاد فیلدهایی برای ویرایش صفحات نمایش و نمایش مقادیر آنها در برگه های "
+#~ "سایت."
+
+#~ msgid "Create and manage tables."
+#~ msgstr "ایجاد و مدیریت جداول."
+
+#~ msgid "Create customizable contact forms and edit the mail contents."
+#~ msgstr "ایجاد فرم های تماس قابل سفارشی سازی و ویرایش محتوای ایمیل ها."
+
+#~ msgid "Improve your website search engine optimization."
+#~ msgstr "عملکرد موتور جستجوی سایت را بهبود می بخشد."
+
+#~ msgid "Resize, optimize and compress all of your images."
+#~ msgstr "تغییر سایز، بهینه سازی و فشرده سازی همه تصاویر."
+
+#~ msgid "Improve your website pages loading speed."
+#~ msgstr "سرعت بارگذاری صفحات سایت را افزایش می دهد."
+
+#~ msgid "Backup your website files and database."
+#~ msgstr "از فایل ها و دیتابیس سایت پشتیبان بگیرید."
+
+#~ msgid "Teal Serenity"
+#~ msgstr "آرامیش تیله"
+
+#~ msgid "Default Footer"
+#~ msgstr "فوتر پیش فرض"
+
+#~ msgid "Blog Home Page"
+#~ msgstr "برگه اصلی وبلاگ"
+
+#~ msgid "Archive Pages"
+#~ msgstr "صفحات بایگانی"
